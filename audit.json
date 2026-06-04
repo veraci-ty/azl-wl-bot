@@ -34,5 +34,16 @@
     "removedAt": null,
     "active": true,
     "kind": "mvp"
+  },
+  "2447122302:mvp:sukunaMVP": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-04T20:44:40.867Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp"
   }
 }
