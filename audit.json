@@ -67,5 +67,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "2447122302:style:zantetsu": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-04T21:46:45.874Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
