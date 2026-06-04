@@ -100,5 +100,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "3217120533:style:KJ": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-04T23:07:26.097Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
