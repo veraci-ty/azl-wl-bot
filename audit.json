@@ -45,5 +45,16 @@
     "removedAt": null,
     "active": true,
     "kind": "mvp"
+  },
+  "1571986511:style:wally": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-04T21:02:03.087Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
