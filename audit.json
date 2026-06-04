@@ -89,5 +89,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "432828236:style:messi": {
+    "addedBy": {
+      "discordId": "1178603232457654332",
+      "username": "topmaybee"
+    },
+    "addedAt": "2026-06-04T22:35:11.599Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
