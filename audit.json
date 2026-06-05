@@ -290,5 +290,16 @@
     "removedAt": null,
     "active": true,
     "kind": "mvp"
+  },
+  "911303958:style:Goku": {
+    "addedBy": {
+      "discordId": "1127997764362579979",
+      "username": "freddy_yeah"
+    },
+    "addedAt": "2026-06-05T14:41:49.585Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
