@@ -191,5 +191,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "1475629413:style:exe": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-05T04:08:32.325Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
