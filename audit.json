@@ -158,5 +158,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "1974243283:style:phainon": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-05T01:27:34.296Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
