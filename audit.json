@@ -345,5 +345,16 @@
     "removedAt": null,
     "active": true,
     "kind": "mvp"
+  },
+  "3518094515:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-05T16:18:29.427Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
