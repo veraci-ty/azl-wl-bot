@@ -154,9 +154,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-06-05T01:27:14.871Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-06-05T04:02:25.294Z",
+    "active": false,
     "kind": "style"
   },
   "1974243283:style:phainon": {
