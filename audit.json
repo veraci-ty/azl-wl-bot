@@ -301,5 +301,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "3247044492:style:Goku": {
+    "addedBy": {
+      "discordId": "1127997764362579979",
+      "username": "freddy_yeah"
+    },
+    "addedAt": "2026-06-05T14:51:20.524Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
