@@ -389,5 +389,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "389160571:style:dio": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-06T00:22:01.469Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
