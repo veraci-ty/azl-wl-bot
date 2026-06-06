@@ -417,5 +417,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "3698248118:mvp:broly": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-06T03:32:00.333Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp"
   }
 }
