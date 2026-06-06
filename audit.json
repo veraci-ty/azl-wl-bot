@@ -472,5 +472,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "1475629413:mvp:sukunaMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-06T15:10:02.638Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp"
   }
 }
