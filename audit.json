@@ -275,9 +275,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-05T13:38:06.876Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-06-06T03:31:28.371Z",
+    "active": false,
     "kind": "mvp"
   },
   "3698248128:mvp:LyxBestRapper": {
