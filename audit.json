@@ -538,5 +538,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "1172470680:style:phainon": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-06-07T13:31:22.035Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
