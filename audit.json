@@ -681,5 +681,16 @@
     "removedAt": null,
     "active": true,
     "kind": "style"
+  },
+  "225469691:style:dio": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-09T15:38:04.306Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
