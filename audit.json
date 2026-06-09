@@ -695,5 +695,16 @@
     "removedAt": "2026-06-09T15:38:19.084Z",
     "active": false,
     "kind": "style"
+  },
+  "432828236:style:cinder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-09T20:57:03.535Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style"
   }
 }
