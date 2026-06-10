@@ -814,5 +814,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1911944568:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-10T19:24:50.834Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
