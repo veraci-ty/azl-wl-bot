@@ -766,5 +766,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-06-11T18:00:30.463Z"
+  },
+  "5077795305:style:dio": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-10T18:33:47.874Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
