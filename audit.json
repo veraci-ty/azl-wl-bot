@@ -800,9 +800,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-06-10T18:56:05.851Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-06-10T20:00:37.060Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-06-17T18:56:05.228Z"
   },
