@@ -1076,5 +1076,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1172470680:ost:shidou": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-06-11T14:56:19.892Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
