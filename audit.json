@@ -1249,5 +1249,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "477406337:style:izayoi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-11T19:08:02.683Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
