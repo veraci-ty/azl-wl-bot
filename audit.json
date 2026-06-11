@@ -579,14 +579,15 @@
   },
   "8118864585:style:messi": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-06-07T20:02:42.383Z",
+    "addedAt": "2026-06-11T18:57:59.233Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
-    "kind": "style"
+    "kind": "style",
+    "expiresAt": null
   },
   "994346935:ost:kiyora": {
     "addedBy": {
