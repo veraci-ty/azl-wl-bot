@@ -1409,5 +1409,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5077795305:style:zantetsu": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-11T20:40:26.450Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
