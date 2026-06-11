@@ -338,7 +338,7 @@
   },
   "titles": {
     "432828236": {
-      "tagText": "Bearer of FemMaybee",
+      "tagText": "FemMaybee",
       "tagColor": [
         [
           0,
@@ -359,7 +359,7 @@
           239
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "1911944568": {
       "tagText": "slimjim",
