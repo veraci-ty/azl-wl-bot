@@ -325,5 +325,24 @@
     ]
   },
   "commands": {},
-  "titles": {}
+  "titles": {
+    "1911944568": {
+      "tagText": "slimjim",
+      "tagColor": [
+        [
+          0,
+          255,
+          64,
+          64
+        ],
+        [
+          1,
+          180,
+          0,
+          0
+        ]
+      ],
+      "specialer": true
+    }
+  }
 }
