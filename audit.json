@@ -1034,5 +1034,20 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "476216928:style:killua": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-11T14:22:16.258Z",
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-06-11T14:22:16.258Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   }
 }
