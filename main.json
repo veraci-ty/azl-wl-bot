@@ -365,6 +365,24 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "5077795305": {
+      "tagText": "Game Scripter",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true
     }
   }
 }
