@@ -327,22 +327,23 @@
   "commands": {},
   "titles": {
     "1911944568": {
-      "tagText": "slimjim",
+      "tagText": ", The Slimjim",
       "tagColor": [
         [
           0,
           255,
-          68,
-          68
+          81,
+          81
         ],
         [
           1,
-          160,
-          0,
-          0
+          255,
+          34,
+          34
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
