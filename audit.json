@@ -726,14 +726,15 @@
   },
   "3749261239:style:izayoi": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-06-10T01:05:25.999Z",
+    "addedAt": "2026-06-11T19:44:51.484Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
-    "kind": "style"
+    "kind": "style",
+    "expiresAt": null
   },
   "10989506030:style:messi": {
     "addedBy": {
