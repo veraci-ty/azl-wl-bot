@@ -264,10 +264,14 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-05T11:48:15.292Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "style"
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-06-11T08:35:50.263Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   },
   "3698248128:mvp:broly": {
     "addedBy": {
