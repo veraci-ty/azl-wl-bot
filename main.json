@@ -348,6 +348,25 @@
         ]
       ],
       "specialer": false
+    },
+    "9248296813": {
+      "tagText": "C.C",
+      "tagColor": [
+        [
+          0,
+          174,
+          229,
+          197
+        ],
+        [
+          1,
+          174,
+          229,
+          197
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
