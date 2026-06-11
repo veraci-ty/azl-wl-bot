@@ -937,5 +937,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "5077795305:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-11T05:00:57.604Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
