@@ -1225,5 +1225,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "477406337:style:dukeerisia, izayoi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-11T19:06:51.338Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
