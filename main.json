@@ -324,5 +324,25 @@
       1974243283
     ]
   },
-  "commands": {}
+  "commands": {},
+  "titles": {
+    "619213444": {
+      "tagText": "Remrem",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true
+    }
+  }
 }
