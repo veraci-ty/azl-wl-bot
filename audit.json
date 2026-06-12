@@ -1445,5 +1445,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5077795305:style:Goku": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-12T05:01:16.220Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
