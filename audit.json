@@ -444,10 +444,14 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-06T03:32:12.494Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "mvp"
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-06-12T21:21:20.298Z",
+    "active": false,
+    "kind": "mvp",
+    "expiresAt": null
   },
   "359229539:style:Goku": {
     "addedBy": {
