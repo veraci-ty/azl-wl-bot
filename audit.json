@@ -1564,5 +1564,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "3698248118:style:cinder": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-06-12T21:39:10.934Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
