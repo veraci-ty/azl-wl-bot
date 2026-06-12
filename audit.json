@@ -1588,5 +1588,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2363080235:style:ronaldo": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-12T23:18:32.958Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-19T23:18:30.590Z"
   }
 }
