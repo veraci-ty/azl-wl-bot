@@ -429,10 +429,14 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-06T03:32:00.333Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "mvp"
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-06-12T21:21:11.071Z",
+    "active": false,
+    "kind": "mvp",
+    "expiresAt": null
   },
   "3698248118:mvp:LyxBestRapper": {
     "addedBy": {
