@@ -361,6 +361,24 @@
       ],
       "specialer": false
     },
+    "1110892370": {
+      "tagText": "Shining Star",
+      "tagColor": [
+        [
+          0,
+          255,
+          102,
+          255
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "1911944568": {
       "tagText": "slimjim",
       "tagColor": [
