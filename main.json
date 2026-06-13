@@ -483,23 +483,22 @@
       "specialer": true
     },
     "9248296813": {
-      "tagText": "C.C",
+      "tagText": "The Queen",
       "tagColor": [
         [
           0,
-          174,
-          229,
-          197
+          255,
+          193,
+          37
         ],
         [
           1,
-          174,
-          229,
-          197
+          255,
+          193,
+          37
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "5077795305": {
       "tagText": "Game Scripter",
