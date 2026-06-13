@@ -440,6 +440,30 @@
       ],
       "specialer": false
     },
+    "2447122302": {
+      "tagText": "Memokeeper of Remembrance",
+      "tagColor": [
+        [
+          0,
+          143,
+          124,
+          255
+        ],
+        [
+          0.5,
+          199,
+          166,
+          255
+        ],
+        [
+          1,
+          255,
+          182,
+          230
+        ]
+      ],
+      "specialer": true
+    },
     "9248296813": {
       "tagText": "C.C",
       "tagColor": [
