@@ -417,6 +417,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1616777481": {
+      "tagText": "Emanator of Nihility",
+      "tagColor": [
+        [
+          0,
+          138,
+          108,
+          255
+        ],
+        [
+          0.5,
+          179,
+          109,
+          255
+        ],
+        [
+          1,
+          255,
+          120,
+          200
+        ]
+      ],
+      "specialer": true
+    },
     "1911944568": {
       "tagText": "slimjim",
       "tagColor": [
