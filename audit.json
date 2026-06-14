@@ -1930,5 +1930,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "912182517:ost:rin": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-06-14T23:05:36.804Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
