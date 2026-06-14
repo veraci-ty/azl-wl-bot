@@ -1774,5 +1774,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-06-21T07:34:19.451Z"
+  },
+  "5077795305:style:phainon": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-14T09:01:00.940Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
