@@ -379,6 +379,25 @@
       ],
       "specialer": false
     },
+    "1102361643": {
+      "tagText": ", The Evil",
+      "tagColor": [
+        [
+          0,
+          253,
+          221,
+          230
+        ],
+        [
+          1,
+          253,
+          221,
+          230
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1110892370": {
       "tagText": "Shining Star",
       "tagColor": [
