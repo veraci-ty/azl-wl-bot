@@ -1966,5 +1966,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-06-22T03:42:09.474Z"
+  },
+  "1761253545:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-15T04:41:01.697Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-22T04:41:01.137Z"
   }
 }
