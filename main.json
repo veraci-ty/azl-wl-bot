@@ -357,6 +357,24 @@
     ]
   },
   "titles": {
+    "10296674": {
+      "tagText": "Bomb Devil",
+      "tagColor": [
+        [
+          0,
+          128,
+          0,
+          128
+        ],
+        [
+          1,
+          112,
+          41,
+          99
+        ]
+      ],
+      "specialer": true
+    },
     "122778137": {
       "tagText": "Sorrowful Heaven of the Morning Star",
       "tagColor": [
