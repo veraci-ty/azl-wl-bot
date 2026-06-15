@@ -2050,5 +2050,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5002914713:mvp:broly": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-15T06:51:24.034Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
