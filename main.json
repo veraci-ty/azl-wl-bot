@@ -628,6 +628,30 @@
       ],
       "specialer": false
     },
+    "1970964202": {
+      "tagText": "Ὁ τοῦ Καιλέστου Παῖς Ἄξιος",
+      "tagColor": [
+        [
+          0,
+          103,
+          49,
+          71
+        ],
+        [
+          0.5,
+          128,
+          87,
+          48
+        ],
+        [
+          1,
+          255,
+          204,
+          51
+        ]
+      ],
+      "specialer": false
+    },
     "2447122302": {
       "tagText": "Memokeeper of Remembrance",
       "tagColor": [
