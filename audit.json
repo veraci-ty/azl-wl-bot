@@ -1978,5 +1978,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-06-22T04:41:01.137Z"
+  },
+  "456484651:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-15T05:08:53.334Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
