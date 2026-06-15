@@ -376,13 +376,19 @@
       "specialer": true
     },
     "261832676": {
-      "tagText": "One Eyed Ghoul, 1000-7 ☔︎︎",
+      "tagText": "One Eyed Ghoul, 1000-7 ✂",
       "tagColor": [
         [
           0,
           255,
           255,
           255
+        ],
+        [
+          0.5,
+          102,
+          0,
+          0
         ],
         [
           1,
