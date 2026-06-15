@@ -453,6 +453,24 @@
       ],
       "specialer": true
     },
+    "1139386827": {
+      "tagText": "Accursed",
+      "tagColor": [
+        [
+          0,
+          150,
+          0,
+          150
+        ],
+        [
+          1,
+          150,
+          0,
+          150
+        ]
+      ],
+      "specialer": true
+    },
     "1376511550": {
       "tagText": "The Ultimate Fusion",
       "tagColor": [
