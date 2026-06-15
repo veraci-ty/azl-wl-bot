@@ -394,6 +394,30 @@
       ],
       "specialer": true
     },
+    "168416663": {
+      "tagText": "The Raging Storm",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
+          173,
+          216,
+          230
+        ],
+        [
+          1,
+          128,
+          0,
+          128
+        ]
+      ],
+      "specialer": true
+    },
     "261832676": {
       "tagText": "One Eyed Ghoul, 1000-7 ✂",
       "tagColor": [
