@@ -502,6 +502,30 @@
       ],
       "specialer": true
     },
+    "1282291785": {
+      "tagText": "Phantom Sixth Man",
+      "tagColor": [
+        [
+          0,
+          15,
+          183,
+          255
+        ],
+        [
+          0.5,
+          6,
+          117,
+          150
+        ],
+        [
+          1,
+          0,
+          212,
+          255
+        ]
+      ],
+      "specialer": false
+    },
     "1376511550": {
       "tagText": "The Ultimate Fusion",
       "tagColor": [
