@@ -2014,5 +2014,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-06T05:46:47.566Z"
+  },
+  "1139386827:style:exe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-15T05:51:12.747Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-17T05:51:12.097Z"
   }
 }
