@@ -729,6 +729,30 @@
         ]
       ],
       "specialer": false
+    },
+    "5865099115": {
+      "tagText": "김삿갓 ⸸ The Treasonous Wretch",
+      "tagColor": [
+        [
+          0,
+          2,
+          62,
+          138
+        ],
+        [
+          0.5,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          245,
+          251,
+          255
+        ]
+      ],
+      "specialer": false
     }
   }
 }
