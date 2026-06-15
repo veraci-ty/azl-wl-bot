@@ -358,7 +358,7 @@
   },
   "titles": {
     "10296674": {
-      "tagText": "Bomb Devil",
+      "tagText": "The Bomb Devil",
       "tagColor": [
         [
           0,
@@ -373,7 +373,8 @@
           99
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "122778137": {
       "tagText": "Sorrowful Heaven of the Morning Star",
