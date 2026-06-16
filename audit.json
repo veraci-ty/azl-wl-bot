@@ -2182,5 +2182,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "220619887:ost:rin": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-06-16T01:54:07.335Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
