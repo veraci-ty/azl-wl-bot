@@ -658,10 +658,14 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-06-08T13:20:34.328Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "style"
+    "removedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "removedAt": "2026-06-17T17:51:57.009Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   },
   "335766203:style:ronaldo": {
     "addedBy": {
