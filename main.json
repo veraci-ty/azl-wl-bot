@@ -666,25 +666,25 @@
       "specialer": false
     },
     "2447122302": {
-      "tagText": "Memokeeper of Remembrance",
+      "tagText": "The Supreme Guardian",
       "tagColor": [
         [
           0,
-          143,
-          124,
-          255
+          30,
+          58,
+          138
         ],
         [
           0.5,
-          199,
-          166,
-          255
+          96,
+          165,
+          250
         ],
         [
           1,
-          255,
-          182,
-          230
+          220,
+          238,
+          255
         ]
       ],
       "specialer": true
