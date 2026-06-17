@@ -661,13 +661,10 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-06-08T13:20:34.328Z",
-    "removedBy": {
-      "discordId": "530595571103170591",
-      "username": ".turning."
-    },
-    "removedAt": "2026-06-17T17:51:57.009Z",
-    "active": false,
+    "addedAt": "2026-06-17T22:09:27.767Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
