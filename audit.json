@@ -2269,14 +2269,11 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-06-17T15:10:59.215Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-06-17T15:16:53.305Z",
-    "active": false,
+    "addedAt": "2026-06-17T15:17:06.028Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-06-24T15:10:58.599Z"
+    "expiresAt": "2026-06-20T15:17:05.386Z"
   }
 }
