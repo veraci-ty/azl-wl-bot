@@ -2362,5 +2362,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "44272240:style:wally": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-17T18:27:12.385Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-20T18:27:11.744Z"
   }
 }
