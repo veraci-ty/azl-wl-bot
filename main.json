@@ -606,25 +606,19 @@
       "specialer": true
     },
     "1616777481": {
-      "tagText": "Emanator of Nihility",
+      "tagText": "Butterfly of Tempest",
       "tagColor": [
         [
           0,
-          138,
-          108,
-          255
-        ],
-        [
-          0.5,
-          179,
-          109,
+          224,
+          176,
           255
         ],
         [
           1,
-          255,
-          120,
-          200
+          93,
+          63,
+          211
         ]
       ],
       "specialer": true
