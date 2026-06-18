@@ -2452,5 +2452,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "432828236:mvp:broly": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-18T10:46:08.217Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
