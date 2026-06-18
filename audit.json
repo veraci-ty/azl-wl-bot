@@ -2479,5 +2479,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "432828236:style:izayoi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-06-18T11:05:43.002Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
