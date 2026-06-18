@@ -2416,5 +2416,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-06-18T23:47:32.491Z"
+  },
+  "301510950:mvp:pear": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-18T05:09:01.691Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
