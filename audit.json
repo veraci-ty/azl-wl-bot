@@ -2570,9 +2570,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-18T14:38:55.645Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-06-18T14:39:17.924Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
