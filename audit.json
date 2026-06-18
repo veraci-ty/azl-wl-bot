@@ -2743,5 +2743,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "499583934:command:cc": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-18T21:01:35.647Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
