@@ -2686,5 +2686,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "10444140562:mvp:pixelatedMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-18T14:41:55.709Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
