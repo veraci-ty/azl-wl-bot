@@ -670,19 +670,25 @@
       "specialer": true
     },
     "1616777481": {
-      "tagText": "Butterfly of Tempest",
+      "tagText": "Firefull Flyshine",
       "tagColor": [
         [
           0,
-          224,
-          176,
-          255
+          111,
+          156,
+          151
+        ],
+        [
+          0.5,
+          174,
+          205,
+          205
         ],
         [
           1,
-          93,
-          63,
-          211
+          255,
+          165,
+          0
         ]
       ],
       "specialer": true
@@ -730,25 +736,25 @@
       "specialer": false
     },
     "2447122302": {
-      "tagText": "The Supreme Guardian",
+      "tagText": "The Stellaron Vessel",
       "tagColor": [
         [
           0,
-          30,
-          58,
-          138
+          107,
+          114,
+          128
         ],
         [
           0.5,
-          96,
-          165,
-          250
+          245,
+          215,
+          110
         ],
         [
           1,
-          220,
-          238,
-          255
+          255,
+          244,
+          194
         ]
       ],
       "specialer": true
