@@ -2899,5 +2899,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260526009:command:gagamarupunch": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-06-20T11:44:31.780Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
