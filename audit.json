@@ -2839,5 +2839,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "260526009:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-06-20T11:43:36.976Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
