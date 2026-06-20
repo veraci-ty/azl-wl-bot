@@ -2851,5 +2851,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260526009:command:ball": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-06-20T11:43:45.379Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
