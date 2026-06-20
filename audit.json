@@ -2986,5 +2986,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "261832676:style:sonic": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-06-20T15:32:29.987Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
