@@ -2947,5 +2947,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260526009:command:cc": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-06-20T11:45:12.132Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
