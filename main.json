@@ -840,7 +840,7 @@
       "specialer": false
     },
     "10444140562": {
-      "tagText": "(Miss Lady Shoko",
+      "tagText": "(Miss Lady Shoko)",
       "tagColor": [
         [
           0,
@@ -849,16 +849,10 @@
           232
         ],
         [
-          0.5,
+          1,
           255,
           181,
           221
-        ],
-        [
-          1,
-          52,
-          16,
-          79
         ]
       ],
       "specialer": false
