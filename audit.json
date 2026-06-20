@@ -2621,9 +2621,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-18T14:39:40.593Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "removedAt": "2026-06-20T22:12:36.981Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
