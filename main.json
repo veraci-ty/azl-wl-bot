@@ -600,6 +600,31 @@
       ],
       "specialer": false
     },
+    "458595807": {
+      "tagText": ", Guardian of the Endless Shore",
+      "tagColor": [
+        [
+          0,
+          20,
+          45,
+          92
+        ],
+        [
+          0.5,
+          94,
+          153,
+          214
+        ],
+        [
+          1,
+          236,
+          244,
+          250
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1102361643": {
       "tagText": ", The Evil",
       "tagColor": [
