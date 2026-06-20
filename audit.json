@@ -3013,5 +3013,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1475629413:style:ronaldo": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-20T18:37:16.504Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
