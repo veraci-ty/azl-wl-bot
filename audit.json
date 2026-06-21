@@ -3214,5 +3214,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": "2026-07-19T19:49:53.543Z"
+  },
+  "1941400999:mvp:broly": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-21T21:06:54.407Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
