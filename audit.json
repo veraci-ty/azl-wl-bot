@@ -3127,5 +3127,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2292919395:style:dio": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-21T10:17:37.868Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
