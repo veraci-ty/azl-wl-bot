@@ -738,25 +738,25 @@
       "specialer": true
     },
     "1616777481": {
-      "tagText": "Firefull Flyshine",
+      "tagText": "Queen of Arcadia",
       "tagColor": [
         [
           0,
-          111,
-          156,
-          151
+          255,
+          107,
+          129
         ],
         [
           0.5,
-          174,
-          205,
-          205
+          255,
+          179,
+          193
         ],
         [
           1,
           255,
-          165,
-          0
+          255,
+          255
         ]
       ],
       "specialer": true
