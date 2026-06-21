@@ -3226,5 +3226,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1481884758:style:phainon": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-06-21T22:43:19.687Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
