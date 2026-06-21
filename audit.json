@@ -2623,13 +2623,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-06-18T14:39:40.593Z",
-    "removedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "removedAt": "2026-06-20T22:12:36.981Z",
-    "active": false,
+    "addedAt": "2026-06-21T07:00:05.642Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
