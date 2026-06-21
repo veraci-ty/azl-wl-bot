@@ -3139,5 +3139,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "521797004:style:izayoi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-21T11:08:54.054Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
