@@ -804,25 +804,25 @@
       "specialer": false
     },
     "2447122302": {
-      "tagText": "The Stellaron Vessel",
+      "tagText": "Masked Fool",
       "tagColor": [
         [
           0,
-          107,
-          114,
-          128
+          139,
+          0,
+          0
         ],
         [
           0.5,
-          245,
-          215,
-          110
+          193,
+          18,
+          31
         ],
         [
           1,
-          255,
-          244,
-          194
+          230,
+          57,
+          70
         ]
       ],
       "specialer": true
