@@ -2015,9 +2015,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-06-15T04:41:01.697Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-06-22T04:42:51.434Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-06-22T04:41:01.137Z"
   },
