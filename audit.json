@@ -3622,5 +3622,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-23T17:38:00.959Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-23T22:38:00.653Z"
   }
 }
