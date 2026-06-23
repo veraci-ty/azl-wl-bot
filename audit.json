@@ -3598,5 +3598,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2451328647:style:sonic": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "lyvn.lyrn"
+    },
+    "addedAt": "2026-06-23T16:54:29.436Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
