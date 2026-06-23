@@ -861,22 +861,22 @@
       "specialer": true
     },
     "9248296813": {
-      "tagText": "The Queen",
+      "tagText": "(Mon Chéri Rem)",
       "tagColor": [
         [
           0,
-          255,
-          193,
-          37
+          240,
+          194,
+          123
         ],
         [
           1,
-          255,
-          193,
-          37
+          240,
+          194,
+          123
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "5077795305": {
       "tagText": "Game Scripter",
