@@ -905,9 +905,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-06-11T11:23:18.550Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "removedAt": "2026-06-24T12:08:14.168Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
