@@ -3716,9 +3716,12 @@
       "username": "lyvn.lyrn"
     },
     "addedAt": "2026-06-23T23:50:57.634Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "lyvn.lyrn"
+    },
+    "removedAt": "2026-06-24T01:01:43.071Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
