@@ -3799,5 +3799,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "170510784:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-06-24T14:36:02.960Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
