@@ -3748,5 +3748,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "148947251:style:dio": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-24T08:35:16.362Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-06-24T11:35:16.077Z"
   }
 }
