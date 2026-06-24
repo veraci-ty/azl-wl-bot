@@ -764,25 +764,25 @@
       "specialer": true
     },
     "1616777481": {
-      "tagText": "Queen of Arcadia",
+      "tagText": "Queen of Hearts ♥",
       "tagColor": [
         [
           0,
-          255,
-          107,
-          129
+          128,
+          0,
+          0
         ],
         [
           0.5,
-          255,
-          179,
-          193
+          230,
+          57,
+          80
         ],
         [
           1,
-          255,
-          255,
-          255
+          128,
+          0,
+          0
         ]
       ],
       "specialer": true
