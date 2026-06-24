@@ -872,22 +872,22 @@
       "specialer": true
     },
     "9248296813": {
-      "tagText": "Mon Chéri Rem ,",
+      "tagText": "The woman",
       "tagColor": [
         [
           0,
-          240,
-          194,
-          123
+          255,
+          90,
+          95
         ],
         [
           1,
-          240,
-          194,
-          123
+          255,
+          90,
+          95
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "5077795305": {
       "tagText": "Game Scripter",
