@@ -830,25 +830,25 @@
       "specialer": false
     },
     "2447122302": {
-      "tagText": "Masked Fool",
+      "tagText": "King of Spades ♠",
       "tagColor": [
         [
           0,
-          139,
-          0,
-          0
+          20,
+          36,
+          51
         ],
         [
           0.5,
-          193,
-          18,
-          31
+          184,
+          217,
+          240
         ],
         [
           1,
-          230,
-          57,
-          70
+          20,
+          36,
+          51
         ]
       ],
       "specialer": true
