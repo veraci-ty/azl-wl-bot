@@ -674,13 +674,19 @@
       "nameaddition": true
     },
     "1057729322": {
-      "tagText": ", The Adored",
+      "tagText": "The Adored,",
       "tagColor": [
         [
           0,
-          242,
-          167,
-          194
+          232,
+          162,
+          184
+        ],
+        [
+          0.5,
+          217,
+          143,
+          168
         ],
         [
           1,
@@ -689,8 +695,7 @@
           194
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     },
     "1102361643": {
       "tagText": ", The Evil",
