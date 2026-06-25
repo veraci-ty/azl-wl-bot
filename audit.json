@@ -3889,5 +3889,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-02T00:14:48.091Z"
+  },
+  "301416925:style:Goku": {
+    "addedBy": {
+      "discordId": "1127997764362579979",
+      "username": "freddy_yeah"
+    },
+    "addedAt": "2026-06-25T07:09:50.130Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
