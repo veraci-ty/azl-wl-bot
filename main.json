@@ -985,24 +985,6 @@
         ]
       ],
       "specialer": false
-    },
-    "7360275524": {
-      "tagText": "Sorratana's Follower",
-      "tagColor": [
-        [
-          0,
-          130,
-          87,
-          17
-        ],
-        [
-          1,
-          130,
-          87,
-          17
-        ]
-      ],
-      "specialer": true
     }
   }
 }
