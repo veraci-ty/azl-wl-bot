@@ -1011,6 +1011,30 @@
         ]
       ],
       "specialer": false
+    },
+    "10994979297": {
+      "tagText": "Beautiful Destruction",
+      "tagColor": [
+        [
+          0,
+          255,
+          29,
+          141
+        ],
+        [
+          0.5,
+          224,
+          17,
+          95
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": false
     }
   }
 }
