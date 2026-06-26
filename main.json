@@ -954,7 +954,7 @@
       "specialer": true
     },
     "5077795305": {
-      "tagText": "Game Scripter",
+      "tagText": "Architect of Armageddon",
       "tagColor": [
         [
           0,
@@ -964,12 +964,13 @@
         ],
         [
           1,
-          0,
+          255,
           0,
           0
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "5865099115": {
       "tagText": "김삿갓 ⸸ The Treasonous Wretch",
