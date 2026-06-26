@@ -3986,9 +3986,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-26T11:12:56.240Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-06-26T11:13:07.812Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
