@@ -4000,5 +4000,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-03T16:37:28.240Z"
+  },
+  "494954154:style:cinder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-26T17:09:09.674Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
