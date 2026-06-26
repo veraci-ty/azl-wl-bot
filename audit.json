@@ -4024,5 +4024,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-01T17:12:26.774Z"
+  },
+  "1172470680:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-06-26T17:40:49.445Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
