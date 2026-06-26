@@ -3634,15 +3634,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-06-24T13:52:48.180Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-06-25T13:56:33.200Z",
-    "active": false,
+    "addedAt": "2026-06-26T15:26:31.442Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-06-25T13:52:47.892Z"
+    "expiresAt": "2026-06-29T15:26:31.115Z"
   },
   "1357951324:style:dio": {
     "addedBy": {
