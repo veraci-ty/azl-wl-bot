@@ -4177,5 +4177,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "42087622:style:KJ": {
+    "addedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "addedAt": "2026-06-27T20:16:10.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
