@@ -4204,5 +4204,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "329588971:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-28T00:33:29.786Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-07-05T00:33:29.521Z"
   }
 }
