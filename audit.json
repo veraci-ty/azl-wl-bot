@@ -4216,5 +4216,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-05T00:33:29.521Z"
+  },
+  "1911944568:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-06-28T01:00:47.053Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
