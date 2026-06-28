@@ -4283,9 +4283,12 @@
       "username": "geoality"
     },
     "addedAt": "2026-06-28T18:15:20.696Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-06-28T18:16:04.896Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
