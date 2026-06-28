@@ -4252,5 +4252,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "179841008:ost:global": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-28T04:48:29.322Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
