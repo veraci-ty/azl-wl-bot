@@ -4330,5 +4330,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1102361643:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-28T21:57:27.778Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
