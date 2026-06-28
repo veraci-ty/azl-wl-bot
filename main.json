@@ -635,6 +635,25 @@
       ],
       "specialer": true
     },
+    "348749124": {
+      "tagText": ", Greatest Psychic of the 21st Century",
+      "tagColor": [
+        [
+          0,
+          141,
+          141,
+          141
+        ],
+        [
+          1,
+          242,
+          242,
+          242
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "365786417": {
       "tagText": "Soul Society's Greatest Traitor",
       "tagColor": [
