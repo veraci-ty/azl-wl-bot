@@ -705,7 +705,8 @@
           24
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "406769178": {
       "tagText": "starscourge",
