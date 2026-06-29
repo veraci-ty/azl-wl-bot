@@ -1322,6 +1322,25 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "5319102072": {
+      "tagText": ", 브릭마스터 돌발행동 달인",
+      "tagColor": [
+        [
+          0,
+          238,
+          220,
+          242
+        ],
+        [
+          1,
+          230,
+          162,
+          245
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
