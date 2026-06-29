@@ -1991,9 +1991,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-06-15T03:20:34.873Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-06-29T03:21:34.396Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-06-29T03:20:34.107Z"
   },
