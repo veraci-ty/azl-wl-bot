@@ -1024,6 +1024,30 @@
       ],
       "specialer": true
     },
+    "2573434151": {
+      "tagText": "King Nasir",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
+          205,
+          127,
+          50
+        ],
+        [
+          1,
+          255,
+          215,
+          0
+        ]
+      ],
+      "specialer": true
+    },
     "3350620229": {
       "tagText": "Bright, Van der Linde's Most Trusted",
       "tagColor": [
