@@ -4369,5 +4369,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1073914804:style:ronaldo": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-06-29T10:32:13.415Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
