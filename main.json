@@ -864,7 +864,7 @@
       "nameaddition": true
     },
     "1110892370": {
-      "tagText": "Shining Star",
+      "tagText": ", the Shining Star",
       "tagColor": [
         [
           0,
@@ -879,7 +879,8 @@
           255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "1139386827": {
       "tagText": "Accursed",
