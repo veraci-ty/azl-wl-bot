@@ -4381,5 +4381,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1684644288:command:f": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-06-29T10:56:45.336Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
