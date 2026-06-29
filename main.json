@@ -1085,25 +1085,25 @@
       "specialer": false
     },
     "9248296813": {
-      "tagText": "Woman of the unknown",
+      "tagText": "unheavenly resurrected woman",
       "tagColor": [
         [
           0,
+          168,
+          85,
+          247
+        ],
+        [
+          0.5,
           233,
           213,
           255
         ],
         [
-          0.5,
+          1,
           109,
           40,
           217
-        ],
-        [
-          1,
-          168,
-          85,
-          247
         ]
       ],
       "specialer": true
