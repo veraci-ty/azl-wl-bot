@@ -1123,7 +1123,7 @@
       "specialer": true
     },
     "3845891630": {
-      "tagText": "Sximsem, Inaba's Saviour",
+      "tagText": ", Inaba's Saviour",
       "tagColor": [
         [
           0,
@@ -1138,7 +1138,8 @@
           44
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "3886437498": {
       "tagText": "Spiraling Fates",
