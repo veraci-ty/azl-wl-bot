@@ -1208,6 +1208,30 @@
         ]
       ],
       "specialer": false
+    },
+    "7454831358": {
+      "tagText": "queen of logic",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          255
+        ],
+        [
+          0.5,
+          128,
+          0,
+          0
+        ],
+        [
+          1,
+          255,
+          0,
+          255
+        ]
+      ],
+      "specialer": true
     }
   }
 }
