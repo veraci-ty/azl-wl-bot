@@ -1156,25 +1156,25 @@
       "specialer": false
     },
     "10444140562": {
-      "tagText": "the most hopeless human to ever live",
+      "tagText": "the shape that gets pressed into a shape that shapes the shape",
       "tagColor": [
         [
           0,
-          109,
-          40,
-          217
-        ],
-        [
-          0.5,
           168,
           85,
           247
         ],
         [
-          1,
+          0.5,
           233,
           213,
           255
+        ],
+        [
+          1,
+          109,
+          40,
+          217
         ]
       ],
       "specialer": true
