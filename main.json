@@ -1085,25 +1085,25 @@
       "specialer": false
     },
     "9248296813": {
-      "tagText": "unheavenly resurrected woman",
+      "tagText": "normal title",
       "tagColor": [
         [
           0,
-          168,
-          85,
-          247
-        ],
-        [
-          0.5,
           233,
           213,
           255
         ],
         [
-          1,
+          0.5,
           109,
           40,
           217
+        ],
+        [
+          1,
+          168,
+          85,
+          247
         ]
       ],
       "specialer": true
