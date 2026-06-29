@@ -1156,22 +1156,28 @@
       "specialer": false
     },
     "10444140562": {
-      "tagText": "(Miss Lady Shoko)",
+      "tagText": "the most hopeless human to ever live",
       "tagColor": [
         [
           0,
-          214,
-          255,
-          232
+          109,
+          40,
+          217
+        ],
+        [
+          0.5,
+          168,
+          85,
+          247
         ],
         [
           1,
-          255,
-          181,
-          221
+          233,
+          213,
+          255
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "10994979297": {
       "tagText": "Beautiful Destruction",
