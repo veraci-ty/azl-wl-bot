@@ -1232,6 +1232,30 @@
         ]
       ],
       "specialer": true
+    },
+    "4535295308": {
+      "tagText": "Munstycke, Lord Of the Frenzied Flame",
+      "tagColor": [
+        [
+          0,
+          225,
+          237,
+          0
+        ],
+        [
+          0.5,
+          253,
+          74,
+          29
+        ],
+        [
+          1,
+          252,
+          246,
+          69
+        ]
+      ],
+      "specialer": false
     }
   }
 }
