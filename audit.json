@@ -4447,5 +4447,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1057729322:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-29T12:23:41.795Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
