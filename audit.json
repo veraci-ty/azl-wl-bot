@@ -3640,18 +3640,15 @@
   },
   "9248296813:style:KJ": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-06-26T15:26:31.442Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-06-29T15:26:34.485Z",
-    "active": false,
+    "addedAt": "2026-06-30T18:29:39.122Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-06-29T15:26:31.115Z"
+    "expiresAt": null
   },
   "1357951324:style:dio": {
     "addedBy": {
