@@ -4523,9 +4523,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-06-30T07:58:54.052Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-06-30T08:06:34.575Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-06-30T08:03:53.794Z"
   }
