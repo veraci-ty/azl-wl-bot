@@ -4504,5 +4504,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1941400999:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-30T01:54:38.736Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
