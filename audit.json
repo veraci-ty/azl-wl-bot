@@ -3566,9 +3566,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-06-23T00:54:13.348Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-06-30T00:56:34.444Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-06-30T00:54:13.109Z"
   },
