@@ -4567,5 +4567,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "3886437498:style:izayoi": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-06-30T18:38:16.159Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-07T18:38:15.828Z"
   }
 }
