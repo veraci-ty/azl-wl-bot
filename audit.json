@@ -4591,5 +4591,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1567272813:style:exe": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "lyvn.lyrn"
+    },
+    "addedAt": "2026-06-30T21:10:34.923Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
