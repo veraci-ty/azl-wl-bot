@@ -598,6 +598,24 @@
       "specialer": true,
       "nameaddition": true
     },
+    "105481504": {
+      "tagText": "<Vagos' Pass Bot>",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          128
+        ],
+        [
+          1,
+          65,
+          105,
+          225
+        ]
+      ],
+      "specialer": true
+    },
     "122778137": {
       "tagText": "Sorrowful Heaven of the Morning Star",
       "tagColor": [
