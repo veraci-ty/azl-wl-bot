@@ -3758,9 +3758,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-06-24T07:27:47.683Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "removedAt": "2026-07-01T02:24:20.672Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
