@@ -1446,6 +1446,24 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "7874287740": {
+      "tagText": "1 F.C",
+      "tagColor": [
+        [
+          0,
+          0,
+          131,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          141
+        ]
+      ],
+      "specialer": false
     }
   }
 }
