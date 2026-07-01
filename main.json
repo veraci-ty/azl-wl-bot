@@ -1089,6 +1089,30 @@
       ],
       "specialer": true
     },
+    "2451328647": {
+      "tagText": "The Blue Blur",
+      "tagColor": [
+        [
+          0,
+          7,
+          30,
+          182
+        ],
+        [
+          0.5,
+          166,
+          208,
+          243
+        ],
+        [
+          1,
+          73,
+          126,
+          220
+        ]
+      ],
+      "specialer": true
+    },
     "2573434151": {
       "tagText": "WHAT ARE YOU DOING BRO",
       "tagColor": [
