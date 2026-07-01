@@ -4708,5 +4708,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1974243283:style:dustsbscreation": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-01T13:42:52.867Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
