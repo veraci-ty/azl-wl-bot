@@ -1142,6 +1142,31 @@
       ],
       "specialer": false
     },
+    "2292919395": {
+      "tagText": ", The Blue Lock Larper シ",
+      "tagColor": [
+        [
+          0,
+          2,
+          0,
+          36
+        ],
+        [
+          0.5,
+          9,
+          9,
+          121
+        ],
+        [
+          1,
+          0,
+          212,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "2363080235": {
       "tagText": ", The King of Heroes",
       "tagColor": [
