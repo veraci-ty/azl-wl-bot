@@ -666,7 +666,7 @@
       "specialer": true
     },
     "261832676": {
-      "tagText": "One Eyed Ghoul, 1000-7 ✂",
+      "tagText": ", One Eyed Ghoul",
       "tagColor": [
         [
           0,
@@ -675,19 +675,14 @@
           255
         ],
         [
-          0.5,
+          1,
           102,
           0,
           0
-        ],
-        [
-          1,
-          255,
-          255,
-          255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "301416925": {
       "tagText": "False Promises for Tomorrow",
