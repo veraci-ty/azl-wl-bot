@@ -4789,5 +4789,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "11207915501:ost:global": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-02T15:29:15.195Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
