@@ -3629,15 +3629,12 @@
   "170510784:style:exe": {
     "addedBy": {
       "discordId": "1066528844972048465",
-      "username": "lyvn.lyrn"
-    },
-    "addedAt": "2026-06-23T17:08:40.604Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "removedAt": "2026-07-03T02:43:29.409Z",
-    "active": false,
+    "addedAt": "2026-07-03T02:44:45.370Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
