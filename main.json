@@ -685,7 +685,8 @@
           222
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "168416663": {
       "tagText": "The Raging Storm",
