@@ -3041,9 +3041,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-06-20T15:32:29.987Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-07-04T00:11:56.829Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
