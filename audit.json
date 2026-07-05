@@ -5242,5 +5242,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "619213444:mvp:ryuvsyuta": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-05T04:08:15.000Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
