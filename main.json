@@ -1620,6 +1620,31 @@
         ]
       ],
       "specialer": false
+    },
+    "10322614437": {
+      "tagText": "The Homelander",
+      "tagColor": [
+        [
+          0,
+          179,
+          25,
+          66
+        ],
+        [
+          0.5,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          10,
+          49,
+          97
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
