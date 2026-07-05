@@ -5632,5 +5632,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-12T20:19:37.663Z"
+  },
+  "2495555075:ost:nelisagi": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-05T23:19:42.813Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
