@@ -5548,5 +5548,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "139232224:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-05T17:07:37.755Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
