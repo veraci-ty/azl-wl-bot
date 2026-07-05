@@ -1095,7 +1095,7 @@
       "specialer": true
     },
     "1172470680": {
-      "tagText": ", Worst Shidou to ever touch this game",
+      "tagText": "Worst shidou to ever touch this game",
       "tagColor": [
         [
           0,
@@ -1110,7 +1110,8 @@
           224
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "1282291785": {
       "tagText": "Phantom Sixth Man",
