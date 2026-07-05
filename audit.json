@@ -5602,15 +5602,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-07-05T20:19:19.913Z",
-    "removedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "removedAt": "2026-07-05T20:19:50.157Z",
-    "active": false,
+    "addedAt": "2026-07-05T20:20:02.099Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-07-12T20:20:01.562Z"
   },
   "458802888:command:kuon": {
     "addedBy": {
