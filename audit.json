@@ -5278,5 +5278,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-07-05T06:12:09.521Z"
+  },
+  "458595807:mvp:ryuvsyuta": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-05T05:14:02.755Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
