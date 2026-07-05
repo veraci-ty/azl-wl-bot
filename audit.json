@@ -5596,5 +5596,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "458802888:command:ball": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-05T20:19:19.913Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
