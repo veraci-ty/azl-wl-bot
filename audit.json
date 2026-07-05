@@ -5287,15 +5287,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-07-05T05:14:17.155Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-05T06:14:32.524Z",
-    "active": false,
+    "addedAt": "2026-07-05T06:16:11.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-07-05T06:14:16.758Z"
+    "expiresAt": null
   },
   "10989506030:style:dawnwalker": {
     "addedBy": {
