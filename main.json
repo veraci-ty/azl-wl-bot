@@ -936,6 +936,31 @@
       ],
       "specialer": false
     },
+    "568225745": {
+      "tagText": ", The Prodigy of the Modern Era",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          0.5,
+          218,
+          140,
+          219
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "887869308": {
       "tagText": "The Dream Of Absolution,",
       "tagColor": [
