@@ -767,6 +767,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "135921660": {
+      "tagText": ", The Ultimate Pianist",
+      "tagColor": [
+        [
+          0,
+          255,
+          130,
+          193
+        ],
+        [
+          0.5,
+          255,
+          235,
+          245
+        ],
+        [
+          1,
+          255,
+          171,
+          213
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "168416663": {
       "tagText": "The Raging Storm",
       "tagColor": [
