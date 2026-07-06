@@ -1825,6 +1825,31 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "4910771423": {
+      "tagText": ", Vampiric god The world",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          0
+        ],
+        [
+          0.5,
+          96,
+          42,
+          127
+        ],
+        [
+          1,
+          212,
+          175,
+          55
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
