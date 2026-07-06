@@ -636,7 +636,7 @@
   },
   "titles": {
     "10296674": {
-      "tagText": "Bomb Devil",
+      "tagText": ", The Bomb Devil",
       "tagColor": [
         [
           0,
@@ -646,12 +646,13 @@
         ],
         [
           1,
-          112,
-          41,
-          99
+          127,
+          0,
+          255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "29634412": {
       "tagText": ", The Final Ace",
