@@ -6052,5 +6052,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2495555075:ost:rin": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-06T22:23:10.518Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
