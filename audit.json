@@ -5920,5 +5920,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3283461778:style:dio": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-06T18:00:28.460Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
