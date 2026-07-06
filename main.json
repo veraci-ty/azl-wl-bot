@@ -1246,6 +1246,31 @@
       ],
       "specialer": false
     },
+    "1974243283": {
+      "tagText": ", Supreme Dictator of the Testers",
+      "tagColor": [
+        [
+          0,
+          139,
+          62,
+          201
+        ],
+        [
+          0.5,
+          139,
+          62,
+          201
+        ],
+        [
+          1,
+          182,
+          62,
+          201
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "2292919395": {
       "tagText": ", The Blue Lock Larper シ",
       "tagColor": [
