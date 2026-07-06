@@ -5968,5 +5968,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9248296813:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-06T18:17:11.542Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
