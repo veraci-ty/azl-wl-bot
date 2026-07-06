@@ -1723,6 +1723,31 @@
         ]
       ],
       "specialer": true
+    },
+    "10337290527": {
+      "tagText": ", Blade of the House of Spiders",
+      "tagColor": [
+        [
+          0,
+          153,
+          3,
+          3
+        ],
+        [
+          0.5,
+          22,
+          26,
+          54
+        ],
+        [
+          1,
+          16,
+          0,
+          140
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
