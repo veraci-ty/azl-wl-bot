@@ -1875,6 +1875,31 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "7709272512": {
+      "tagText": ", The Ashen Beast",
+      "tagColor": [
+        [
+          0,
+          9,
+          9,
+          121
+        ],
+        [
+          0.5,
+          212,
+          201,
+          201
+        ],
+        [
+          1,
+          242,
+          242,
+          63
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
