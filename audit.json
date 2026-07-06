@@ -5992,5 +5992,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "905300500:mvp:broly": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-06T18:29:19.567Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
