@@ -6016,5 +6016,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1727085978:ost:barou": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-07-06T19:36:38.626Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
