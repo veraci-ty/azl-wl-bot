@@ -5956,5 +5956,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9248296813:command:kaboom": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-06T18:12:42.716Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
