@@ -5800,5 +5800,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "393235591:style:exe": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-06T12:00:54.587Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
