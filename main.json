@@ -679,6 +679,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "79447025": {
+      "tagText": ", Primera Espada",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
+          196,
+          225,
+          255
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "105481504": {
       "tagText": "Vagos' Pass Bot",
       "tagColor": [
