@@ -1524,6 +1524,31 @@
       ],
       "specialer": false
     },
+    "4030695999": {
+      "tagText": ", The Dragon Princess",
+      "tagColor": [
+        [
+          0,
+          255,
+          218,
+          233
+        ],
+        [
+          0.5,
+          246,
+          164,
+          252
+        ],
+        [
+          1,
+          246,
+          134,
+          251
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "9248296813": {
       "tagText": "The woman who thinks she's normal but isnt",
       "tagColor": [
