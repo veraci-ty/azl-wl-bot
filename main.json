@@ -1922,6 +1922,25 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "4982293450": {
+      "tagText": ", The Funding Titan",
+      "tagColor": [
+        [
+          0,
+          39,
+          126,
+          254
+        ],
+        [
+          1,
+          39,
+          126,
+          254
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
