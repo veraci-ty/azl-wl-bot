@@ -6262,5 +6262,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-07T22:46:23.205Z"
+  },
+  "9248296813:ost:global": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-07T18:20:18.942Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
