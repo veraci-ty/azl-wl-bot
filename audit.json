@@ -6136,5 +6136,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-14T07:04:47.272Z"
+  },
+  "5143770396:ost:shidou": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-07T09:05:14.483Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
