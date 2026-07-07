@@ -6187,5 +6187,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-08T14:32:49.477Z"
+  },
+  "1555003238:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-07T15:55:59.507Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
