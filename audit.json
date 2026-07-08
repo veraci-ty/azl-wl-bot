@@ -6322,5 +6322,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "3518094515:command:ncd": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-08T05:07:09.525Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
