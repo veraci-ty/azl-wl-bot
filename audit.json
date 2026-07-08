@@ -6298,5 +6298,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "432828236:mvp:ryuvsyuta": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-08T01:25:29.155Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
