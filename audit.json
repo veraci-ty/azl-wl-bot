@@ -6541,5 +6541,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "148097429:style:exe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-09T13:59:36.194Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-16T13:59:35.892Z"
   }
 }
