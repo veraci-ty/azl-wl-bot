@@ -6769,5 +6769,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5344601978:mvp:LucyMvp": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-09T23:34:47.265Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
