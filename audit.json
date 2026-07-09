@@ -6404,9 +6404,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-07-08T10:37:53.189Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-07-09T09:33:46.101Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-07-09T10:37:52.870Z"
   },
