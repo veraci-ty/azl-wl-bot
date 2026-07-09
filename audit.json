@@ -6565,5 +6565,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1917581866:style:messi": {
+    "addedBy": {
+      "discordId": "742377099947540522",
+      "username": "deltafirys"
+    },
+    "addedAt": "2026-07-09T15:40:18.515Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
