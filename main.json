@@ -2051,6 +2051,31 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "7340219372": {
+      "tagText": ", the Edge Runner",
+      "tagColor": [
+        [
+          0,
+          191,
+          255,
+          181
+        ],
+        [
+          0.5,
+          31,
+          110,
+          0
+        ],
+        [
+          1,
+          246,
+          119,
+          209
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
