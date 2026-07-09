@@ -6493,5 +6493,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "11220041025:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-09T06:39:59.061Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
