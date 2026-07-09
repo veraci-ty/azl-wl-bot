@@ -6481,5 +6481,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "470711491:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-09T06:39:20.134Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
