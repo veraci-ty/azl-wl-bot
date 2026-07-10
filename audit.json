@@ -6214,15 +6214,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-07T16:01:47.569Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-07T16:34:31.758Z",
-    "active": false,
+    "addedAt": "2026-07-10T11:27:53.928Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-07-07T16:31:47.235Z"
+    "expiresAt": "2026-07-10T23:27:53.506Z"
   },
   "520623444:style:izayoi": {
     "addedBy": {
