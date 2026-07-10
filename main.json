@@ -734,22 +734,23 @@
       "nameaddition": true
     },
     "15212321": {
-      "tagText": "monkey",
+      "tagText": "Astroworld",
       "tagColor": [
         [
           0,
-          250,
-          0,
-          0
+          233,
+          168,
+          71
         ],
         [
           1,
-          250,
-          0,
-          0
+          244,
+          217,
+          115
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "29634412": {
       "tagText": ", The Final Ace",
