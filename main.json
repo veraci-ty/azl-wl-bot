@@ -1443,6 +1443,30 @@
       ],
       "specialer": true
     },
+    "1508180357": {
+      "tagText": "The Golden Tyrant",
+      "tagColor": [
+        [
+          0,
+          212,
+          175,
+          55
+        ],
+        [
+          0.5,
+          255,
+          200,
+          124
+        ],
+        [
+          1,
+          188,
+          19,
+          254
+        ]
+      ],
+      "specialer": false
+    },
     "1616777481": {
       "tagText": "Queen of Hearts ♥",
       "tagColor": [
