@@ -1607,6 +1607,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "2327164670": {
+      "tagText": "The Chess-Playing Monarch",
+      "tagColor": [
+        [
+          0,
+          179,
+          255,
+          255
+        ],
+        [
+          0.5,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          138,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "2363080235": {
       "tagText": ", The King of Heroes",
       "tagColor": [
