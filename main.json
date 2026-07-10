@@ -732,6 +732,24 @@
       "specialer": true,
       "nameaddition": true
     },
+    "15212321": {
+      "tagText": "monkey",
+      "tagColor": [
+        [
+          0,
+          250,
+          0,
+          0
+        ],
+        [
+          1,
+          250,
+          0,
+          0
+        ]
+      ],
+      "specialer": true
+    },
     "29634412": {
       "tagText": ", The Final Ace",
       "tagColor": [
