@@ -6931,14 +6931,11 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-07-10T23:36:26.254Z",
-    "removedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "removedAt": "2026-07-10T23:37:39.258Z",
-    "active": false,
+    "addedAt": "2026-07-10T23:37:52.498Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-07-17T23:37:52.127Z"
   }
 }
