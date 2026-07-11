@@ -7019,5 +7019,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "850512411:ost:sae": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-11T08:29:35.641Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
