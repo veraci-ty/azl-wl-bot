@@ -6961,5 +6961,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1616777481:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-11T02:31:31.499Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
