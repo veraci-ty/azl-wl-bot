@@ -242,10 +242,14 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-06-05T10:35:29.139Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "style"
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-07-11T06:49:07.039Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   },
   "1341452414:style:phainon": {
     "addedBy": {
