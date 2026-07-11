@@ -1299,6 +1299,24 @@
       ],
       "specialer": true
     },
+    "1084428639": {
+      "tagText": "The Dictator",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          1,
+          255,
+          0,
+          0
+        ]
+      ],
+      "specialer": false
+    },
     "1102361643": {
       "tagText": ", The Evil",
       "tagColor": [
