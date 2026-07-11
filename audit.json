@@ -6949,5 +6949,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-17T23:39:17.524Z"
+  },
+  "609340941:command:cc": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-11T01:24:00.094Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
