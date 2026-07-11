@@ -1374,7 +1374,7 @@
       "specialer": true
     },
     "1172470680": {
-      "tagText": ", Dragon God",
+      "tagText": "Dragon God",
       "tagColor": [
         [
           0,
@@ -1389,8 +1389,7 @@
           201
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "1190678596": {
       "tagText": ", The Thumb East Capo IIII",
