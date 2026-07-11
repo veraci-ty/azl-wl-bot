@@ -1098,29 +1098,22 @@
       "specialer": false
     },
     "458595807": {
-      "tagText": ", Guardian of the Endless Shore",
+      "tagText": "Haft is a furry",
       "tagColor": [
         [
           0,
-          20,
-          45,
-          92
-        ],
-        [
-          0.5,
-          94,
-          153,
-          214
+          210,
+          170,
+          200
         ],
         [
           1,
-          236,
-          244,
-          250
+          210,
+          170,
+          200
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     },
     "483667545": {
       "tagText": ", The Angel Born in Hell",
