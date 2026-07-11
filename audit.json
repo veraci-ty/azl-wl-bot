@@ -6997,5 +6997,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-12T04:14:42.096Z"
+  },
+  "379048490:mvp:broly": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-11T04:25:27.290Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
