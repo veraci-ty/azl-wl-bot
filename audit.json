@@ -7446,5 +7446,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-08-11T07:37:43.765Z"
+  },
+  "3592727358:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-12T07:37:58.376Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-11T07:37:57.973Z"
   }
 }
