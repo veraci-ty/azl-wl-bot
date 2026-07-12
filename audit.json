@@ -7262,5 +7262,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "3992609098:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-12T06:22:08.377Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-08-11T06:22:07.299Z"
   }
 }
