@@ -1217,6 +1217,31 @@
       ],
       "specialer": false
     },
+    "516412616": {
+      "tagText": ", The Apostle",
+      "tagColor": [
+        [
+          0,
+          3,
+          99,
+          43
+        ],
+        [
+          0.5,
+          255,
+          0,
+          0
+        ],
+        [
+          1,
+          3,
+          99,
+          43
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "520623444": {
       "tagText": "RODEO",
       "tagColor": [
