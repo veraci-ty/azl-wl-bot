@@ -7068,15 +7068,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-12T03:49:12.059Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-12T05:53:37.309Z",
-    "active": false,
+    "addedAt": "2026-07-12T14:15:51.907Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-07-12T05:49:11.776Z"
+    "expiresAt": null
   },
   "619213444:command:kaboom": {
     "addedBy": {
