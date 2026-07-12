@@ -1271,6 +1271,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1038030553": {
+      "tagText": ", Beholder of Scarlet Flame",
+      "tagColor": [
+        [
+          0,
+          120,
+          2,
+          2
+        ],
+        [
+          0.5,
+          255,
+          204,
+          204
+        ],
+        [
+          1,
+          125,
+          19,
+          19
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1057729322": {
       "tagText": "The Adored,",
       "tagColor": [
