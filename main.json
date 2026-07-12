@@ -1076,6 +1076,25 @@
       ],
       "specialer": true
     },
+    "394912647": {
+      "tagText": ", Death Empress",
+      "tagColor": [
+        [
+          0,
+          85,
+          85,
+          85
+        ],
+        [
+          1,
+          85,
+          85,
+          85
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "406769178": {
       "tagText": "starscourge",
       "tagColor": [
