@@ -7394,5 +7394,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2447145923:mvp:broly": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-12T07:21:53.631Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-08-11T07:21:51.928Z"
   }
 }
