@@ -1309,6 +1309,31 @@
       ],
       "specialer": true
     },
+    "905300500": {
+      "tagText": ", the Unpredictable",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          0.5,
+          0,
+          0,
+          255
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "912182517": {
       "tagText": ", Spongeboy",
       "tagColor": [
