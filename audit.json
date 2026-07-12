@@ -7055,15 +7055,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-11T13:23:51.057Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-11T13:38:38.742Z",
-    "active": false,
+    "addedAt": "2026-07-12T02:20:58.773Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-07-11T13:33:50.652Z"
+    "expiresAt": null
   },
   "619213444:command:kaboom": {
     "addedBy": {
