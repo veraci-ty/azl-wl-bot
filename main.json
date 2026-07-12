@@ -1109,7 +1109,7 @@
       "specialer": false
     },
     "458595807": {
-      "tagText": ", The Index Messenger",
+      "tagText": "The Index Messenger",
       "tagColor": [
         [
           0,
@@ -1130,8 +1130,7 @@
           205
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     },
     "483667545": {
       "tagText": ", The Angel Born in Hell",
