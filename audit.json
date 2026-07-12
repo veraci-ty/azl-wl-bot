@@ -7191,15 +7191,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-12T04:26:04.925Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-12T05:28:45.424Z",
-    "active": false,
+    "addedAt": "2026-07-12T14:17:32.347Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-07-12T05:26:04.607Z"
+    "expiresAt": "2026-07-12T15:17:27.528Z"
   },
   "2946462455:mvp:LyxBestRapper": {
     "addedBy": {
