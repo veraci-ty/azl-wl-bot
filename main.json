@@ -2373,6 +2373,31 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "5344601978": {
+      "tagText": ", the skull emoji",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          0.5,
+          128,
+          128,
+          128
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
