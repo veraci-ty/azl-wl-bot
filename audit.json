@@ -5668,9 +5668,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-07-05T20:19:37.955Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-07-12T20:23:44.766Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-07-12T20:19:37.663Z"
   },
