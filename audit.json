@@ -7821,5 +7821,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "3220148179:mvp:ryuvsyuta": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-13T20:18:15.493Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
