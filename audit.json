@@ -7680,5 +7680,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "4640746451:ost:sae": {
+    "addedBy": {
+      "discordId": "758960019114033173",
+      "username": "dustied"
+    },
+    "addedAt": "2026-07-13T13:52:48.668Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
