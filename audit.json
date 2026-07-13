@@ -6870,15 +6870,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-10T11:29:07.286Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-10T21:29:40.684Z",
-    "active": false,
+    "addedAt": "2026-07-13T18:12:01.143Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-10T21:29:06.830Z"
+    "expiresAt": "2026-07-13T20:12:00.766Z"
   },
   "4982293450:style:izayoi": {
     "addedBy": {
