@@ -1955,23 +1955,22 @@
       "nameaddition": true
     },
     "3730120158": {
-      "tagText": ", tuff aura stupid 67 boi",
+      "tagText": "REFEREE",
       "tagColor": [
         [
           0,
-          144,
-          0,
-          0
+          2,
+          217,
+          230
         ],
         [
           1,
-          144,
-          0,
-          0
+          2,
+          217,
+          230
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "3845891630": {
       "tagText": ", Inaba's Saviour",
