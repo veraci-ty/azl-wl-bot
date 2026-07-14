@@ -7845,5 +7845,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-15T02:38:28.963Z"
+  },
+  "4348260626:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-07-14T03:21:14.405Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-07-14T03:36:13.941Z"
   }
 }
