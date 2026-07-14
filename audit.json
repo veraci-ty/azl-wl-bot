@@ -7833,5 +7833,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3730120158:style:exe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-14T02:38:29.745Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-15T02:38:28.963Z"
   }
 }
