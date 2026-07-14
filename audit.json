@@ -7860,5 +7860,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": "2026-07-14T03:36:13.941Z"
+  },
+  "1471798057:ost:barou": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-07-14T04:46:23.055Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
