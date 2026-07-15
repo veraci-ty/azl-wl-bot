@@ -8016,5 +8016,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1190678596:style:KJ": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-15T11:27:03.267Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-20T11:27:02.872Z"
   }
 }
