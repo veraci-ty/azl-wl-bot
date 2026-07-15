@@ -8100,5 +8100,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1684644288:ost:sae": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-15T22:27:29.490Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
