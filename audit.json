@@ -8040,5 +8040,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-07-20T11:27:51.583Z"
+  },
+  "5077795305:style:cid": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-07-15T12:55:28.539Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
