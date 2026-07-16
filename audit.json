@@ -4269,18 +4269,15 @@
   },
   "329588971:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-06-28T00:33:29.786Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-05T00:34:20.017Z",
-    "active": false,
+    "addedAt": "2026-07-16T23:47:46.687Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-05T00:33:29.521Z"
+    "expiresAt": "2026-07-23T23:47:46.409Z"
   },
   "1911944568:style:aizen": {
     "addedBy": {
