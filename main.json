@@ -788,6 +788,25 @@
     ]
   },
   "titles": {
+    "387112417": {
+      "tagText": ", The Explosive Devil",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          150
+        ],
+        [
+          1,
+          255,
+          180,
+          160
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "4166416054": {
       "tagText": "- Twilight -",
       "tagColor": [
