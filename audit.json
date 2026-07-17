@@ -8229,5 +8229,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-08-15T19:30:05.727Z"
+  },
+  "305075883:ost:karasu": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-07-17T12:47:03.069Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
