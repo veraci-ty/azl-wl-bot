@@ -874,6 +874,30 @@
         ]
       ],
       "specialer": false
+    },
+    "9248296813": {
+      "tagText": "Remmer's manager",
+      "tagColor": [
+        [
+          0,
+          0,
+          16,
+          61
+        ],
+        [
+          0.5,
+          0,
+          71,
+          204
+        ],
+        [
+          1,
+          102,
+          242,
+          255
+        ]
+      ],
+      "specialer": false
     }
   }
 }
