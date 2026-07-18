@@ -832,6 +832,24 @@
         ]
       ],
       "specialer": true
+    },
+    "5077795305": {
+      "tagText": "Architect Of Armageddon",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": false
     }
   }
 }
