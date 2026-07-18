@@ -917,7 +917,7 @@
       "specialer": false
     },
     "9248296813": {
-      "tagText": "Remmer's manager",
+      "tagText": "Remmy's Manager",
       "tagColor": [
         [
           0,
@@ -938,7 +938,7 @@
           255
         ]
       ],
-      "specialer": false
+      "specialer": true
     }
   }
 }
