@@ -788,6 +788,24 @@
     ]
   },
   "titles": {
+    "301416925": {
+      "tagText": "Galactic Baseballer",
+      "tagColor": [
+        [
+          0,
+          42,
+          91,
+          181
+        ],
+        [
+          1,
+          160,
+          69,
+          196
+        ]
+      ],
+      "specialer": true
+    },
     "387112417": {
       "tagText": ", The Explosive Devil",
       "tagColor": [
