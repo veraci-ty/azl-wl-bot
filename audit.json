@@ -8100,18 +8100,15 @@
   },
   "1508180357:style:izayoi": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "252359230298914817",
+      "username": "stephex"
     },
-    "addedAt": "2026-07-15T17:04:25.498Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-07-18T16:00:40.353Z",
-    "active": false,
+    "addedAt": "2026-07-18T17:20:22.628Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-07-22T17:04:25.145Z"
+    "expiresAt": "2026-07-21T17:20:22.219Z"
   },
   "5639442027:ost:karasu": {
     "addedBy": {
