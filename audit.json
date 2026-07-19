@@ -8410,9 +8410,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-07-19T05:05:33.626Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-07-19T05:09:39.580Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
