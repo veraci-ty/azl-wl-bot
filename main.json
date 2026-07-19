@@ -1039,8 +1039,7 @@
           0
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     }
   }
 }
