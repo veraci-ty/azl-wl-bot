@@ -6864,15 +6864,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-07-10T04:01:10.169Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-10T08:04:32.824Z",
-    "active": false,
+    "addedAt": "2026-07-19T22:53:30.792Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-10T08:01:09.514Z"
+    "expiresAt": "2026-07-19T23:53:30.499Z"
   },
   "15212321:command:f": {
     "addedBy": {
