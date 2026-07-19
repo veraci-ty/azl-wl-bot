@@ -8080,9 +8080,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-15T13:47:21.046Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-07-19T13:51:56.965Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-07-19T13:47:20.669Z"
   },
