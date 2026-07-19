@@ -8343,5 +8343,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-08-18T02:11:56.762Z"
+  },
+  "2055143837:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-19T02:21:54.393Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-26T02:21:54.108Z"
   }
 }
