@@ -8445,5 +8445,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "8874560414:style:exe": {
+    "addedBy": {
+      "discordId": "742377099947540522",
+      "username": "deltafirys"
+    },
+    "addedAt": "2026-07-19T16:01:59.694Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
