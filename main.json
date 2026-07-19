@@ -933,6 +933,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1941400999": {
+      "tagText": "袖白雪, Sode no Shirayuki,",
+      "tagColor": [
+        [
+          0,
+          213,
+          238,
+          249
+        ],
+        [
+          0.5,
+          241,
+          251,
+          251
+        ],
+        [
+          1,
+          201,
+          251,
+          253
+        ]
+      ],
+      "specialer": true
+    },
     "4166416054": {
       "tagText": "- Twilight -",
       "tagColor": [
