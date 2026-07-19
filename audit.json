@@ -6865,9 +6865,12 @@
       "username": "v_agos"
     },
     "addedAt": "2026-07-19T22:53:30.792Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-07-19T22:57:41.758Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-07-19T23:53:30.499Z"
   },
