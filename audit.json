@@ -8532,5 +8532,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1549164509:ost:sae": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-19T19:36:13.354Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
