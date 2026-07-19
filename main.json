@@ -1022,6 +1022,25 @@
         ]
       ],
       "specialer": true
+    },
+    "8658503437": {
+      "tagText": "Tanya's Pet",
+      "tagColor": [
+        [
+          0,
+          62,
+          28,
+          0
+        ],
+        [
+          1,
+          62,
+          28,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
