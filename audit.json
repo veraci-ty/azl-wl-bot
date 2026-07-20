@@ -6798,13 +6798,10 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-07-09T16:20:37.884Z",
-    "removedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "removedAt": "2026-07-18T16:00:47.002Z",
-    "active": false,
+    "addedAt": "2026-07-20T03:38:38.108Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
