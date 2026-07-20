@@ -955,6 +955,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1147190599": {
+      "tagText": "The Voice,",
+      "tagColor": [
+        [
+          0,
+          222,
+          204,
+          100
+        ],
+        [
+          0.5,
+          255,
+          252,
+          237
+        ],
+        [
+          1,
+          176,
+          164,
+          97
+        ]
+      ],
+      "specialer": true
+    },
     "1941400999": {
       "tagText": "袖白雪, Sode no Shirayuki,",
       "tagColor": [
