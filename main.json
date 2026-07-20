@@ -937,6 +937,30 @@
       ],
       "specialer": true
     },
+    "1084428639": {
+      "tagText": ", The Ultimate Life Form",
+      "tagColor": [
+        [
+          0,
+          200,
+          107,
+          255
+        ],
+        [
+          0.5,
+          122,
+          43,
+          255
+        ],
+        [
+          1,
+          10,
+          0,
+          20
+        ]
+      ],
+      "specialer": true
+    },
     "1102361643": {
       "tagText": ", One-Eyed Owl",
       "tagColor": [
