@@ -8637,5 +8637,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5639442027:ost:shidou": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-07-20T14:07:35.346Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
