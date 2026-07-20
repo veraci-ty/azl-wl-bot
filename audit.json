@@ -8625,5 +8625,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5639442027:ost:nelisagi": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-07-20T14:07:23.683Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
