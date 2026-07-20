@@ -959,7 +959,8 @@
           20
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "1102361643": {
       "tagText": ", One-Eyed Owl",
