@@ -8556,5 +8556,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": "2026-07-19T23:40:32.590Z"
+  },
+  "5112161793:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-07-20T06:14:52.374Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
