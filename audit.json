@@ -8838,5 +8838,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1600038239:style:messi": {
+    "addedBy": {
+      "discordId": "1112511454713745548",
+      "username": "night.coded"
+    },
+    "addedAt": "2026-07-21T05:28:24.066Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
