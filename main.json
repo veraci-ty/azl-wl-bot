@@ -975,6 +975,30 @@
       ],
       "specialer": true
     },
+    "1833821907": {
+      "tagText": "FemMaybee",
+      "tagColor": [
+        [
+          0,
+          255,
+          214,
+          246
+        ],
+        [
+          0.5,
+          255,
+          183,
+          232
+        ],
+        [
+          1,
+          255,
+          207,
+          239
+        ]
+      ],
+      "specialer": false
+    },
     "1941400999": {
       "tagText": "袖白雪, Sode no Shirayuki,",
       "tagColor": [
