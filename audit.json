@@ -8806,9 +8806,12 @@
       "username": "night.coded"
     },
     "addedAt": "2026-07-21T04:25:16.662Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1112511454713745548",
+      "username": "night.coded"
+    },
+    "removedAt": "2026-07-21T05:21:49.369Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
