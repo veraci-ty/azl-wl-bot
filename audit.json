@@ -8883,5 +8883,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5639442027:ost:kaiser": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-07-22T01:05:52.826Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
