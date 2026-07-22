@@ -5961,16 +5961,13 @@
   },
   "458595807:style:aizen": {
     "addedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-07-06T15:48:09.737Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-07-21T02:03:19.831Z",
-    "active": false,
+    "addedAt": "2026-07-22T13:06:57.784Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
