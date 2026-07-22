@@ -8997,5 +8997,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "10296674:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-22T06:03:48.883Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
