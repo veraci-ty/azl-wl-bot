@@ -9069,5 +9069,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "199556729:ost:shidou": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-07-22T10:47:58.090Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
