@@ -9540,13 +9540,10 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-23T14:48:50.719Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-07-23T14:52:04.029Z",
-    "active": false,
+    "addedAt": "2026-07-23T14:52:42.326Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
