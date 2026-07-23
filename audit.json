@@ -9282,5 +9282,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1687664781:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-23T10:58:25.683Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
