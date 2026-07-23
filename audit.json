@@ -9366,5 +9366,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "261832676:style:goku": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-23T13:16:28.812Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
