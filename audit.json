@@ -9702,5 +9702,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-28T16:06:10.256Z"
+  },
+  "2979765314:style:ronaldo": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-23T17:02:26.725Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-07-30T17:02:26.360Z"
   }
 }
