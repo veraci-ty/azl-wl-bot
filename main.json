@@ -1066,7 +1066,7 @@
       "specialer": true
     },
     "1974243283": {
-      "tagText": "Faith's Servant",
+      "tagText": ", Faith's Servant",
       "tagColor": [
         [
           0,
@@ -1087,7 +1087,8 @@
           201
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "4166416054": {
       "tagText": "- Twilight -",
