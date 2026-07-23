@@ -9522,5 +9522,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "283813432:style:theexe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-23T14:48:45.187Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
