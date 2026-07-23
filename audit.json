@@ -6894,18 +6894,15 @@
   },
   "5344601978:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-07-09T16:30:45.858Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-10T16:34:32.638Z",
-    "active": false,
+    "addedAt": "2026-07-23T12:23:59.399Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-10T16:30:43.939Z"
+    "expiresAt": null
   },
   "2967151138:style:sonic": {
     "addedBy": {
