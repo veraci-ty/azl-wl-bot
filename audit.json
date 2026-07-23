@@ -9546,5 +9546,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "79447025:command:cc": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-23T14:51:38.759Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
