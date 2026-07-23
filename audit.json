@@ -7086,15 +7086,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-07-10T23:37:52.498Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-17T23:40:58.066Z",
-    "active": false,
+    "addedAt": "2026-07-23T01:06:36.658Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-17T23:37:52.127Z"
+    "expiresAt": "2026-07-30T01:06:36.355Z"
   },
   "2012552254:command:rinnoplay": {
     "addedBy": {
