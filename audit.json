@@ -9130,9 +9130,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-07-23T02:02:11.830Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-07-23T02:02:22.112Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
