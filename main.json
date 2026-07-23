@@ -1065,6 +1065,30 @@
       ],
       "specialer": true
     },
+    "1974243283": {
+      "tagText": "Vagos, Faith's Servant",
+      "tagColor": [
+        [
+          0,
+          139,
+          62,
+          201
+        ],
+        [
+          0.5,
+          139,
+          62,
+          201
+        ],
+        [
+          1,
+          182,
+          62,
+          201
+        ]
+      ],
+      "specialer": true
+    },
     "4166416054": {
       "tagText": "- Twilight -",
       "tagColor": [
