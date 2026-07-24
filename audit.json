@@ -9732,5 +9732,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-07-30T17:08:26.264Z"
+  },
+  "2747126457:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-24T17:18:01.616Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-07-24T17:33:01.292Z"
   }
 }
