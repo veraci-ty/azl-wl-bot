@@ -9771,5 +9771,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-07-29T18:21:18.180Z"
+  },
+  "135898181:style:aizen": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-24T19:30:13.746Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
