@@ -9879,5 +9879,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4166416054:mvp:nightRaiders": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-25T22:16:04.212Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
