@@ -9951,5 +9951,29 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "568225745:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-25T22:37:26.508Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
+  },
+  "10989506030:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-25T22:37:26.508Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
