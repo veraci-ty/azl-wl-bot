@@ -9903,5 +9903,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4166416054:mvp:vydiaMVP": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-25T22:17:40.248Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
