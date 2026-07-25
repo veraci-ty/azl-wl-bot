@@ -9858,5 +9858,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1102361643:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-25T22:05:19.020Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
