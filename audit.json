@@ -10317,5 +10317,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "629323666:ost:barou": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-07-26T13:17:14.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
