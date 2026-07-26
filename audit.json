@@ -268,18 +268,15 @@
   },
   "994346935:style:exe": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-06-05T11:48:15.292Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-06-11T08:35:50.263Z",
-    "active": false,
+    "addedAt": "2026-07-26T15:58:29.308Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-08-02T15:58:28.916Z"
   },
   "3698248128:mvp:broly": {
     "addedBy": {
