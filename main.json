@@ -1088,6 +1088,30 @@
       ],
       "specialer": true
     },
+    "1463007795": {
+      "tagText": "Mana",
+      "tagColor": [
+        [
+          0,
+          127,
+          0,
+          255
+        ],
+        [
+          0.5,
+          184,
+          125,
+          249
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "1833821907": {
       "tagText": "FemMaybee",
       "tagColor": [
