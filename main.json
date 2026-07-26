@@ -1367,6 +1367,31 @@
         ]
       ],
       "specialer": true
+    },
+    "8658503437": {
+      "tagText": ", The Dragon Sin of Wrath",
+      "tagColor": [
+        [
+          0,
+          255,
+          219,
+          120
+        ],
+        [
+          0.5,
+          29,
+          1,
+          43
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   }
 }
