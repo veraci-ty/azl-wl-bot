@@ -10608,5 +10608,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "998091053:style:messi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-26T18:19:05.992Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
