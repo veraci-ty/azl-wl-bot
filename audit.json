@@ -8470,9 +8470,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-19T02:30:10.743Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-07-26T02:31:58.852Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-07-26T02:30:10.464Z"
   },
