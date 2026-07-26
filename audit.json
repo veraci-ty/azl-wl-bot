@@ -9999,5 +9999,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": "2026-08-01T23:57:38.434Z"
+  },
+  "114860570:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1526746086142902444",
+      "username": "illusionated"
+    },
+    "addedAt": "2026-07-26T00:30:29.096Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
