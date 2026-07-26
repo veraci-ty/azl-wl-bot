@@ -10329,5 +10329,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "7874287740:command:kuon": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-26T13:20:15.082Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
