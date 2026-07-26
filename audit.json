@@ -10650,5 +10650,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1911944568:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-26T18:58:33.512Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
