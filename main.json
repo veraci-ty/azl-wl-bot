@@ -923,6 +923,30 @@
     ]
   },
   "titles": {
+    "150511385": {
+      "tagText": "Sin of Vanity",
+      "tagColor": [
+        [
+          0,
+          158,
+          107,
+          255
+        ],
+        [
+          0.5,
+          214,
+          16,
+          135
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "301416925": {
       "tagText": "Galactic Baseballer",
       "tagColor": [
