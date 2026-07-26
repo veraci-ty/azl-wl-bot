@@ -10191,5 +10191,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9248296813:mvp:nightRaiders": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-26T04:54:40.088Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
