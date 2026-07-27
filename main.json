@@ -969,6 +969,24 @@
       ],
       "specialer": true
     },
+    "387041454": {
+      "tagText": "Moonless Sky",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": false
+    },
     "387112417": {
       "tagText": ", The Explosive Devil",
       "tagColor": [
