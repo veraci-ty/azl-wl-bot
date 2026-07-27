@@ -8095,9 +8095,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-07-15T02:49:42.180Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-07-27T05:20:13.730Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
