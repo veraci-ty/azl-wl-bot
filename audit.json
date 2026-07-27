@@ -5977,9 +5977,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-07-06T15:48:29.695Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-07-27T05:05:23.266Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
