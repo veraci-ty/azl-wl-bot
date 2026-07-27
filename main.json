@@ -1165,25 +1165,25 @@
       "specialer": true
     },
     "1463007795": {
-      "tagText": "Mana",
+      "tagText": "StarCatcher, Mana\nPurple",
       "tagColor": [
         [
           0,
-          127,
-          0,
-          255
+          71,
+          21,
+          81
         ],
         [
           0.5,
-          184,
-          125,
-          249
+          56,
+          18,
+          146
         ],
         [
           1,
           255,
-          255,
-          255
+          24,
+          180
         ]
       ],
       "specialer": true
