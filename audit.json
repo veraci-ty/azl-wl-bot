@@ -10971,5 +10971,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1567272813:style:Goku": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-27T21:18:04.978Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
