@@ -10743,5 +10743,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1139386827:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-27T03:33:37.123Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
