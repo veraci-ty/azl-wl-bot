@@ -10908,5 +10908,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "3466538958:style:cid": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-27T17:42:02.258Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
