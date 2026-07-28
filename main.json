@@ -1053,7 +1053,7 @@
       "nameaddition": true
     },
     "390761642": {
-      "tagText": "Lunar Sovereign",
+      "tagText": "『 Lunar Sovereign 』",
       "tagColor": [
         [
           0,
@@ -1074,7 +1074,7 @@
           0
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "458595807": {
       "tagText": "The Index Messenger,",
