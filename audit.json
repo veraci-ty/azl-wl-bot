@@ -11247,5 +11247,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "312582604:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-28T13:19:18.794Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
