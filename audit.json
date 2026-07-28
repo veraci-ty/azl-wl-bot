@@ -8593,9 +8593,12 @@
       "username": "deltafirys"
     },
     "addedAt": "2026-07-19T16:12:02.500Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-07-28T02:49:45.488Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
