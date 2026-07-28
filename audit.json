@@ -11133,5 +11133,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "261832676:mvp:remmyava": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-28T06:59:53.742Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
