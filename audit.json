@@ -11145,5 +11145,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "261832676:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-28T07:00:18.705Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
