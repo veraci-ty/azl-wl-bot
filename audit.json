@@ -11118,5 +11118,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1687664781:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-28T06:59:02.713Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
