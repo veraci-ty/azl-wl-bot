@@ -11619,5 +11619,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "516412616:style:ronaldo": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-07-29T15:30:38.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-12T15:30:38.631Z"
   }
 }
