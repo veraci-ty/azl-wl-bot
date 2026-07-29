@@ -11704,9 +11704,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-07-29T17:44:15.976Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "removedAt": "2026-07-29T22:49:19.828Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
