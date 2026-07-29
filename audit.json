@@ -11526,5 +11526,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-28T07:29:34.671Z"
+  },
+  "3749261239:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-07-29T09:48:00.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
