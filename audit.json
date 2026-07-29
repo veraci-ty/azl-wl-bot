@@ -10447,9 +10447,12 @@
       "username": "illusionated"
     },
     "addedAt": "2026-07-26T14:51:21.225Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1526746086142902444",
+      "username": "illusionated"
+    },
+    "removedAt": "2026-07-29T16:29:12.608Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
