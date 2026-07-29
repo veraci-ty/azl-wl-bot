@@ -1131,22 +1131,22 @@
       "specialer": false
     },
     "619213444": {
-      "tagText": "the woman",
+      "tagText": "🫃",
       "tagColor": [
         [
           0,
-          42,
-          8,
-          69
+          0,
+          0,
+          255
         ],
         [
           1,
-          42,
-          8,
-          69
+          0,
+          0,
+          255
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "1057729322": {
       "tagText": "Drowned Flower,",
