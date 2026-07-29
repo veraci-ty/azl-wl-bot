@@ -1243,6 +1243,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1144804222": {
+      "tagText": "The Ultimate Lifeform,",
+      "tagColor": [
+        [
+          0,
+          37,
+          37,
+          37
+        ],
+        [
+          0.5,
+          214,
+          2,
+          2
+        ],
+        [
+          1,
+          37,
+          37,
+          37
+        ]
+      ],
+      "specialer": true
+    },
     "1147190599": {
       "tagText": "The Voice,",
       "tagColor": [
