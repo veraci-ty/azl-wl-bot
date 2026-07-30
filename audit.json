@@ -7072,9 +7072,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-07-23T01:06:36.658Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-07-30T01:10:42.125Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-07-30T01:06:36.355Z"
   },
