@@ -11793,5 +11793,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-29T05:09:56.010Z"
+  },
+  "15212321:style:KJ": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-30T09:55:24.468Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-02T09:55:24.080Z"
   }
 }
