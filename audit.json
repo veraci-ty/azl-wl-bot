@@ -11706,16 +11706,13 @@
   },
   "1684644288:style:dawnwalker": {
     "addedBy": {
-      "discordId": "526367718824476692",
-      "username": "toast.s"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-07-29T17:44:15.976Z",
-    "removedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "removedAt": "2026-07-29T22:49:19.828Z",
-    "active": false,
+    "addedAt": "2026-07-30T13:54:35.941Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
