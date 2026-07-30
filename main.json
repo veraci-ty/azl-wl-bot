@@ -1102,22 +1102,28 @@
       "specialer": true
     },
     "458595807": {
-      "tagText": "⭐",
+      "tagText": "Yoisaki Kanade #1 Fan ☁️",
       "tagColor": [
         [
           0,
-          250,
-          0,
-          0
+          231,
+          239,
+          246
+        ],
+        [
+          0.5,
+          211,
+          222,
+          233
         ],
         [
           1,
-          250,
-          0,
-          0
+          248,
+          251,
+          253
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "498883728": {
       "tagText": "Top’s Little Passer",
