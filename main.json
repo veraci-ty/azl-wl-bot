@@ -1544,7 +1544,7 @@
       "specialer": true
     },
     "5077795305": {
-      "tagText": "Architect Of Armageddon",
+      "tagText": "Test",
       "tagColor": [
         [
           0,
@@ -1553,13 +1553,20 @@
           0
         ],
         [
+          0.5,
+          0,
+          255,
+          0
+        ],
+        [
           1,
           0,
           0,
-          0
+          255
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "9248296813": {
       "tagText": "Remmy's Manager",
