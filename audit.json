@@ -4003,9 +4003,12 @@
       "username": "freddy_yeah"
     },
     "addedAt": "2026-06-25T07:09:50.130Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-07-31T21:15:11.912Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -12029,6 +12032,36 @@
     "removedAt": null,
     "active": true,
     "kind": "ost",
+    "expiresAt": null
+  },
+  "301416925:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-31T21:15:11.912Z",
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-07-31T21:15:11.912Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "301416925:style:wally": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-07-31T21:15:11.912Z",
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-07-31T21:15:11.912Z",
+    "active": false,
+    "kind": "style",
     "expiresAt": null
   }
 }
