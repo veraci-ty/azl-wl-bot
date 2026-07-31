@@ -12111,5 +12111,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "520623444:command:becomeai": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-31T23:00:37.082Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-03T23:00:36.733Z"
   }
 }
