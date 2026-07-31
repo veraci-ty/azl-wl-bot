@@ -11961,5 +11961,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9248296813:command:saeawk": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-31T18:54:57.399Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
