@@ -12075,5 +12075,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "9248296813:ost:barou": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-07-31T22:02:29.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
