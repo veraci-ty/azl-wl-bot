@@ -11841,5 +11841,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-07T00:22:51.048Z"
+  },
+  "4678987333:command:saeawk": {
+    "addedBy": {
+      "discordId": "1112511454713745548",
+      "username": "night.coded"
+    },
+    "addedAt": "2026-07-31T04:07:54.377Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
