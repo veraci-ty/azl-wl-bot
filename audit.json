@@ -4002,16 +4002,13 @@
   },
   "301416925:style:Goku": {
     "addedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "addedAt": "2026-06-25T07:09:50.130Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-07-31T21:15:11.912Z",
-    "active": false,
+    "addedAt": "2026-08-01T01:06:49.275Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
