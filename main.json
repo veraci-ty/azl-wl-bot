@@ -1331,6 +1331,24 @@
       ],
       "specialer": false
     },
+    "1250526085": {
+      "tagText": "Vagos' Son",
+      "tagColor": [
+        [
+          0,
+          255,
+          174,
+          201
+        ],
+        [
+          1,
+          255,
+          242,
+          0
+        ]
+      ],
+      "specialer": true
+    },
     "1463007795": {
       "tagText": "StarCatcher",
       "tagColor": [
