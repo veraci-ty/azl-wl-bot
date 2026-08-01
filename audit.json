@@ -12222,5 +12222,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "387041454:style:dio": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-01T21:34:06.034Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
