@@ -1200,6 +1200,24 @@
       ],
       "specialer": true
     },
+    "1053362121": {
+      "tagText": "John Azurelatch",
+      "tagColor": [
+        [
+          0,
+          0,
+          255,
+          255
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": false
+    },
     "1057729322": {
       "tagText": "Drowned Flower,",
       "tagColor": [
