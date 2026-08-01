@@ -11211,16 +11211,13 @@
   },
   "301416925:command:kuon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-07-28T07:05:55.253Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-07-31T21:09:39.620Z",
-    "active": false,
+    "addedAt": "2026-08-01T01:06:54.884Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
