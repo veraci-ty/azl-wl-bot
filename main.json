@@ -1589,22 +1589,29 @@
       "specialer": true
     },
     "5077795305": {
-      "tagText": "John Azurelatch",
+      "tagText": ", SSS Tier Elliot Alderson Larp",
       "tagColor": [
         [
           0,
           0,
+          0,
+          0
+        ],
+        [
+          0.5,
           255,
-          255
+          0,
+          0
         ],
         [
           1,
-          255,
-          255,
-          255
+          0,
+          0,
+          0
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "9248296813": {
       "tagText": "Remmy's Manager",
