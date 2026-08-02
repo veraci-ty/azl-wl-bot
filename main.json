@@ -1685,28 +1685,29 @@
       "specialer": true
     },
     "5639442027": {
-      "tagText": "♥️",
+      "tagText": ", ♥ Queen of Goals ♥",
       "tagColor": [
         [
           0,
-          200,
-          188,
-          220
+          255,
+          50,
+          100
         ],
         [
           0.5,
           48,
-          20,
-          45
+          25,
+          52
         ],
         [
           1,
-          128,
           0,
-          128
+          0,
+          0
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "8658503437": {
       "tagText": ", The Dragon Sin of Wrath",
