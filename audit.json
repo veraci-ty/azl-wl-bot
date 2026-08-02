@@ -12486,5 +12486,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1687664781:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-02T18:38:29.353Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-01T18:38:28.983Z"
   }
 }
