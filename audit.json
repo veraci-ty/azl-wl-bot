@@ -12270,5 +12270,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1911944568:style:wally": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-02T11:04:49.403Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
