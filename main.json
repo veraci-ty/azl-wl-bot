@@ -1187,6 +1187,30 @@
       ],
       "specialer": false
     },
+    "568225745": {
+      "tagText": "♥ Queen of Goals ♥",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          0.5,
+          48,
+          25,
+          54
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true
+    },
     "619213444": {
       "tagText": "🫃",
       "tagColor": [
