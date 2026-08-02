@@ -12609,5 +12609,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3886437498:mvp:diavoloMvp": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-02T19:40:00.351Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
