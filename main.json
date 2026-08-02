@@ -1645,28 +1645,28 @@
       "nameaddition": true
     },
     "9248296813": {
-      "tagText": "Remmy's Manager",
+      "tagText": "Tung Tung Tung Saher",
       "tagColor": [
         [
           0,
+          57,
           0,
-          16,
-          61
+          156
         ],
         [
           0.5,
-          0,
-          71,
-          204
+          197,
+          84,
+          189
         ],
         [
           1,
-          102,
-          242,
-          255
+          0,
+          0,
+          0
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "7874287740": {
       "tagText": "M1 F.C",
