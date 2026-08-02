@@ -12345,5 +12345,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-01T15:11:14.425Z"
+  },
+  "1684644288:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-02T16:08:41.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
