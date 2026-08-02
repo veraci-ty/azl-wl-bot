@@ -12342,5 +12342,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-01T13:11:23.786Z"
+  },
+  "520623444:command:saeawk": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-02T14:24:44.466Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-05T14:24:44.126Z"
   }
 }
