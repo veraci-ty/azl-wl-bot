@@ -12537,5 +12537,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2605260092:style:messi": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-08-02T18:49:02.469Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
