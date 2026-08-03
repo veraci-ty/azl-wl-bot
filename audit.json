@@ -12708,5 +12708,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "458595807:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-03T07:09:30.098Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
