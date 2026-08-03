@@ -1086,22 +1086,23 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "El Chitlin God",
+      "tagText": "The Honored One",
       "tagColor": [
         [
           0,
-          0,
-          0,
-          0
+          219,
+          232,
+          255
         ],
         [
           1,
-          0,
-          0,
-          0
+          89,
+          149,
+          255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "387041454": {
       "tagText": "Moonless Sky",
