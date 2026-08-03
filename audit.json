@@ -12843,5 +12843,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-02T14:42:13.736Z"
+  },
+  "1861742548:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1526746086142902444",
+      "username": "illusionated"
+    },
+    "addedAt": "2026-08-03T15:54:41.356Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
