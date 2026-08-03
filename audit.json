@@ -12855,5 +12855,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "387041454:style:KJ": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-03T16:36:05.099Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
