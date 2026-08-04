@@ -13071,5 +13071,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4364674214:style:Goku": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-04T13:30:07.779Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
