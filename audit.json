@@ -12987,16 +12987,13 @@
   },
   "301416925:command:skillbuilder": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-08-04T02:08:42.289Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-04T02:09:29.966Z",
-    "active": false,
+    "addedAt": "2026-08-04T23:59:57.053Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
