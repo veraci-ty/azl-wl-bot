@@ -12990,5 +12990,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": null
+  },
+  "301416925:mvp:diavoloMvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-04T02:10:49.612Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
