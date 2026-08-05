@@ -13203,5 +13203,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-30T12:13:25.576Z"
+  },
+  "3889539831:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-05T12:24:19.552Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-30T12:24:19.165Z"
   }
 }
