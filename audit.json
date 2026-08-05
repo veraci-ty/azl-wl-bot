@@ -13485,5 +13485,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "260526009:mvp:vydiaMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-05T15:07:40.551Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
