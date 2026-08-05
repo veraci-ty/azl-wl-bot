@@ -12451,9 +12451,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-08-02T17:38:58.733Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-05T23:38:10.510Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
