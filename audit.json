@@ -13341,5 +13341,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "260526009:style:messi": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-05T15:04:22.698Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
