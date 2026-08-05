@@ -13104,5 +13104,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "885268917:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-05T00:24:31.344Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
