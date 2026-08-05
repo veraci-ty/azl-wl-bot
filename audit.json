@@ -4882,9 +4882,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-07-02T15:29:15.195Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-08-05T17:24:45.992Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
