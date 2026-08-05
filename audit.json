@@ -13245,5 +13245,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-30T12:35:15.249Z"
+  },
+  "260526009:style:aizen": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-05T14:58:39.721Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
