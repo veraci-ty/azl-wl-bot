@@ -2634,16 +2634,13 @@
   },
   "10444140562:style:dio": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-06-18T14:38:27.941Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-06-22T05:50:53.872Z",
-    "active": false,
+    "addedAt": "2026-08-05T10:00:29.216Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
