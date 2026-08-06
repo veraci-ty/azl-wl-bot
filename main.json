@@ -1877,6 +1877,30 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "4348260626": {
+      "tagText": "Brickmei",
+      "tagColor": [
+        [
+          0,
+          171,
+          190,
+          222
+        ],
+        [
+          0.5,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          46,
+          59,
+          82
+        ]
+      ],
+      "specialer": false
     }
   }
 }
