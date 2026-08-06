@@ -9741,15 +9741,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-23T16:06:10.661Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-28T16:10:41.610Z",
-    "active": false,
+    "addedAt": "2026-08-06T19:36:55.956Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-28T16:06:10.256Z"
+    "expiresAt": "2026-08-20T19:36:55.558Z"
   },
   "2979765314:style:ronaldo": {
     "addedBy": {
