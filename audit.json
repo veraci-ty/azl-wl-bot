@@ -6333,15 +6333,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-01T09:29:35.543Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-06T09:30:44.012Z",
-    "active": false,
+    "addedAt": "2026-08-06T17:53:48.040Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-06T09:29:35.220Z"
+    "expiresAt": "2026-08-20T17:53:47.683Z"
   },
   "520623444:style:izayoi": {
     "addedBy": {
