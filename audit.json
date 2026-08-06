@@ -6384,15 +6384,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-01T09:30:57.345Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-04T09:35:43.239Z",
-    "active": false,
+    "addedAt": "2026-08-06T17:53:37.789Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-04T09:30:57.019Z"
+    "expiresAt": "2026-08-20T17:53:37.423Z"
   },
   "9248296813:ost:global": {
     "addedBy": {
