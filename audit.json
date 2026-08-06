@@ -13018,9 +13018,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-05T22:08:23.511Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-06T22:10:43.646Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-08-06T22:08:23.144Z"
   },
