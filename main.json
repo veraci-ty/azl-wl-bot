@@ -1177,23 +1177,28 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "The Honored One",
+      "tagText": "Void Hunter, Kamii",
       "tagColor": [
         [
           0,
-          219,
-          232,
-          255
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
+          255,
+          7,
+          7
         ],
         [
           1,
-          89,
-          149,
-          255
+          0,
+          0,
+          0
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "387041454": {
       "tagText": "Moonless Sky",
