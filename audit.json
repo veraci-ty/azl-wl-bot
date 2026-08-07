@@ -3784,15 +3784,12 @@
   "1696534838:style:exe": {
     "addedBy": {
       "discordId": "1066528844972048465",
-      "username": "lyvn.lyrn"
+      "username": "shotokku."
     },
-    "addedAt": "2026-06-23T23:50:50.689Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-06-27T20:13:36.026Z",
-    "active": false,
+    "addedAt": "2026-08-07T17:24:06.108Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
