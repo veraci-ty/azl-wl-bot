@@ -13713,5 +13713,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-31T19:41:04.562Z"
+  },
+  "2573434151:style:cinder": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-08-07T02:10:44.491Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
