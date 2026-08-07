@@ -9828,13 +9828,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-07-24T19:30:13.746Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-07-27T05:02:11.467Z",
-    "active": false,
+    "addedAt": "2026-08-07T20:01:19.479Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
