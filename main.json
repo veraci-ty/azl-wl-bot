@@ -1637,25 +1637,25 @@
       "specialer": true
     },
     "1941400999": {
-      "tagText": "袖白雪, Sode no Shirayuki,",
+      "tagText": "The Blackhearted Princess,",
       "tagColor": [
         [
           0,
-          213,
-          238,
-          249
+          31,
+          29,
+          29
         ],
         [
           0.5,
-          234,
-          254,
-          254
+          255,
+          255,
+          255
         ],
         [
           1,
-          201,
-          251,
-          253
+          23,
+          22,
+          22
         ]
       ],
       "specialer": true
