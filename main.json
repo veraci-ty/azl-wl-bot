@@ -1758,25 +1758,25 @@
       "specialer": true
     },
     "4166416054": {
-      "tagText": "- Twilight -",
+      "tagText": "Temporal Lumiflux",
       "tagColor": [
         [
           0,
-          137,
-          207,
-          240
+          226,
+          72,
+          176
         ],
         [
           0.5,
-          240,
-          255,
-          255
+          230,
+          159,
+          186
         ],
         [
           1,
-          167,
-          199,
-          231
+          251,
+          188,
+          205
         ]
       ],
       "specialer": true
