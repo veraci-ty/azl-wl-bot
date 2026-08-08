@@ -13782,15 +13782,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-07T09:20:30.253Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-08-08T11:09:29.555Z",
-    "active": false,
+    "addedAt": "2026-08-08T11:09:37.996Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-12T09:20:29.832Z"
+    "expiresAt": "2026-08-13T11:09:37.623Z"
   },
   "133631212:command:rinnoplay": {
     "addedBy": {
