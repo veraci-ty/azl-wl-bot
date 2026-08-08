@@ -14130,5 +14130,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-23T19:09:47.767Z"
+  },
+  "281828496:style:zantetsu": {
+    "addedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "addedAt": "2026-08-08T21:49:54.322Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-08T22:19:53.839Z"
   }
 }
