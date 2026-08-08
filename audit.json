@@ -13542,15 +13542,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-06T17:33:29.708Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-07T17:35:46.742Z",
-    "active": false,
+    "addedAt": "2026-08-08T02:33:50.560Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-07T17:33:29.340Z"
+    "expiresAt": "2026-08-09T02:33:50.242Z"
   },
   "2979765314:style:zantetsu": {
     "addedBy": {
