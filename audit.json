@@ -2002,9 +2002,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-06-14T22:23:27.542Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "removedAt": "2026-08-08T06:49:18.542Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
