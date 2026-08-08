@@ -1182,25 +1182,25 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "Void Hunter,",
+      "tagText": "Voidhunter,",
       "tagColor": [
         [
           0,
           0,
-          0,
-          0
+          184,
+          255
         ],
         [
           0.5,
           255,
-          7,
-          7
+          255,
+          255
         ],
         [
           1,
           0,
-          0,
-          0
+          229,
+          255
         ]
       ],
       "specialer": true
