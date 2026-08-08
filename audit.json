@@ -13041,15 +13041,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-06T17:33:39.507Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-07T17:35:44.140Z",
-    "active": false,
+    "addedAt": "2026-08-08T02:33:59.481Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-07T17:33:39.087Z"
+    "expiresAt": "2026-08-09T02:33:59.111Z"
   },
   "2431635649:style:dio": {
     "addedBy": {
