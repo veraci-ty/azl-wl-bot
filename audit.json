@@ -14373,5 +14373,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "281828496:command:homelander": {
+    "addedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "addedAt": "2026-08-09T23:27:39.192Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-09T23:57:38.879Z"
   }
 }
