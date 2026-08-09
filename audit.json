@@ -10272,16 +10272,13 @@
   },
   "9248296813:mvp:nettspendlisteningparty": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-07-26T04:55:03.989Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-08-09T15:33:37.603Z",
-    "active": false,
+    "addedAt": "2026-08-09T15:36:43.262Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
