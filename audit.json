@@ -14340,5 +14340,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "3492773439:mvp:sothisishowitfeels": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-09T22:18:12.777Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
