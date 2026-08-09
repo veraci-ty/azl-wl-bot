@@ -12381,15 +12381,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-02T14:24:44.466Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-05T14:25:43.417Z",
-    "active": false,
+    "addedAt": "2026-08-09T16:22:47.146Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-05T14:24:44.126Z"
+    "expiresAt": "2026-08-14T16:22:46.833Z"
   },
   "3580594488:mvp:testerMVP": {
     "addedBy": {
