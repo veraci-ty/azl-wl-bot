@@ -9291,15 +9291,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-07-23T10:55:33.046Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-08T23:14:03.283Z",
-    "active": false,
+    "addedAt": "2026-08-09T22:21:59.602Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-08T22:21:59.217Z"
   },
   "135921660:style:dawnwalker": {
     "addedBy": {
