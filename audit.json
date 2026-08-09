@@ -8110,9 +8110,12 @@
       "username": "geoality"
     },
     "addedAt": "2026-07-15T06:40:23.162Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-09T22:06:43.823Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
