@@ -14283,5 +14283,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1941400999:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-09T15:55:13.809Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-10T15:55:13.435Z"
   }
 }
