@@ -2404,9 +2404,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-06-17T17:12:28.579Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-08-09T22:27:37.668Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
