@@ -8575,9 +8575,12 @@
       "username": "deltafirys"
     },
     "addedAt": "2026-07-19T16:11:24.360Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "removedAt": "2026-08-09T23:04:35.482Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
