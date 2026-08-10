@@ -13800,13 +13800,10 @@
       "discordId": "666762995258359808",
       "username": "konisdumb"
     },
-    "addedAt": "2026-08-07T02:10:44.491Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-10T17:45:06.097Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
