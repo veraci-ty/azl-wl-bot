@@ -14736,5 +14736,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": null
+  },
+  "1053362121:style:cinder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-10T06:04:34.279Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
