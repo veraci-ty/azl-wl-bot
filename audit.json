@@ -14895,5 +14895,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-09T10:13:58.938Z"
+  },
+  "2571463620:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-10T10:21:08.977Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-09T10:21:08.593Z"
   }
 }
