@@ -14730,13 +14730,10 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-08-10T06:04:34.279Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T06:04:56.263Z",
-    "active": false,
+    "addedAt": "2026-08-10T13:40:29.047Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
