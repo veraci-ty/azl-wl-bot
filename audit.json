@@ -14716,9 +14716,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-10T05:59:05.198Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-10T05:59:31.021Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   }
