@@ -3372,16 +3372,13 @@
   },
   "471377838:style:cinder": {
     "addedBy": {
-      "discordId": "666762995258359808",
-      "username": "konisdumb"
-    },
-    "addedAt": "2026-06-22T03:08:55.880Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-10T05:53:31.961Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
