@@ -14907,5 +14907,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-09T10:21:08.593Z"
+  },
+  "929501840:command:cc": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-10T10:21:28.340Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-09T10:21:27.923Z"
   }
 }
