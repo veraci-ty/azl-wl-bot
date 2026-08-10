@@ -14709,5 +14709,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1527314546:style:cinded": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-10T05:59:05.198Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
