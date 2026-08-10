@@ -14568,16 +14568,13 @@
   },
   "1172470680:style:cinder": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
     },
-    "addedAt": "2026-08-10T05:53:01.346Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-10T15:22:20.430Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
