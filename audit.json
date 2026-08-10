@@ -15078,14 +15078,11 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-10T18:25:11.547Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-10T18:25:29.373Z",
-    "active": false,
+    "addedAt": "2026-08-10T18:25:39.538Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": null
+    "expiresAt": "2026-09-09T18:25:39.148Z"
   }
 }
