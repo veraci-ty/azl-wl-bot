@@ -14481,5 +14481,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-09T05:41:30.305Z"
+  },
+  "561616:command:cc": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-10T05:42:07.031Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-09T05:42:06.653Z"
   }
 }
