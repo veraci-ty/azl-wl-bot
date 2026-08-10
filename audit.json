@@ -13095,15 +13095,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-10T08:00:13.658Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-08-10T08:38:24.693Z",
-    "active": false,
+    "addedAt": "2026-08-10T08:38:34.050Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-11T08:00:13.200Z"
+    "expiresAt": null
   },
   "301510950:command:f": {
     "addedBy": {
