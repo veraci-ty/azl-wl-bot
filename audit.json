@@ -14196,15 +14196,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-08T19:09:48.112Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-10T17:26:17.236Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-23T19:09:47.767Z"
+    "expiresAt": "2026-08-25T17:26:16.758Z"
   },
   "281828496:style:zantetsu": {
     "addedBy": {
