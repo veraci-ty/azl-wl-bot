@@ -15060,5 +15060,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-09T17:25:21.332Z"
+  },
+  "7064367634:command:cc": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-10T17:25:33.988Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-09T17:25:33.585Z"
   }
 }
