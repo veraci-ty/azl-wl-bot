@@ -14943,5 +14943,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-09T10:22:14.792Z"
+  },
+  "568225745:command:serverban": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-10T12:07:19.276Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
