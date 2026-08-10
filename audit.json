@@ -15084,5 +15084,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-09T18:25:39.148Z"
+  },
+  "212012720:mvp:nightRaiders": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-10T18:28:20.621Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
