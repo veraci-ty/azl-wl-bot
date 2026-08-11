@@ -1416,6 +1416,25 @@
       ],
       "specialer": false
     },
+    "863701520": {
+      "tagText": "magnus top bins god,",
+      "tagColor": [
+        [
+          0,
+          255,
+          49,
+          49
+        ],
+        [
+          1,
+          255,
+          49,
+          49
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "887869308": {
       "tagText": "The Dream Of Absolution,",
       "tagColor": [
