@@ -4782,13 +4782,10 @@
       "discordId": "252359230298914817",
       "username": "stephex"
     },
-    "addedAt": "2026-07-01T00:25:13.672Z",
-    "removedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "removedAt": "2026-07-01T00:25:13.672Z",
-    "active": false,
+    "addedAt": "2026-08-11T11:19:09.999Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
