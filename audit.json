@@ -15261,14 +15261,14 @@
   },
   "1965027195:command:rinnoplay": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-08-11T08:04:08.703Z",
+    "addedAt": "2026-08-11T08:42:01.395Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-10T08:04:08.279Z"
+    "expiresAt": "2026-09-10T08:42:00.970Z"
   }
 }
