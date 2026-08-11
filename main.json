@@ -1827,7 +1827,7 @@
       "specialer": true
     },
     "3730120158": {
-      "tagText": "God Of The New World",
+      "tagText": "God Of The New World,",
       "tagColor": [
         [
           0,
@@ -1842,7 +1842,7 @@
           0
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "4166416054": {
       "tagText": "Temporal Lumiflux",
