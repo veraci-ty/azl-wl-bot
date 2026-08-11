@@ -1169,6 +1169,24 @@
     ]
   },
   "titles": {
+    "91452721": {
+      "tagText": "Seraphim",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          102,
+          102,
+          102
+        ]
+      ],
+      "specialer": false
+    },
     "150511385": {
       "tagText": "Sin of Vanity",
       "tagColor": [
