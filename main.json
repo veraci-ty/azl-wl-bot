@@ -1842,7 +1842,8 @@
           0
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "4166416054": {
       "tagText": "Temporal Lumiflux",
