@@ -557,10 +557,14 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-06T17:52:14.823Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "style"
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-11T16:04:56.879Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   },
   "1974243283:style:dawnwalker": {
     "addedBy": {
@@ -602,10 +606,14 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-06-07T15:41:40.902Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "mvp"
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-11T16:04:56.879Z",
+    "active": false,
+    "kind": "mvp",
+    "expiresAt": null
   },
   "8118864585:style:messi": {
     "addedBy": {
@@ -12268,9 +12276,12 @@
       "username": "geoality"
     },
     "addedAt": "2026-08-01T10:17:24.362Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-11T16:04:56.879Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -14764,9 +14775,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-10T13:40:29.047Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-11T16:04:56.879Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
