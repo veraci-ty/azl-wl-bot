@@ -10268,16 +10268,13 @@
   },
   "1545957568:mvp:vydiaMVP": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
     },
-    "addedAt": "2026-07-26T02:38:26.367Z",
-    "removedBy": {
-      "discordId": "815312623741567036",
-      "username": "vydla_"
-    },
-    "removedAt": "2026-08-11T20:44:33.011Z",
-    "active": false,
+    "addedAt": "2026-08-11T20:45:08.801Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
