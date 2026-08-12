@@ -15638,5 +15638,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-11T08:36:20.553Z"
+  },
+  "5344601978:style:ronaldo": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-12T08:37:43.966Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-11T08:37:43.622Z"
   }
 }
