@@ -1737,6 +1737,30 @@
       ],
       "specialer": false
     },
+    "1931203237": {
+      "tagText": "The Lord Of Mysteries,",
+      "tagColor": [
+        [
+          0,
+          3,
+          3,
+          3
+        ],
+        [
+          0.5,
+          252,
+          211,
+          121
+        ],
+        [
+          1,
+          3,
+          3,
+          3
+        ]
+      ],
+      "specialer": true
+    },
     "1941400999": {
       "tagText": "The Blackhearted Princess,",
       "tagColor": [
