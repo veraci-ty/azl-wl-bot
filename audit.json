@@ -3245,13 +3245,10 @@
       "discordId": "666762995258359808",
       "username": "konisdumb"
     },
-    "addedAt": "2026-06-21T03:23:40.280Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-12T00:43:24.679Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
