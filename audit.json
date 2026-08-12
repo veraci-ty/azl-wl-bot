@@ -15524,5 +15524,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1931203237:command:ncd": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-12T00:50:43.368Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-13T00:50:43.001Z"
   }
 }
