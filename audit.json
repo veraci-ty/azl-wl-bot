@@ -12027,9 +12027,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-12T11:03:36.307Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "815312623741567036",
+      "username": "vydla_"
+    },
+    "removedAt": "2026-08-12T13:03:38.095Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
