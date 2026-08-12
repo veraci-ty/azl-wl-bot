@@ -15812,5 +15812,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1941400999:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-12T20:07:24.024Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
