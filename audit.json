@@ -7902,9 +7902,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-13T15:45:24.358Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-12T15:45:48.229Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-08-12T15:45:23.966Z"
   },
