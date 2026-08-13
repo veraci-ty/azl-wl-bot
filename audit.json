@@ -10047,9 +10047,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-10T17:48:11.489Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-13T09:16:57.066Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-08-15T17:48:11.084Z"
   },
