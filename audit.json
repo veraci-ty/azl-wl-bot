@@ -16259,5 +16259,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "995625009:style:aizen": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-13T16:40:08.967Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
