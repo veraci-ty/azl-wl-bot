@@ -16175,5 +16175,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "995625009:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-13T16:39:19.609Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
