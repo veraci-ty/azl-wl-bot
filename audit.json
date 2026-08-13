@@ -10133,15 +10133,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-31T23:00:28.642Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-03T23:00:43.167Z",
-    "active": false,
+    "addedAt": "2026-08-13T00:42:32.322Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-03T23:00:28.240Z"
+    "expiresAt": "2026-08-20T00:42:31.977Z"
   },
   "325765268:style:ronaldo": {
     "addedBy": {
