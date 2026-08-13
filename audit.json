@@ -6974,15 +6974,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-13T18:12:01.143Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-13T20:13:34.546Z",
-    "active": false,
+    "addedAt": "2026-08-13T00:41:41.167Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-13T20:12:00.766Z"
+    "expiresAt": "2026-08-20T00:41:40.773Z"
   },
   "4982293450:style:izayoi": {
     "addedBy": {
