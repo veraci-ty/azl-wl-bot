@@ -12414,9 +12414,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-08-01T21:34:06.034Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-13T09:16:16.272Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
