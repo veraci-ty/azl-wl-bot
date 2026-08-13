@@ -16067,15 +16067,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-13T08:45:09.894Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-13T09:17:25.600Z",
-    "active": false,
+    "addedAt": "2026-08-13T23:31:31.497Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-12T08:45:09.477Z"
+    "expiresAt": "2026-09-12T23:31:31.143Z"
   },
   "1481884758:style:dio": {
     "addedBy": {
