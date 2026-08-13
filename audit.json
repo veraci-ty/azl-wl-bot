@@ -15923,5 +15923,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2912663972:style:cinder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-13T05:49:56.949Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-07T05:49:56.545Z"
   }
 }
