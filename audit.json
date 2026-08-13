@@ -12753,9 +12753,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-08-02T18:50:16.378Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-13T09:11:37.460Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
