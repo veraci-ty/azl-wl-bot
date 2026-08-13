@@ -6962,15 +6962,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-01T09:30:35.146Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-04T09:30:43.281Z",
-    "active": false,
+    "addedAt": "2026-08-13T00:41:27.387Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-04T09:30:34.788Z"
+    "expiresAt": "2026-08-20T00:41:27.037Z"
   },
   "15212321:command:ncd": {
     "addedBy": {
