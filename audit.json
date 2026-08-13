@@ -16199,5 +16199,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "995625009:style:wally": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-13T16:39:30.678Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
