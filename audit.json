@@ -15965,5 +15965,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-07T06:59:47.877Z"
+  },
+  "1168015850:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-13T08:45:09.894Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-12T08:45:09.477Z"
   }
 }
