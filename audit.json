@@ -15911,5 +15911,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-15T22:04:23.630Z"
+  },
+  "998091053:command:awaketest": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-13T03:08:32.014Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
