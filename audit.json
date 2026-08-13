@@ -16286,5 +16286,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-18T18:03:57.478Z"
+  },
+  "15212321:command:awaketest": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-13T18:21:50.832Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-16T18:21:50.323Z"
   }
 }
