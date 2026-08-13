@@ -13506,9 +13506,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-05T14:59:09.516Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-13T09:15:09.977Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
