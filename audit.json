@@ -16865,5 +16865,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1941400999:ost:shidou": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-14T23:40:00.419Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
