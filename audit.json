@@ -11984,15 +11984,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-06T18:07:36.993Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-13T18:10:45.394Z",
-    "active": false,
+    "addedAt": "2026-08-14T20:29:15.193Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-13T18:07:34.250Z"
+    "expiresAt": "2026-08-21T20:29:14.671Z"
   },
   "3518094515:mvp:broly": {
     "addedBy": {
