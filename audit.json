@@ -16424,5 +16424,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "2912663972:style:goku": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-14T03:14:17.727Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
