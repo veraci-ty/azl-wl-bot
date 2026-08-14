@@ -16622,5 +16622,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "4166416054:commentator:evernight": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-14T11:23:27.944Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
