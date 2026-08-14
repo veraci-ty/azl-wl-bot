@@ -16317,9 +16317,12 @@
       "username": "konisdumb"
     },
     "addedAt": "2026-08-13T18:40:42.687Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-14T18:42:03.768Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-08-14T18:40:42.307Z"
   },
