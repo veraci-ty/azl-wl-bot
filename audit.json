@@ -16634,5 +16634,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "1571986511:command:kuon": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-14T11:41:04.534Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
