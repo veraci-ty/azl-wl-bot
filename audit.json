@@ -12026,15 +12026,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-07-31T00:22:51.406Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-07T00:25:43.759Z",
-    "active": false,
+    "addedAt": "2026-08-14T17:47:04.409Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-07T00:22:51.048Z"
+    "expiresAt": "2026-08-14T18:17:04.013Z"
   },
   "4678987333:command:saeawk": {
     "addedBy": {
