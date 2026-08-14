@@ -16373,5 +16373,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "2912663972:style:zantetsu": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-14T02:48:54.661Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-08T02:48:54.293Z"
   }
 }
