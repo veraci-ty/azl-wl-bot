@@ -16811,5 +16811,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-19T19:10:56.057Z"
+  },
+  "301416925:commentator:Evernight": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-14T19:56:47.939Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
