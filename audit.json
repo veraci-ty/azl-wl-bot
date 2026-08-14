@@ -16400,5 +16400,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1974243283:style:messi": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-14T02:59:39.549Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
