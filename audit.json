@@ -16472,5 +16472,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5155874018:style:cinder": {
+    "addedBy": {
+      "discordId": "634910087554793473",
+      "username": "_swiv"
+    },
+    "addedAt": "2026-08-14T04:08:18.201Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
