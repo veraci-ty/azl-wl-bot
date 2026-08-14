@@ -16331,5 +16331,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1941400999:command:f": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-14T00:37:14.233Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
