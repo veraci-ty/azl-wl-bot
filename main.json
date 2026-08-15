@@ -1757,6 +1757,30 @@
       ],
       "specialer": false
     },
+    "1911944568": {
+      "tagText": "Trailblazer",
+      "tagColor": [
+        [
+          0,
+          230,
+          145,
+          56
+        ],
+        [
+          0.5,
+          62,
+          55,
+          57
+        ],
+        [
+          1,
+          252,
+          251,
+          252
+        ]
+      ],
+      "specialer": true
+    },
     "1931203237": {
       "tagText": "The Lord Of Mysteries,",
       "tagColor": [
