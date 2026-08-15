@@ -17120,5 +17120,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260222750:style:dio": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-15T10:40:03.052Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T10:40:02.620Z"
   }
 }
