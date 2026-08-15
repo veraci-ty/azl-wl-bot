@@ -17315,5 +17315,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "1444905320:commentator:Roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-08-15T23:58:37.109Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
