@@ -16988,5 +16988,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-22T02:51:16.431Z"
+  },
+  "619213444:command:kuon": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-15T03:08:24.092Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
