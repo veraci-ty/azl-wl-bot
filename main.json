@@ -1693,23 +1693,22 @@
       "specialer": false
     },
     "1250526085": {
-      "tagText": ", Vagos' Son",
+      "tagText": "Nothing Burger",
       "tagColor": [
         [
           0,
-          255,
-          174,
-          201
+          186,
+          97,
+          97
         ],
         [
           1,
-          255,
-          242,
-          0
+          52,
+          45,
+          45
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "1463007795": {
       "tagText": "StarCatcher",
