@@ -4601,15 +4601,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-08-14T22:00:07.228Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-15T22:02:04.772Z",
-    "active": false,
+    "addedAt": "2026-08-15T23:52:26.740Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-15T22:00:06.643Z"
+    "expiresAt": null
   },
   "10444140562:command:ball": {
     "addedBy": {
