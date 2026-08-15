@@ -17036,5 +17036,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "11220041025:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-15T04:07:51.782Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-09T04:07:51.424Z"
   }
 }
