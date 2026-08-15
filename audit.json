@@ -17072,5 +17072,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "7874287740:commentator:Roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-08-15T07:17:56.853Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": "2026-08-15T07:32:56.407Z"
   }
 }
