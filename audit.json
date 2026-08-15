@@ -17102,5 +17102,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9823387274:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-08-15T10:08:04.070Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
