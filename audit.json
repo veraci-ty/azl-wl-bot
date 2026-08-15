@@ -17144,5 +17144,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-08-16T10:42:12.475Z"
+  },
+  "390761642:ost:barou": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-15T11:03:40.793Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
