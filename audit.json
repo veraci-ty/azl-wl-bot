@@ -7112,15 +7112,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-07-23T01:06:50.293Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-30T01:10:44.178Z",
-    "active": false,
+    "addedAt": "2026-08-15T22:27:45.312Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-30T01:06:49.938Z"
+    "expiresAt": null
   },
   "609340941:command:cc": {
     "addedBy": {
