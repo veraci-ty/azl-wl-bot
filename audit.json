@@ -17213,5 +17213,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "2327164670:command:f": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-15T18:05:51.078Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-16T18:05:50.640Z"
   }
 }
