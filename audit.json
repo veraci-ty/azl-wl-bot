@@ -8117,15 +8117,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-11T13:09:38.075Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-16T13:12:05.012Z",
-    "active": false,
+    "addedAt": "2026-08-16T20:34:28.366Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-16T13:09:37.728Z"
+    "expiresAt": "2026-08-30T20:34:28.015Z"
   },
   "4640746451:style:ronaldo": {
     "addedBy": {
