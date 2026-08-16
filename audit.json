@@ -17394,9 +17394,12 @@
       "username": "vorlua"
     },
     "addedAt": "2026-08-16T02:38:10.017Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "removedAt": "2026-08-16T03:20:46.472Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
