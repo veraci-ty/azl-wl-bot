@@ -4200,9 +4200,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-06-27T05:29:39.516Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-08-16T13:45:18.577Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
