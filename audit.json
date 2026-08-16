@@ -17822,5 +17822,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-17T15:05:04.599Z"
+  },
+  "568225745:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-16T15:08:35.594Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
