@@ -17858,5 +17858,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "2447122302:mvp:gubbysword": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-16T16:03:10.292Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
