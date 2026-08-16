@@ -17136,9 +17136,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-15T10:42:12.854Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-16T10:47:04.843Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-08-16T10:42:12.475Z"
   },
