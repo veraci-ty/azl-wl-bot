@@ -1397,22 +1397,28 @@
       "specialer": true
     },
     "393718809": {
-      "tagText": "im a dumb chud",
+      "tagText": "Red Hood,",
       "tagColor": [
         [
           0,
-          250,
+          255,
           0,
           0
         ],
         [
+          0.5,
+          255,
+          255,
+          255
+        ],
+        [
           1,
-          250,
+          0,
           0,
           0
         ]
       ],
-      "specialer": false
+      "specialer": true
     },
     "458595807": {
       "tagText": "Yoisaki Kanade #1 Fan ☁️",
