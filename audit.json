@@ -17930,5 +17930,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "568225745:style:cid": {
+    "addedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "addedAt": "2026-08-16T19:42:41.061Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
