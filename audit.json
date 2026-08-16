@@ -18062,5 +18062,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "281828496:style:kaiser2": {
+    "addedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "addedAt": "2026-08-16T22:35:29.076Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
