@@ -17426,5 +17426,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-08-16T03:12:45.779Z"
+  },
+  "281828496:style:theexe": {
+    "addedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "addedAt": "2026-08-16T02:43:08.658Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-16T03:13:08.268Z"
   }
 }
