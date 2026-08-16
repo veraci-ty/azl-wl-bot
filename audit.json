@@ -6338,15 +6338,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-07-07T14:32:49.972Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-08T14:34:32.127Z",
-    "active": false,
+    "addedAt": "2026-08-16T03:04:09.980Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-08T14:32:49.477Z"
+    "expiresAt": "2026-08-23T03:04:09.588Z"
   },
   "1555003238:mvp:kanekimvp": {
     "addedBy": {
