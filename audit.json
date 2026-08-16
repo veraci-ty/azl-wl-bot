@@ -3395,16 +3395,13 @@
   },
   "2573434151:ost:karasu": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-06-22T13:22:46.965Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-08-16T14:21:15.795Z",
-    "active": false,
+    "addedAt": "2026-08-16T14:25:54.239Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
