@@ -18002,5 +18002,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "3283461778:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-16T22:01:05.724Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-10T22:01:05.139Z"
   }
 }
