@@ -17564,5 +17564,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3885485505:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-16T06:12:44.233Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-15T06:12:43.831Z"
   }
 }
