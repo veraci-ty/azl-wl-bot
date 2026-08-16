@@ -17327,5 +17327,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "1941400999:style:exe": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-16T00:00:07.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
