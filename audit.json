@@ -17402,5 +17402,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "281828496:style:dukeerisia": {
+    "addedBy": {
+      "discordId": "1438185328778416361",
+      "username": "vorlua"
+    },
+    "addedAt": "2026-08-16T02:41:24.848Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
