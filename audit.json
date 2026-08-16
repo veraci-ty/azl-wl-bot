@@ -17468,5 +17468,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "2912663972:mvp:toastsdimensionalgubbyslashh": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-16T03:55:44.971Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
