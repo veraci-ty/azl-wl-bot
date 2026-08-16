@@ -12905,16 +12905,13 @@
   },
   "458595807:style:dio": {
     "addedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-08-13T09:16:43.344Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-13T09:18:37.602Z",
-    "active": false,
+    "addedAt": "2026-08-16T11:27:34.855Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
