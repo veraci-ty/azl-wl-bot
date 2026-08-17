@@ -8520,9 +8520,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-18T06:45:57.619Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-17T06:47:05.000Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-08-17T06:45:57.287Z"
   },
