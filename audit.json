@@ -18185,5 +18185,17 @@
     "active": false,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4640746451:mvp:ironmousetuffmvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-17T06:24:29.069Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
