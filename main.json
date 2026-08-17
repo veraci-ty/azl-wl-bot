@@ -1366,13 +1366,13 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "Voidhunter,",
+      "tagText": "Goddess Of Luck",
       "tagColor": [
         [
           0,
+          255,
           0,
-          184,
-          255
+          127
         ],
         [
           0.5,
@@ -1382,12 +1382,12 @@
         ],
         [
           1,
+          255,
           0,
-          229,
-          255
+          127
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "387041454": {
       "tagText": "Moonless Sky",
