@@ -18296,5 +18296,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2912663972:mvp:gubbysword": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-17T15:36:16.176Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
