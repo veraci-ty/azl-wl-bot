@@ -10877,15 +10877,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-08-16T17:30:49.136Z",
-    "removedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "removedAt": "2026-08-17T00:29:27.468Z",
-    "active": false,
+    "addedAt": "2026-08-17T00:29:32.202Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-30T17:30:48.724Z"
+    "expiresAt": null
   },
   "2055143837:style:KJ": {
     "addedBy": {
