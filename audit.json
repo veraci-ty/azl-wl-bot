@@ -18902,5 +18902,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-19T19:33:51.315Z"
+  },
+  "318074376:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-18T22:20:41.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-17T22:20:40.773Z"
   }
 }
