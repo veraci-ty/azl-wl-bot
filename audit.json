@@ -18914,5 +18914,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-17T22:20:40.773Z"
+  },
+  "5002914713:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-18T22:22:48.016Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-21T22:22:47.686Z"
   }
 }
