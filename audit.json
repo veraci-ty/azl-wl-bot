@@ -10050,9 +10050,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-14T18:01:55.726Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-18T05:04:17.248Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-08-19T18:01:55.368Z"
   },
@@ -16755,9 +16758,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-14T18:45:49.129Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-18T05:04:17.248Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
