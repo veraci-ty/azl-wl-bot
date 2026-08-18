@@ -10502,31 +10502,25 @@
   },
   "11207915501:style:aizen": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T17:31:12.773Z",
-    "removedBy": {
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-08-18T05:27:02.720Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
   "179841008:style:aizen": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T17:31:12.772Z",
-    "removedBy": {
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-08-18T05:27:02.720Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
@@ -13154,13 +13148,10 @@
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "addedAt": "2026-08-03T17:16:53.970Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-09T22:06:00.758Z",
-    "active": false,
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
@@ -14645,16 +14636,13 @@
   },
   "4057261756:style:aizen": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T17:31:12.772Z",
-    "removedBy": {
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
@@ -18716,5 +18704,125 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-19T02:57:20.427Z"
+  },
+  "5253338311:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "1251635216:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "1163981623:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "1475629413:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "4926807252:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "1403331802:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "2591778114:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "2607632729:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "521797004:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.719Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "4305551524:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-08-18T05:27:02.720Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
