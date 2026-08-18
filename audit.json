@@ -18518,5 +18518,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-17T00:26:34.817Z"
+  },
+  "186326357:commentator:Evernight": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-08-18T00:59:02.851Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
