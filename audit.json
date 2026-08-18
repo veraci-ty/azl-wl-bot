@@ -18884,14 +18884,11 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-08-18T17:23:25.345Z",
-    "removedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "removedAt": "2026-08-18T17:23:34.526Z",
-    "active": false,
+    "addedAt": "2026-08-18T17:23:47.403Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-09-08T17:23:47.024Z"
   }
 }
