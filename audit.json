@@ -16164,9 +16164,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-13T16:36:11.667Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-08-18T05:04:55.732Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
