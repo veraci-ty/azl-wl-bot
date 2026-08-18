@@ -18833,5 +18833,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-23T11:35:19.589Z"
+  },
+  "366074287:style:cid": {
+    "addedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "addedAt": "2026-08-18T11:50:59.218Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
