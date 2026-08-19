@@ -18962,5 +18962,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:mvp:sukunaMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-19T23:32:55.277Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
