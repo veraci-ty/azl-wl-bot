@@ -12443,13 +12443,10 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-08-14T17:21:19.962Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-18T05:06:21.013Z",
-    "active": false,
+    "addedAt": "2026-08-20T10:50:17.232Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
