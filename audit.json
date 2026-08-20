@@ -19334,5 +19334,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "301416925:ost:karasu": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-08-20T20:48:10.937Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
