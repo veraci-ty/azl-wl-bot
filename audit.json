@@ -16880,15 +16880,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-14T19:10:56.578Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-19T19:13:11.414Z",
-    "active": false,
+    "addedAt": "2026-08-20T05:04:43.932Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-19T19:10:56.057Z"
+    "expiresAt": "2026-09-03T05:04:43.571Z"
   },
   "301416925:commentator:Evernight": {
     "addedBy": {
