@@ -19067,5 +19067,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-14T09:57:34.400Z"
+  },
+  "5344601978:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-20T10:00:57.671Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-27T10:00:57.215Z"
   }
 }
