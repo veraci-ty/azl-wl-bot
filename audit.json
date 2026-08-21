@@ -4038,9 +4038,12 @@
       "username": "lyvn.lyrn"
     },
     "addedAt": "2026-06-25T16:21:03.592Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-08-21T01:22:22.048Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
