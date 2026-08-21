@@ -18611,16 +18611,13 @@
   },
   "1147190599:style:cinder": {
     "addedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "addedAt": "2026-08-18T00:21:14.704Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-08-20T00:24:27.776Z",
-    "active": false,
+    "addedAt": "2026-08-21T15:27:44.236Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
