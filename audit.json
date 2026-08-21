@@ -19523,5 +19523,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-26T12:01:57.760Z"
+  },
+  "134046548:style:roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-08-21T12:35:54.285Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
