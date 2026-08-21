@@ -19499,5 +19499,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5344601978:mvp:sukunaMVP": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-21T11:30:29.116Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-20T11:30:28.729Z"
   }
 }
