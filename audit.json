@@ -19511,5 +19511,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-20T11:30:28.729Z"
+  },
+  "505399067:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-21T12:01:58.154Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-26T12:01:57.760Z"
   }
 }
