@@ -19430,5 +19430,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-24T00:30:11.087Z"
+  },
+  "8924062018:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-21T05:07:31.436Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
