@@ -15905,18 +15905,15 @@
   },
   "312582604:command:skillbuilder": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-08-12T12:47:54.194Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-12T14:50:45.362Z",
-    "active": false,
+    "addedAt": "2026-08-21T22:00:47.677Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-12T14:47:53.759Z"
+    "expiresAt": "2026-08-23T22:00:47.291Z"
   },
   "1571986511:command:saeawk": {
     "addedBy": {
