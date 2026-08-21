@@ -19442,5 +19442,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:command:awaketest": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-21T06:24:36.802Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
