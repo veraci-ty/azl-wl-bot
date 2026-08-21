@@ -19563,9 +19563,12 @@
       "username": "niaplix"
     },
     "addedAt": "2026-08-21T16:58:17.839Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "removedAt": "2026-08-21T17:26:05.603Z",
+    "active": false,
     "kind": "commentator",
     "expiresAt": null
   },
