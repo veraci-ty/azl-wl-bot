@@ -1524,22 +1524,29 @@
       "specialer": false
     },
     "619213444": {
-      "tagText": "🫃",
+      "tagText": ", The Eminence In The Shadow",
       "tagColor": [
         [
           0,
-          255,
-          255,
+          47,
+          28,
+          83
+        ],
+        [
+          0.5,
+          164,
+          109,
           255
         ],
         [
           1,
-          255,
-          255,
-          255
+          246,
+          209,
+          253
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "629323666": {
       "tagText": "King of the Jungle",
