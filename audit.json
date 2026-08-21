@@ -19466,5 +19466,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9248296813:command:serverban": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-21T06:25:28.959Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
