@@ -12599,15 +12599,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-09T16:22:47.146Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-14T16:27:03.594Z",
-    "active": false,
+    "addedAt": "2026-08-21T19:57:39.594Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-14T16:22:46.833Z"
+    "expiresAt": "2026-08-26T19:57:39.183Z"
   },
   "3580594488:mvp:testerMVP": {
     "addedBy": {
