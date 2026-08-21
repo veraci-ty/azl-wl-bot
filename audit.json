@@ -19478,5 +19478,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2327164670:mvp:diavoloMvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-21T08:03:47.351Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
