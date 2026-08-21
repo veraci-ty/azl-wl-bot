@@ -6431,15 +6431,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-06T17:53:37.789Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-20T17:58:11.683Z",
-    "active": false,
+    "addedAt": "2026-08-21T19:58:13.956Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-20T17:53:37.423Z"
+    "expiresAt": "2026-08-28T19:58:13.620Z"
   },
   "9248296813:ost:global": {
     "addedBy": {
