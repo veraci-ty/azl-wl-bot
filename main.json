@@ -1375,28 +1375,29 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "Goddess Of Luck",
+      "tagText": "The Sin Archbishop Of Greed, Kamii",
       "tagColor": [
         [
           0,
-          255,
-          0,
-          127
+          189,
+          19,
+          254
         ],
         [
           0.5,
           255,
-          255,
-          255
+          16,
+          240
         ],
         [
           1,
-          255,
-          0,
-          127
+          189,
+          19,
+          254
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "387041454": {
       "tagText": "Moonless Sky",
