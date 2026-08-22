@@ -19706,5 +19706,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "1068314298:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-22T18:06:07.604Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-21T18:06:07.242Z"
   }
 }
