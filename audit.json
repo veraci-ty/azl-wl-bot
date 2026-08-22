@@ -19631,5 +19631,17 @@
     "active": false,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "356968122:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-22T05:02:19.482Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-23T05:02:19.135Z"
   }
 }
