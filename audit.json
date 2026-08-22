@@ -15776,18 +15776,15 @@
   },
   "1759869569:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-08-12T02:03:01.019Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-08-18T00:34:05.607Z",
-    "active": false,
+    "addedAt": "2026-08-22T11:55:39.569Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-11T02:03:00.564Z"
+    "expiresAt": "2026-09-21T11:55:39.183Z"
   },
   "489735644:style:messi": {
     "addedBy": {
