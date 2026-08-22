@@ -1375,7 +1375,7 @@
       "specialer": true
     },
     "312582604": {
-      "tagText": "The Sin Archbishop Of Greed, Kamii",
+      "tagText": "The Sin Archbishop Of Greed,",
       "tagColor": [
         [
           0,
@@ -1391,13 +1391,12 @@
         ],
         [
           1,
-          189,
+          188,
           19,
           254
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     },
     "387041454": {
       "tagText": "Moonless Sky",
