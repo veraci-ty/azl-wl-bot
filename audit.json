@@ -19643,5 +19643,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-08-23T05:02:19.135Z"
+  },
+  "908077567:style:exe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-22T08:17:05.936Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-05T08:17:05.559Z"
   }
 }
