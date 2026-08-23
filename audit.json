@@ -19907,5 +19907,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-22T17:22:49.513Z"
+  },
+  "1128963703:style:dio": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-23T17:46:54.086Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-22T17:46:53.707Z"
   }
 }
