@@ -19817,5 +19817,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-04T11:48:53.390Z"
+  },
+  "1623483130:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-23T12:58:41.892Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-05T12:58:41.550Z"
   }
 }
