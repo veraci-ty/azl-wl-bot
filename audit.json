@@ -15849,9 +15849,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-12T08:36:20.880Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-08-23T17:18:11.887Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-11T08:36:20.553Z"
   },
