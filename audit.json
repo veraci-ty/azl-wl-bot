@@ -20075,5 +20075,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "283813432:command:ncd": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-23T23:33:50.610Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
