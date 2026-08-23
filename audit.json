@@ -20057,5 +20057,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4678987333:mvp:sothisishowitfeels": {
+    "addedBy": {
+      "discordId": "1112511454713745548",
+      "username": "night.coded"
+    },
+    "addedAt": "2026-08-23T21:47:21.532Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
