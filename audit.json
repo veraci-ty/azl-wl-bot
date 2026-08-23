@@ -19730,5 +19730,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-19T23:22:38.928Z"
+  },
+  "1038030553:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1526746086142902444",
+      "username": "onvlua"
+    },
+    "addedAt": "2026-08-23T02:03:32.596Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
