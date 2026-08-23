@@ -8531,13 +8531,10 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-08-10T05:54:40.251Z",
-    "removedBy": {
-      "discordId": "666762995258359808",
-      "username": "konisdumb"
-    },
-    "removedAt": "2026-08-22T00:50:46.741Z",
-    "active": false,
+    "addedAt": "2026-08-23T02:48:20.026Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
