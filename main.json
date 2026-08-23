@@ -2041,28 +2041,29 @@
       "nameaddition": true
     },
     "4166416054": {
-      "tagText": "Temporal Lumiflux",
+      "tagText": ", The Qingming Arbiter",
       "tagColor": [
         [
           0,
-          226,
-          72,
-          176
+          255,
+          230,
+          240
         ],
         [
           0.5,
-          230,
-          159,
-          186
+          255,
+          100,
+          0
         ],
         [
           1,
-          251,
-          188,
-          205
+          220,
+          20,
+          60
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "5077795305": {
       "tagText": ", SSS Tier Elliot Alderson Larp",
