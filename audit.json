@@ -20180,5 +20180,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "301416925:command:slifer": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-24T04:53:11.763Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
