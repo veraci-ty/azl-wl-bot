@@ -17096,15 +17096,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-15T02:51:16.782Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-22T02:53:13.723Z",
-    "active": false,
+    "addedAt": "2026-08-24T03:22:11.669Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-22T02:51:16.431Z"
+    "expiresAt": null
   },
   "619213444:command:kuon": {
     "addedBy": {
