@@ -8147,15 +8147,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-16T20:34:28.366Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-22T00:08:56.678Z",
-    "active": false,
+    "addedAt": "2026-08-24T10:52:25.390Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-30T20:34:28.015Z"
+    "expiresAt": "2026-08-31T10:52:24.980Z"
   },
   "4640746451:style:ronaldo": {
     "addedBy": {
