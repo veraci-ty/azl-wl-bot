@@ -12702,9 +12702,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-02T18:04:10.681Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-08-24T17:27:31.083Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
