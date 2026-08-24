@@ -20285,5 +20285,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "2336850219:style:exe": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-08-24T16:26:43.852Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-29T16:26:43.457Z"
   }
 }
