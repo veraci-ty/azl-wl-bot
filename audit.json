@@ -20411,5 +20411,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1515607596:style:exe": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-08-24T22:00:53.959Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-08-27T22:00:53.581Z"
   }
 }
