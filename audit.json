@@ -20321,5 +20321,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1549164509:command:slifer": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-24T16:30:53.684Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
