@@ -20273,5 +20273,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-23T08:56:54.357Z"
+  },
+  "1911944568:commentator:Evernight": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-24T13:25:35.108Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
