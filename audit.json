@@ -20144,5 +20144,29 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-18T04:48:52.371Z"
+  },
+  "1475629413:command:slifer": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-24T04:48:54.422Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
+  },
+  "3518094515:command:slifer": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-24T04:48:54.422Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
