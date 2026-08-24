@@ -20102,5 +20102,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-18T04:01:57.653Z"
+  },
+  "318074376:style:dio": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-24T04:03:06.690Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-18T04:03:06.294Z"
   }
 }
