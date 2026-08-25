@@ -1498,7 +1498,7 @@
       "nameaddition": true
     },
     "390761642": {
-      "tagText": "『 Lunar Sovereign 』",
+      "tagText": ", Lunar Sovereign",
       "tagColor": [
         [
           0,
@@ -1519,7 +1519,8 @@
           0
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "393718809": {
       "tagText": "Red Hood,",
