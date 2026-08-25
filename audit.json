@@ -20447,5 +20447,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1623567724:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-25T02:15:34.822Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-01T02:15:34.453Z"
   }
 }
