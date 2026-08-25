@@ -20528,5 +20528,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2474288708:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-25T14:46:00.770Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
