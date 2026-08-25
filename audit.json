@@ -20612,5 +20612,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4827616210:command:cc": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-25T21:47:52.346Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-19T21:47:51.946Z"
   }
 }
