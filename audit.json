@@ -20780,5 +20780,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "393718809:style:roland": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-25T23:31:54.722Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
