@@ -20145,9 +20145,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-24T04:48:52.713Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-08-25T07:59:56.250Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-18T04:48:52.371Z"
   },
