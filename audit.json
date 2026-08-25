@@ -20516,5 +20516,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-19T08:01:07.399Z"
+  },
+  "1911944568:style:dustsbscreation": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-25T12:20:39.198Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
