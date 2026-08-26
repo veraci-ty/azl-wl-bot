@@ -20972,5 +20972,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1833821907:mvp:ironMouseTuffMVP": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-26T02:01:05.758Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
