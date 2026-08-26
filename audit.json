@@ -21092,5 +21092,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "458595807:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-26T04:54:39.557Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
