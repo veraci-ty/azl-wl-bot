@@ -3816,15 +3816,12 @@
   "1696534838:style:sonic": {
     "addedBy": {
       "discordId": "1066528844972048465",
-      "username": "lyvn.lyrn"
+      "username": "shotokku."
     },
-    "addedAt": "2026-06-23T23:50:57.634Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "lyvn.lyrn"
-    },
-    "removedAt": "2026-06-24T01:01:43.071Z",
-    "active": false,
+    "addedAt": "2026-08-26T19:08:57.261Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
