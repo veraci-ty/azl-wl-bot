@@ -21188,5 +21188,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-25T10:32:46.586Z"
+  },
+  "1911944568:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-26T10:37:42.646Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
