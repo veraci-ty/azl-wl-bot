@@ -21104,5 +21104,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "163606607:style:roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-08-26T06:08:06.807Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
