@@ -21149,5 +21149,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "619213444:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-26T07:55:21.257Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
