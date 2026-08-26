@@ -1606,6 +1606,31 @@
       ],
       "specialer": true
     },
+    "413662006": {
+      "tagText": ", Heart of the Astral Express",
+      "tagColor": [
+        [
+          0,
+          37,
+          150,
+          190
+        ],
+        [
+          0.5,
+          219,
+          64,
+          0
+        ],
+        [
+          1,
+          238,
+          162,
+          69
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "458595807": {
       "tagText": "The Index Messenger,",
       "tagColor": [
