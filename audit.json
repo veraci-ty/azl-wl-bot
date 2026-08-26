@@ -21008,5 +21008,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1833821907:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "addedAt": "2026-08-26T02:35:14.766Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
