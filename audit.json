@@ -19421,15 +19421,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-08-20T23:02:14.358Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-21T00:03:11.642Z",
-    "active": false,
+    "addedAt": "2026-08-26T05:32:04.584Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-21T00:02:13.944Z"
+    "expiresAt": "2026-08-26T17:32:04.209Z"
   },
   "126365793:command:skillbuilder": {
     "addedBy": {
