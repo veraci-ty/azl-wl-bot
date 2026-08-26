@@ -21266,5 +21266,17 @@
     "active": false,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1911944568:emote:FreeterDance": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-26T14:52:46.023Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
