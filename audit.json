@@ -7892,16 +7892,13 @@
   },
   "619213444:style:sonic": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-07-13T14:29:32.810Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-08-21T01:23:15.022Z",
-    "active": false,
+    "addedAt": "2026-08-26T06:55:28.612Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
