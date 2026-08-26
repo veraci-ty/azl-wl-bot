@@ -21032,5 +21032,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1931203237:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-26T03:32:57.730Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
