@@ -21302,5 +21302,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "998091053:style:2011x": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-26T15:05:45.285Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
