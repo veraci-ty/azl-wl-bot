@@ -1983,6 +1983,31 @@
       ],
       "specialer": true
     },
+    "1735123767": {
+      "tagText": ", Bludgeoning Angel Dokuro-chan",
+      "tagColor": [
+        [
+          0,
+          255,
+          105,
+          180
+        ],
+        [
+          0.5,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          220,
+          20,
+          60
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1833821907": {
       "tagText": "FemMaybee",
       "tagColor": [
