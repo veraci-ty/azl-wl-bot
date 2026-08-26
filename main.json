@@ -2242,22 +2242,29 @@
       "specialer": true
     },
     "5639442027": {
-      "tagText": "♡ Queen of Goals ♡",
+      "tagText": ", Ego Empress",
       "tagColor": [
         [
           0,
+          255,
+          255,
+          255
+        ],
+        [
+          0.5,
           48,
           25,
           52
         ],
         [
           1,
-          48,
-          25,
-          52
+          255,
+          255,
+          255
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "4348260626": {
       "tagText": "Brickmei",
