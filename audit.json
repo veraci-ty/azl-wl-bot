@@ -1817,16 +1817,13 @@
   },
   "1974243283:style:sonic": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-06-13T21:37:00.850Z",
-    "removedBy": {
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "removedAt": "2026-08-23T22:27:07.694Z",
-    "active": false,
+    "addedAt": "2026-08-26T15:35:02.932Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
@@ -21337,6 +21334,18 @@
     "removedAt": null,
     "active": true,
     "kind": "command",
+    "expiresAt": null
+  },
+  "2540835076:style:sonic": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-08-26T15:35:02.932Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
     "expiresAt": null
   }
 }
