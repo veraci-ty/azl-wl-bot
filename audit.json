@@ -21278,5 +21278,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "8651277689:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-26T14:55:52.801Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-08-26T19:55:52.391Z"
   }
 }
