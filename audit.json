@@ -17562,9 +17562,12 @@
       "username": "vorlua"
     },
     "addedAt": "2026-08-16T02:41:24.848Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-08-27T01:45:18.995Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -18225,9 +18228,12 @@
       "username": "vorlua"
     },
     "addedAt": "2026-08-16T22:35:29.076Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-08-27T01:45:18.995Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -21429,9 +21435,12 @@
       "username": "vorlua"
     },
     "addedAt": "2026-08-27T01:21:13.906Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-08-27T01:45:18.995Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   }
