@@ -17351,15 +17351,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-24T04:31:14.473Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-27T04:31:14.949Z",
-    "active": false,
+    "addedAt": "2026-08-27T09:20:26.203Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-27T04:31:14.130Z"
+    "expiresAt": null
   },
   "4753693331:command:cc": {
     "addedBy": {
