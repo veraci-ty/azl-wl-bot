@@ -21692,5 +21692,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1254639293:emote:FreeterDance": {
+    "addedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "addedAt": "2026-08-27T19:28:56.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
