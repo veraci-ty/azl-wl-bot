@@ -21482,5 +21482,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "261832676:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "addedAt": "2026-08-27T03:17:02.484Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
