@@ -21455,5 +21455,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4827616210:mvp:disciples": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-27T03:12:08.085Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
