@@ -4778,16 +4778,13 @@
   },
   "10095337976:style:KJ": {
     "addedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-07-01T00:25:04.234Z",
-    "removedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "removedAt": "2026-08-11T11:19:20.983Z",
-    "active": false,
+    "addedAt": "2026-08-28T16:38:55.751Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
