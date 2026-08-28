@@ -18984,9 +18984,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-18T14:47:32.614Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "removedAt": "2026-08-28T15:36:12.253Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
