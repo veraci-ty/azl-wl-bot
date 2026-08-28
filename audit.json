@@ -21980,5 +21980,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "91452721:mvp:flowerymvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-28T15:56:40.824Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
