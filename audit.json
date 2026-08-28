@@ -20511,9 +20511,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-25T02:15:34.822Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-08-28T22:27:48.031Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-01T02:15:34.453Z"
   },
