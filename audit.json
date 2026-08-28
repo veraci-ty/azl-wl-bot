@@ -19205,15 +19205,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-20T10:00:57.671Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-27T10:01:15.310Z",
-    "active": false,
+    "addedAt": "2026-08-28T17:29:06.368Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-27T10:00:57.215Z"
+    "expiresAt": "2026-09-04T17:29:05.972Z"
   },
   "9248296813:mvp:ironmousertuffmvp": {
     "addedBy": {
