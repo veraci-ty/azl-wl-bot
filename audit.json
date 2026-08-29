@@ -22514,5 +22514,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4166416054:emote:PunkRock": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-29T22:28:25.399Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
