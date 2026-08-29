@@ -13439,16 +13439,13 @@
   },
   "10444140562:style:cid": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-08-05T10:00:20.633Z",
-    "removedBy": {
       "discordId": "1404918321488466113",
       "username": "avalonith."
     },
-    "removedAt": "2026-08-07T02:18:23.366Z",
-    "active": false,
+    "addedAt": "2026-08-29T09:03:39.807Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
