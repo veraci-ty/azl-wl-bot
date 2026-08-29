@@ -22418,5 +22418,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1306218806:style:dio": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-29T22:12:27.599Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-28T22:12:27.238Z"
   }
 }
