@@ -18449,16 +18449,13 @@
   },
   "2912663972:style:dio": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-08-17T15:32:56.957Z",
-    "removedBy": {
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "removedAt": "2026-08-18T05:06:21.013Z",
-    "active": false,
+    "addedAt": "2026-08-29T23:30:46.846Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
