@@ -22256,5 +22256,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-23T15:11:22.438Z"
+  },
+  "7709272512:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-29T15:51:57.413Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-05T15:51:56.345Z"
   }
 }
