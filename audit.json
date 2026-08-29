@@ -16247,13 +16247,10 @@
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "addedAt": "2026-08-24T19:36:56.999Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-24T19:46:56.331Z",
-    "active": false,
+    "addedAt": "2026-08-29T21:49:28.878Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
