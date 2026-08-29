@@ -22118,5 +22118,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "7709272512:command:f": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-29T06:41:28.369Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-28T06:41:27.973Z"
   }
 }
