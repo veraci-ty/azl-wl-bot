@@ -22634,5 +22634,41 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4623982500:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-08-29T23:09:35.785Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "1348805690:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-08-29T23:09:35.785Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "4336087160:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-08-29T23:09:35.785Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
