@@ -22232,5 +22232,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-28T12:32:21.239Z"
+  },
+  "458595807:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-29T14:44:52.977Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
