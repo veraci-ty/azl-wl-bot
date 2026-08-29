@@ -18398,15 +18398,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-25T18:48:25.308Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-28T18:53:11.046Z",
-    "active": false,
+    "addedAt": "2026-08-29T13:23:52.505Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-28T18:48:24.882Z"
+    "expiresAt": "2026-09-05T13:23:52.172Z"
   },
   "1761253545:mvp:nettspendlisteningparty": {
     "addedBy": {
