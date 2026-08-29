@@ -22037,15 +22037,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-28T18:11:52.526Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-29T06:13:10.748Z",
-    "active": false,
+    "addedAt": "2026-08-29T07:05:58.762Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-29T06:11:52.045Z"
+    "expiresAt": null
   },
   "1251635216:mvp:nettspendlisteningparty": {
     "addedBy": {
