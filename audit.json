@@ -24461,5 +24461,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-06T23:25:50.821Z"
+  },
+  "187213468:emote:sparxie": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-08-30T23:29:29.021Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
