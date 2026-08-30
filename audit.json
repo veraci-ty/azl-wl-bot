@@ -22811,5 +22811,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": "2026-09-29T01:17:50.961Z"
+  },
+  "1306218806:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-30T01:18:36.458Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-29T01:18:36.048Z"
   }
 }
