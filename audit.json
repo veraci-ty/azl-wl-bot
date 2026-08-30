@@ -9102,9 +9102,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-30T01:33:17.490Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-08-30T01:34:59.063Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-08-31T01:33:17.125Z"
   },
