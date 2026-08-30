@@ -24377,5 +24377,65 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "96245475:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T23:14:16.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-06T23:14:15.869Z"
+  },
+  "1003073176:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T23:14:16.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-06T23:14:15.869Z"
+  },
+  "2265468781:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T23:14:16.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-06T23:14:15.869Z"
+  },
+  "929501840:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T23:14:16.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-06T23:14:15.869Z"
+  },
+  "3743649625:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T23:14:16.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-06T23:14:15.869Z"
   }
 }
