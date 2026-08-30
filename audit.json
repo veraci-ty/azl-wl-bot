@@ -23276,5 +23276,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1254639293:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-30T08:16:01.425Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
