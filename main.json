@@ -2217,6 +2217,24 @@
       ],
       "specialer": false
     },
+    "1882208868": {
+      "tagText": "Chums Owner",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          139
+        ],
+        [
+          1,
+          0,
+          0,
+          139
+        ]
+      ],
+      "specialer": true
+    },
     "1911944568": {
       "tagText": "Child of Remembrance",
       "tagColor": [
