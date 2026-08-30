@@ -23120,5 +23120,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-29T05:42:48.369Z"
+  },
+  "2327164670:command:overtimetest": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-30T05:44:51.642Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
