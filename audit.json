@@ -23912,5 +23912,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1941400999:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-30T19:24:42.177Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
