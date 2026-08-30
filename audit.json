@@ -23624,5 +23624,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "318074376:command:becomeai": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-30T15:27:24.411Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-29T15:27:24.021Z"
   }
 }
