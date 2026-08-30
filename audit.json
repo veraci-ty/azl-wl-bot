@@ -14288,16 +14288,13 @@
   },
   "9823387274:style:cinder": {
     "addedBy": {
-      "discordId": "798966560306757633",
-      "username": "geoality"
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
     },
-    "addedAt": "2026-08-07T20:55:11.187Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-08-30T21:28:57.449Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
