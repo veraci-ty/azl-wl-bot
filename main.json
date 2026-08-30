@@ -2555,19 +2555,19 @@
       "nameaddition": true
     },
     "8651277689": {
-      "tagText": "Ascendant Catalyst",
+      "tagText": "The One Beyond All Limits",
       "tagColor": [
         [
           0,
-          36,
-          36,
-          36
+          0,
+          0,
+          0
         ],
         [
           1,
-          255,
-          255,
-          255
+          0,
+          0,
+          0
         ]
       ],
       "specialer": true
