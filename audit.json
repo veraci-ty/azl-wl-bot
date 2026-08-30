@@ -22979,5 +22979,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "458595807:emote:sparxie": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-30T05:18:33.618Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
