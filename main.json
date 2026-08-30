@@ -2400,25 +2400,25 @@
       "nameaddition": true
     },
     "4166416054": {
-      "tagText": ", The Qingming Arbiter",
+      "tagText": ", The Empress ★",
       "tagColor": [
         [
           0,
           255,
-          230,
-          240
+          253,
+          245
         ],
         [
           0.5,
-          255,
-          100,
-          0
+          249,
+          239,
+          203
         ],
         [
           1,
-          220,
-          20,
-          60
+          232,
+          201,
+          106
         ]
       ],
       "specialer": true,
