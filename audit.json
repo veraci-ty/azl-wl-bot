@@ -23663,5 +23663,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2540835076:style:2011x": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-08-30T15:41:24.664Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
