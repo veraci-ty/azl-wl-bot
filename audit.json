@@ -22931,5 +22931,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1444905320:emote:sparxie": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T04:53:40.090Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
