@@ -24188,5 +24188,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2573434151:style:sonic": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-30T21:31:58.217Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
