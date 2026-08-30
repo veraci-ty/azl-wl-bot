@@ -1824,7 +1824,7 @@
       "specialer": false
     },
     "662417482": {
-      "tagText": ", Azure Latch's Dance",
+      "tagText": ", Azure Latch's Dancer",
       "tagColor": [
         [
           0,
@@ -1845,7 +1845,8 @@
           0
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "863701520": {
       "tagText": "magnus top bins god,",
