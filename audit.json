@@ -20151,9 +20151,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-08-30T15:05:32.916Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-08-30T15:28:55.607Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
