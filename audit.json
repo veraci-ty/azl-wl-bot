@@ -12171,9 +12171,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-07-31T09:22:08.720Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-08-30T09:24:03.798Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-08-30T09:22:08.289Z"
   },
