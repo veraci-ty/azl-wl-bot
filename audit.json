@@ -23876,5 +23876,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "9248296813:command:kaiserawk": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-30T19:06:37.286Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
