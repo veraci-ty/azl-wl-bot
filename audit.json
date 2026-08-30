@@ -23612,5 +23612,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1147190599:command:kaiserawk": {
+    "addedBy": {
+      "discordId": "815312623741567036",
+      "username": "vydla_"
+    },
+    "addedAt": "2026-08-30T15:23:23.871Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
