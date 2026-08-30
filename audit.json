@@ -24227,5 +24227,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1515607596:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-08-30T21:44:29.789Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
