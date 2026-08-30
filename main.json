@@ -2335,6 +2335,31 @@
       ],
       "specialer": true
     },
+    "2573434151": {
+      "tagText": ", The Quincy King",
+      "tagColor": [
+        [
+          0,
+          117,
+          175,
+          250
+        ],
+        [
+          0.5,
+          223,
+          205,
+          36
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "2608219493": {
       "tagText": "The Ultimate Gamer",
       "tagColor": [
