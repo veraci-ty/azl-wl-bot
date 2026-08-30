@@ -7896,9 +7896,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-26T06:55:28.612Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-08-30T23:57:15.806Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
