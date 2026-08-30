@@ -20147,18 +20147,15 @@
   },
   "318074376:style:dio": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-08-24T04:03:06.690Z",
-    "removedBy": {
       "discordId": "526367718824476692",
       "username": "toast.s"
     },
-    "removedAt": "2026-08-30T14:05:25.235Z",
-    "active": false,
+    "addedAt": "2026-08-30T15:05:32.916Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-18T04:03:06.294Z"
+    "expiresAt": null
   },
   "4716052198:style:dio": {
     "addedBy": {
