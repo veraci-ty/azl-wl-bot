@@ -23711,5 +23711,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "8118864585:command:overtimetest": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-30T16:46:14.689Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
