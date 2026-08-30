@@ -24215,5 +24215,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "375336392:style:2011x": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-08-30T21:40:55.517Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
