@@ -24332,5 +24332,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-29T22:18:25.963Z"
+  },
+  "139232224:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-08-30T22:23:00.303Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
