@@ -9098,18 +9098,15 @@
   },
   "469246586:command:rinnoplay": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-30T01:33:17.490Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-08-30T01:34:59.063Z",
-    "active": false,
+    "addedAt": "2026-08-30T01:35:04.155Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-31T01:33:17.125Z"
+    "expiresAt": null
   },
   "1687664781:command:cc": {
     "addedBy": {
