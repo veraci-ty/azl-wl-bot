@@ -21186,9 +21186,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-26T06:55:38.801Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-08-30T23:56:40.944Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
