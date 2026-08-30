@@ -8357,16 +8357,13 @@
   },
   "1110892370:style:aizen": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T17:31:12.772Z",
-    "removedBy": {
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-08-30T13:42:58.308Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
