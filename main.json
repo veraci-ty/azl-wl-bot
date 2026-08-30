@@ -1581,6 +1581,24 @@
     ]
   },
   "titles": {
+    "84460231": {
+      "tagText": "Chud Chud Chud Sahur",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "91452721": {
       "tagText": "Seraphim",
       "tagColor": [
