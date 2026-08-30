@@ -2432,28 +2432,29 @@
       "nameaddition": true
     },
     "9248296813": {
-      "tagText": "Tung Tung Tung Saher",
+      "tagText": "꧁⎝ 𓆩༺ The Lady Avalonith ༻𓆪 ⎠꧂",
       "tagColor": [
         [
           0,
-          57,
-          0,
-          156
+          123,
+          30,
+          58
         ],
         [
           0.5,
-          197,
-          84,
-          189
+          212,
+          175,
+          55
         ],
         [
           1,
-          0,
-          0,
-          0
+          26,
+          16,
+          37
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "7874287740": {
       "tagText": "M1 F.C",
