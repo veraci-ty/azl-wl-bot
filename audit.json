@@ -22883,5 +22883,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-29T03:00:40.210Z"
+  },
+  "473164784:emote:PunkRock": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-30T03:05:37.605Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
