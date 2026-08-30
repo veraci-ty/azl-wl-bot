@@ -18032,15 +18032,12 @@
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "addedAt": "2026-08-16T16:57:34.015Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-08-30T13:22:14.416Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-08-30T17:22:14.046Z"
   },
   "120963564:commentator:Roland": {
     "addedBy": {
