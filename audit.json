@@ -23888,5 +23888,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9248296813:command:overtimetest": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-30T19:06:43.341Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
