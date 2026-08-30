@@ -23288,5 +23288,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "489735644:style:dio": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-30T08:31:42.770Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-29T08:31:42.427Z"
   }
 }
