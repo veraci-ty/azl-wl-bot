@@ -23171,5 +23171,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "260222750:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-30T06:40:58.989Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-24T06:40:58.638Z"
   }
 }
