@@ -23552,16 +23552,13 @@
   },
   "4166416054:command:kaiserawk": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-30T14:28:33.225Z",
-    "removedBy": {
       "discordId": "815312623741567036",
       "username": "vydla_"
     },
-    "removedAt": "2026-08-30T15:13:51.815Z",
-    "active": false,
+    "addedAt": "2026-08-30T15:20:42.803Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
