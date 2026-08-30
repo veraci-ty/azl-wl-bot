@@ -23201,5 +23201,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": "2026-09-24T07:11:43.659Z"
+  },
+  "1911944568:command:scarymonster": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-30T07:31:35.245Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
