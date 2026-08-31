@@ -25400,5 +25400,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2327164670:mvp:broly": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T18:36:49.652Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
