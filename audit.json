@@ -8201,18 +8201,15 @@
   },
   "4640746451:style:aizen": {
     "addedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-07-15T02:49:42.180Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-07-27T05:20:13.730Z",
-    "active": false,
+    "addedAt": "2026-08-31T12:00:15.292Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-09-01T00:00:14.862Z"
   },
   "2607632729:style:KJ": {
     "addedBy": {
