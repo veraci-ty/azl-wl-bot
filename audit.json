@@ -21456,9 +21456,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-26T17:23:21.319Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-08-31T04:50:16.992Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-25T17:23:20.955Z"
   },
