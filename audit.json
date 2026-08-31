@@ -3708,15 +3708,12 @@
   "2451328647:style:sonic": {
     "addedBy": {
       "discordId": "1066528844972048465",
-      "username": "lyvn.lyrn"
-    },
-    "addedAt": "2026-06-23T16:54:29.436Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "removedAt": "2026-08-31T00:08:09.223Z",
-    "active": false,
+    "addedAt": "2026-08-31T00:09:17.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
