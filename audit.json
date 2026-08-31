@@ -20297,13 +20297,10 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-08-24T07:00:01.026Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-08-31T00:08:09.223Z",
-    "active": false,
+    "addedAt": "2026-08-31T00:08:46.721Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
