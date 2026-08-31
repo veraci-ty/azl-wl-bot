@@ -25475,5 +25475,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2310291174:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-31T19:59:39.572Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
