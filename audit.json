@@ -25487,5 +25487,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1172470680:style:2011x": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-31T20:11:22.128Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
