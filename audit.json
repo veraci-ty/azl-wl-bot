@@ -9893,15 +9893,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-23T07:31:41.476Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-30T07:34:03.666Z",
-    "active": false,
+    "addedAt": "2026-08-31T05:49:34.255Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-30T07:31:41.124Z"
+    "expiresAt": "2026-09-14T05:49:33.841Z"
   },
   "520623444:command:kuon": {
     "addedBy": {
