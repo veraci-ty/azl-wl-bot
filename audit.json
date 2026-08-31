@@ -25601,5 +25601,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1941400999:command:slifer": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-08-31T22:57:17.087Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
