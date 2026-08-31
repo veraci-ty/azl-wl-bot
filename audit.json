@@ -11207,16 +11207,13 @@
   },
   "1567272813:style:dawnwalker": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "530595571103170591",
+      "username": ".turning."
     },
-    "addedAt": "2026-07-27T21:17:57.834Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-07-27T21:18:52.353Z",
-    "active": false,
+    "addedAt": "2026-08-31T22:05:35.765Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
