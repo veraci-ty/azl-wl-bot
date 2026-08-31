@@ -24743,5 +24743,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "148885826:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-31T00:19:23.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-01T00:19:22.703Z"
   }
 }
