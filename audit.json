@@ -24941,5 +24941,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "52229617:style:2011x": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-08-31T02:54:09.422Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
