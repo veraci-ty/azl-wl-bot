@@ -25238,5 +25238,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-14T07:09:53.710Z"
+  },
+  "366074287:command:overtimetest": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-08-31T08:14:18.811Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
