@@ -25310,14 +25310,11 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-31T12:13:52.671Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-31T12:17:05.337Z",
-    "active": false,
+    "addedAt": "2026-08-31T12:17:16.307Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-08-31T13:17:15.777Z"
   }
 }
