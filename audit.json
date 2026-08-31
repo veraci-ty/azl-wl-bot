@@ -24815,5 +24815,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3730120158:style:KJ": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T01:52:19.763Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-30T01:52:19.371Z"
   }
 }
