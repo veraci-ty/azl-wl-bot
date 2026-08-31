@@ -16481,15 +16481,12 @@
       "discordId": "666762995258359808",
       "username": "konisdumb"
     },
-    "addedAt": "2026-08-13T18:40:42.687Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-14T18:42:03.768Z",
-    "active": false,
+    "addedAt": "2026-08-31T22:14:42.951Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-14T18:40:42.307Z"
+    "expiresAt": null
   },
   "1941400999:command:ncd": {
     "addedBy": {
