@@ -24137,13 +24137,10 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-08-30T21:15:02.682Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-08-31T00:11:35.045Z",
-    "active": false,
+    "addedAt": "2026-08-31T19:21:04.931Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
