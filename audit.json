@@ -24875,5 +24875,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "52229617:mvp:broly": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T02:01:08.295Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
