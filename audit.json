@@ -24887,5 +24887,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "52229617:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T02:01:18.939Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
