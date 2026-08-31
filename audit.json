@@ -19473,9 +19473,12 @@
       "username": "v_agos"
     },
     "addedAt": "2026-08-28T23:30:06.698Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-08-31T18:14:48.914Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-08-31T23:30:06.119Z"
   },
