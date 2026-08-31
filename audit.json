@@ -24839,5 +24839,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "52229617:style:messi": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T02:00:01.130Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
