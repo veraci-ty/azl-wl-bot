@@ -25373,5 +25373,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "413662006:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-08-31T18:04:14.373Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
