@@ -25511,5 +25511,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2912663972:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-08-31T21:53:37.084Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
