@@ -24731,5 +24731,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-07T00:07:31.523Z"
+  },
+  "10296674:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-08-31T00:16:02.972Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
