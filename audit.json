@@ -25262,5 +25262,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9248296813:mvp:visionary": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-08-31T09:37:32.082Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
