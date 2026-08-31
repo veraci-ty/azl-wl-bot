@@ -14394,9 +14394,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-10T01:37:15.717Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-08-31T08:14:03.720Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
