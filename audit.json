@@ -5634,9 +5634,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-07-05T13:28:42.395Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-08-31T01:50:37.747Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
