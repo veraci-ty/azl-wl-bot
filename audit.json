@@ -25976,5 +25976,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5622750932:command:evil": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-01T02:52:14.842Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
