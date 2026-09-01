@@ -6371,15 +6371,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-21T19:58:26.487Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-26T20:00:38.689Z",
-    "active": false,
+    "addedAt": "2026-09-01T16:08:06.074Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-26T19:58:26.114Z"
+    "expiresAt": "2026-09-15T16:08:05.674Z"
   },
   "520623444:style:izayoi": {
     "addedBy": {
