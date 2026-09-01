@@ -25718,5 +25718,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1515607596:mvp:gubbysword": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-09-01T01:42:05.877Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-01T01:42:15.480Z"
   }
 }
