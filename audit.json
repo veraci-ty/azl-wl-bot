@@ -25694,15 +25694,12 @@
       "discordId": "526367718824476692",
       "username": "toast.s"
     },
-    "addedAt": "2026-09-01T01:42:05.877Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-01T01:43:25.748Z",
-    "active": false,
+    "addedAt": "2026-09-01T02:16:27.526Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-09-01T01:42:15.480Z"
+    "expiresAt": null
   },
   "5215714016:style:sonic": {
     "addedBy": {
