@@ -26660,5 +26660,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4982293450:emote:elpadia": {
+    "addedBy": {
+      "discordId": "809483924752826479",
+      "username": "hakodevss"
+    },
+    "addedAt": "2026-09-01T16:07:58.215Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
