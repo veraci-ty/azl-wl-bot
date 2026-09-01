@@ -8202,9 +8202,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-31T12:00:15.292Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-01T00:03:25.706Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-01T00:00:14.862Z"
   },
