@@ -26000,5 +26000,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1147190599:command:evil": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-01T02:53:33.805Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
