@@ -26807,5 +26807,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10418462:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-01T20:00:40.153Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-02T20:00:39.680Z"
   }
 }
