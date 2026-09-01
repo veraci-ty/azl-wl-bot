@@ -26303,5 +26303,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3730120158:emote:IrisOutNew": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-01T08:30:38.075Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
