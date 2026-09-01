@@ -18588,9 +18588,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-08-17T20:15:56.581Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "removedAt": "2026-09-01T01:38:07.079Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
