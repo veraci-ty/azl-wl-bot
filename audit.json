@@ -25955,5 +25955,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4230343971:style:sonic": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-09-01T02:14:35.311Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
