@@ -2498,6 +2498,24 @@
       ],
       "specialer": true
     },
+    "2514330914": {
+      "tagText": "Big Chocolate",
+      "tagColor": [
+        [
+          0,
+          101,
+          67,
+          33
+        ],
+        [
+          1,
+          101,
+          67,
+          33
+        ]
+      ],
+      "specialer": false
+    },
     "2573434151": {
       "tagText": ", The Quincy King",
       "tagColor": [
