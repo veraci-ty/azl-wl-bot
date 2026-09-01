@@ -7064,13 +7064,10 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-07-10T18:05:11.459Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-08-21T01:21:23.598Z",
-    "active": false,
+    "addedAt": "2026-09-01T03:00:12.711Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
