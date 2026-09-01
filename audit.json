@@ -25655,5 +25655,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1102361643:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-01T00:22:34.243Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
