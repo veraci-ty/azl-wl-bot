@@ -26768,5 +26768,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "325765268:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-01T19:32:09.262Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
