@@ -26702,5 +26702,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "393718809:command:heat": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-01T18:01:40.995Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
