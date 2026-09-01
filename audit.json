@@ -21617,15 +21617,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-27T11:11:36.937Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-01T11:13:26.054Z",
-    "active": false,
+    "addedAt": "2026-09-01T12:15:00.164Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-01T11:11:36.539Z"
+    "expiresAt": null
   },
   "1593793217:mvp:kanekimvp": {
     "addedBy": {
