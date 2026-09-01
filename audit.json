@@ -17264,16 +17264,13 @@
   },
   "9823387274:command:saeawk": {
     "addedBy": {
-      "discordId": "798966560306757633",
-      "username": "geoality"
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
     },
-    "addedAt": "2026-08-15T10:07:45.169Z",
-    "removedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "removedAt": "2026-08-15T12:36:46.129Z",
-    "active": false,
+    "addedAt": "2026-09-01T03:43:28.271Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
