@@ -26318,5 +26318,17 @@
     "active": false,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10444140562:emote:IrisOutNew": {
+    "addedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "addedAt": "2026-09-01T09:21:26.141Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
