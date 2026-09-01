@@ -26726,5 +26726,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "5077795305:style:2011x": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-09-01T18:29:54.871Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
