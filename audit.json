@@ -27224,5 +27224,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "113454594:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-02T07:31:38.530Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-27T07:31:38.102Z"
   }
 }
