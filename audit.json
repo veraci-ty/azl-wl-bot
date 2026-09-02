@@ -26975,5 +26975,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "3858712402:style:dio": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-02T00:08:54.362Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-02T00:08:53.981Z"
   }
 }
