@@ -14798,18 +14798,15 @@
   },
   "1759869569:style:dawnwalker": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-10T02:56:33.779Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-08-12T02:02:35.020Z",
-    "active": false,
+    "addedAt": "2026-09-02T07:32:20.653Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-10-02T07:32:20.246Z"
   },
   "260222750:command:rinnoplay": {
     "addedBy": {
