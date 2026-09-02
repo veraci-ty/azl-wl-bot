@@ -18834,15 +18834,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-16T14:20:01.142Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-02T19:57:11.002Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-06T14:20:00.788Z"
+    "expiresAt": "2026-09-23T19:57:10.579Z"
   },
   "1250526085:commentator:Roland": {
     "addedBy": {
