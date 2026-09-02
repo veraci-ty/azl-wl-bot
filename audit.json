@@ -27173,5 +27173,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-05T04:41:53.793Z"
+  },
+  "9823387274:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-02T05:03:27.893Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
