@@ -14391,16 +14391,13 @@
   },
   "260526009:style:dio": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "526367718824476692",
+      "username": "toast.s"
     },
-    "addedAt": "2026-08-05T14:59:09.516Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-13T09:15:09.977Z",
-    "active": false,
+    "addedAt": "2026-09-02T21:28:19.684Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
