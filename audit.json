@@ -11800,9 +11800,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-27T17:42:02.258Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "removedAt": "2026-09-02T20:47:24.063Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
