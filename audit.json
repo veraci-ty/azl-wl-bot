@@ -16766,18 +16766,15 @@
   },
   "1128963703:style:ronaldo": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-08-14T10:42:00.033Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-08-18T00:47:41.967Z",
-    "active": false,
+    "addedAt": "2026-09-02T00:31:35.127Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-08T10:41:59.602Z"
+    "expiresAt": "2026-10-02T00:31:34.743Z"
   },
   "189765104:command:rinnoplay": {
     "addedBy": {
