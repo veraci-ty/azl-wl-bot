@@ -17922,15 +17922,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-20T05:04:43.932Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:42:30.344Z",
-    "active": false,
+    "addedAt": "2026-09-02T15:11:53.242Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-03T05:04:43.571Z"
+    "expiresAt": null
   },
   "301416925:commentator:Evernight": {
     "addedBy": {
