@@ -30249,5 +30249,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-07T17:31:31.999Z"
+  },
+  "1144804222:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-02T19:39:44.330Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
