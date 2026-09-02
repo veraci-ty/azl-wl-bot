@@ -30504,5 +30504,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "850512411:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-09-02T22:44:36.582Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
