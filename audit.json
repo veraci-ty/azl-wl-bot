@@ -8577,15 +8577,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-01T02:49:19.212Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-01T04:53:25.807Z",
-    "active": false,
+    "addedAt": "2026-09-02T22:21:15.793Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-01T04:49:18.818Z"
+    "expiresAt": null
   },
   "4348260626:command:rinnoplay": {
     "addedBy": {
