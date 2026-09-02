@@ -14379,16 +14379,13 @@
   },
   "260526009:style:dawnwalker": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "526367718824476692",
+      "username": "toast.s"
     },
-    "addedAt": "2026-08-05T14:58:56.071Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-02T21:23:13.916Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
