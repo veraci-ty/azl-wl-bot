@@ -17853,15 +17853,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-29T09:47:35.130Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:39:32.254Z",
-    "active": false,
+    "addedAt": "2026-09-02T16:39:53.050Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-12T09:47:34.780Z"
+    "expiresAt": null
   },
   "473164784:command:ncd": {
     "addedBy": {
