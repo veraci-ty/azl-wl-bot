@@ -30222,5 +30222,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "413662006:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "addedAt": "2026-09-02T16:00:39.017Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
