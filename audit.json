@@ -13389,13 +13389,10 @@
       "discordId": "526367718824476692",
       "username": "toast.s"
     },
-    "addedAt": "2026-08-02T17:14:18.012Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-02T15:31:13.033Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
