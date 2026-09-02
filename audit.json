@@ -30195,5 +30195,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9823387274:emote:elpadia": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-02T16:15:11.738Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
