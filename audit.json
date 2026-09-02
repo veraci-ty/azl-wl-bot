@@ -18765,16 +18765,13 @@
   },
   "2573434151:command:f": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T14:25:41.478Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:39:32.254Z",
-    "active": false,
+    "addedAt": "2026-09-02T20:28:13.851Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
