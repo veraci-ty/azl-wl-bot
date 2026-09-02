@@ -23878,9 +23878,12 @@
       "username": "avalonith."
     },
     "addedAt": "2026-08-29T22:29:05.603Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "removedAt": "2026-09-02T20:48:12.085Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
