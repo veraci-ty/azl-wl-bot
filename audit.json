@@ -14481,16 +14481,13 @@
   },
   "260526009:style:ronaldo": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "526367718824476692",
+      "username": "toast.s"
     },
-    "addedAt": "2026-08-05T15:04:44.424Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:31:42.982Z",
-    "active": false,
+    "addedAt": "2026-09-02T21:28:06.582Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
