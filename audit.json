@@ -28284,13 +28284,10 @@
       "discordId": "530595571103170591",
       "username": ".turning."
     },
-    "addedAt": "2026-09-02T04:32:23.992Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-02T16:21:54.055Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
