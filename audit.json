@@ -30219,5 +30219,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-07T16:42:29.962Z"
+  },
+  "217698991:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-02T16:42:46.794Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": "2026-09-07T16:42:46.357Z"
   }
 }
