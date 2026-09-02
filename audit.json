@@ -27185,5 +27185,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5869152548:command:overtimetest": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-02T05:24:27.934Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-02T05:24:27.554Z"
   }
 }
