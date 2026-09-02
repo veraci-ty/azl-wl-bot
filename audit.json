@@ -8272,9 +8272,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-23T00:50:44.703Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -8575,9 +8578,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-02T22:21:15.793Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -8641,9 +8647,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-23T00:52:40.056Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -19408,9 +19417,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-29T13:23:52.505Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-05T13:23:52.172Z"
   },
@@ -25858,9 +25870,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-31T00:04:51.753Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-30T00:04:51.404Z"
   },
@@ -25999,9 +26014,12 @@
       "username": "onvlua"
     },
     "addedAt": "2026-08-31T01:10:37.760Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -26659,9 +26677,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-31T18:35:21.678Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-02T23:54:00.701Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
