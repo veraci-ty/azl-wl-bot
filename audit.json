@@ -27092,5 +27092,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-02T02:42:07.609Z"
+  },
+  "619213444:command:evil": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-02T02:47:45.991Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
