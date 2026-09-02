@@ -30159,5 +30159,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5090701640:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "addedAt": "2026-09-02T14:13:31.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
