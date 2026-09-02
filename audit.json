@@ -27011,5 +27011,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "5639442027:command:overtimetest": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-02T00:39:43.980Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
