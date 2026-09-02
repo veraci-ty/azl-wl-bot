@@ -26883,9 +26883,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-01T21:38:43.680Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "removedAt": "2026-09-02T01:53:38.806Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
