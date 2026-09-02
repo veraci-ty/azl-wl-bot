@@ -30495,5 +30495,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "619213444:mvp:flowerymvp": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-02T22:20:57.845Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
