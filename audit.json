@@ -26403,15 +26403,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-31T07:07:13.264Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:42:30.344Z",
-    "active": false,
+    "addedAt": "2026-09-02T15:31:55.866Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-21T07:07:12.844Z"
+    "expiresAt": "2026-09-23T15:31:55.500Z"
   },
   "393718809:command:overtimetest": {
     "addedBy": {
