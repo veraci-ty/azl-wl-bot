@@ -30138,5 +30138,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "520623444:command:announce": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-02T11:53:38.295Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
