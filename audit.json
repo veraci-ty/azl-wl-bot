@@ -20901,15 +20901,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-23T07:32:58.595Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:32:54.483Z",
-    "active": false,
+    "addedAt": "2026-09-02T12:49:05.218Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-06T07:32:58.257Z"
+    "expiresAt": null
   },
   "1623483130:command:cc": {
     "addedBy": {
