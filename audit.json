@@ -26991,9 +26991,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-02T00:08:54.362Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-09-02T02:04:01.889Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-02T00:08:53.981Z"
   },
