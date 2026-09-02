@@ -10425,15 +10425,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-31T05:49:34.255Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:32:54.483Z",
-    "active": false,
+    "addedAt": "2026-09-02T16:36:26.232Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-14T05:49:33.841Z"
+    "expiresAt": "2026-09-23T16:36:25.784Z"
   },
   "520623444:command:kuon": {
     "addedBy": {
