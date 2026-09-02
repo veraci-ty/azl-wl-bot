@@ -30126,5 +30126,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-23T11:08:42.778Z"
+  },
+  "1696534838:command:saeawk": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-02T11:34:54.132Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
