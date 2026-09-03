@@ -3655,9 +3655,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-16T14:25:54.239Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
@@ -14839,9 +14842,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-16T14:25:29.870Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -18841,9 +18847,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-02T20:28:13.851Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -18853,9 +18862,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-02T20:28:21.890Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -20257,9 +20269,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-20T10:30:56.457Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -21532,9 +21547,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-08-24T20:27:48.343Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -21598,9 +21616,12 @@
       "username": "niaplix"
     },
     "addedAt": "2026-08-25T00:14:58.069Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -22009,9 +22030,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-08-26T01:23:11.387Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -22186,9 +22210,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-08-26T02:22:31.470Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -22918,9 +22945,12 @@
       "username": "avalonith."
     },
     "addedAt": "2026-08-27T19:28:39.887Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -23689,9 +23719,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-08-29T22:08:01.206Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -23728,9 +23761,12 @@
       "username": "konisdumb"
     },
     "addedAt": "2026-08-29T22:19:26.750Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -25453,9 +25489,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-08-31T00:26:07.665Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -25489,9 +25528,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-01T02:10:52.168Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -25570,9 +25612,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-08-30T22:08:17.157Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -26584,9 +26629,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-31T12:23:28.548Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -28102,9 +28150,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T19:57:47.258Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-03T14:06:28.776Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
