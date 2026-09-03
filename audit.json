@@ -30933,5 +30933,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1941400999:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-03T19:21:47.909Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
