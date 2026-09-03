@@ -13689,18 +13689,15 @@
   },
   "1403331802:command:f": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-08-03T04:18:15.532Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:39:32.254Z",
-    "active": false,
+    "addedAt": "2026-09-03T21:34:30.591Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-17T21:34:30.110Z"
   },
   "134046548:mvp:diavoloMvp": {
     "addedBy": {
