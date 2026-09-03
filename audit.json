@@ -26667,16 +26667,13 @@
   },
   "3730120158:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-31T18:35:21.678Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T23:54:00.701Z",
-    "active": false,
+    "addedAt": "2026-09-03T00:04:43.104Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
