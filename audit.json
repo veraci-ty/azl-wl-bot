@@ -2181,13 +2181,10 @@
       "discordId": "530595571103170591",
       "username": ".turning."
     },
-    "addedAt": "2026-06-14T22:27:52.816Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-03T12:59:47.153Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
