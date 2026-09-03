@@ -30678,5 +30678,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1911944568:command:kaiserawk": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-03T06:48:01.330Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
