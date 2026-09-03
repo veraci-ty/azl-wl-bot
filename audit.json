@@ -19647,13 +19647,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-17T22:52:33.578Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-03T16:46:32.880Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
