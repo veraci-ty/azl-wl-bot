@@ -27603,16 +27603,13 @@
   },
   "3730120158:emote:IrisOutNew": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
     },
-    "addedAt": "2026-09-01T08:30:38.075Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-01T08:31:01.877Z",
-    "active": false,
+    "addedAt": "2026-09-03T11:39:46.458Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
