@@ -1999,31 +1999,6 @@
       ],
       "specialer": false
     },
-    "2327164670": {
-      "tagText": "Prinzessin der Schatten",
-      "tagColor": [
-        [
-          0,
-          82,
-          82,
-          82
-        ],
-        [
-          0.5,
-          128,
-          128,
-          128
-        ],
-        [
-          1,
-          255,
-          255,
-          255
-        ]
-      ],
-      "specialer": true,
-      "nameaddition": true
-    },
     "2451328647": {
       "tagText": "The Blue Blur,",
       "tagColor": [
