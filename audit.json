@@ -26175,15 +26175,12 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-08-31T02:13:16.700Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-03T03:05:04.142Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-07T02:13:16.252Z"
+    "expiresAt": "2026-09-08T03:05:03.734Z"
   },
   "52229617:mvp:ulquiorra": {
     "addedBy": {
