@@ -30759,5 +30759,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "103548428:command:saeawk": {
+    "addedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "addedAt": "2026-09-03T10:50:07.330Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
