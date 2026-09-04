@@ -31398,5 +31398,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-06T16:21:29.230Z"
+  },
+  "1606662131:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-09-04T16:36:42.182Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-06T16:36:41.775Z"
   }
 }
