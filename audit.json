@@ -31302,5 +31302,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:command:cc": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-04T13:26:34.391Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
