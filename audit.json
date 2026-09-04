@@ -31266,5 +31266,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-04T13:19:58.565Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
