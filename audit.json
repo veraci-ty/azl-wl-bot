@@ -31242,5 +31242,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9248296813:style:cid": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-04T13:19:45.094Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
