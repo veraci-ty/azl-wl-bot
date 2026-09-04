@@ -31191,5 +31191,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3102733191:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-04T06:23:10.573Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
