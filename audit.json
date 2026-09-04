@@ -31170,5 +31170,29 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5639442027:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-09-04T01:26:16.782Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "1974243283:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-09-04T01:26:16.782Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
