@@ -31503,13 +31503,10 @@
       "discordId": "582209916215885825",
       "username": "zaneisprettycool"
     },
-    "addedAt": "2026-09-04T21:03:43.332Z",
-    "removedBy": {
-      "discordId": "582209916215885825",
-      "username": "zaneisprettycool"
-    },
-    "removedAt": "2026-09-04T21:04:25.303Z",
-    "active": false,
+    "addedAt": "2026-09-04T21:04:36.480Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   }
