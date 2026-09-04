@@ -31449,5 +31449,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2327164670:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-04T19:16:11.351Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
