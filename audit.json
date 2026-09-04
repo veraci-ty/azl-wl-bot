@@ -5391,16 +5391,13 @@
   },
   "9248296813:command:ball": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-07-03T13:51:05.843Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T20:38:23.813Z",
-    "active": false,
+    "addedAt": "2026-09-04T13:26:28.840Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
