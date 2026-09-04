@@ -24318,16 +24318,13 @@
   },
   "9248296813:style:sonic": {
     "addedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-03T15:41:12.393Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-09-03T19:38:49.778Z",
-    "active": false,
+    "addedAt": "2026-09-04T13:29:29.163Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
