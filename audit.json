@@ -31419,5 +31419,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "8651277689:emote:elpadia": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-04T17:29:16.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
