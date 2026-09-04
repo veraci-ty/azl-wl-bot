@@ -31122,5 +31122,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": "2026-09-03T21:47:51.879Z"
+  },
+  "1696534838:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-04T00:48:57.329Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
