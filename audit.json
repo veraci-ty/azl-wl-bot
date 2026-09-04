@@ -17107,9 +17107,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-03T16:46:43.564Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-04T13:36:56.088Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
