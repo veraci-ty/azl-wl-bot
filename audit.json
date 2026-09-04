@@ -31081,9 +31081,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-09-03T19:21:47.909Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "removedAt": "2026-09-04T01:46:11.812Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
