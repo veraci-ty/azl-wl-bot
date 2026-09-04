@@ -19974,13 +19974,10 @@
       "discordId": "1404918321488466113",
       "username": "avalonith."
     },
-    "addedAt": "2026-08-18T11:50:59.218Z",
-    "removedBy": {
-      "discordId": "1404918321488466113",
-      "username": "avalonith."
-    },
-    "removedAt": "2026-09-02T20:46:13.958Z",
-    "active": false,
+    "addedAt": "2026-09-04T12:16:00.056Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
