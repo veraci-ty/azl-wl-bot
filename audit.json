@@ -28461,16 +28461,13 @@
   },
   "9248296813:mvp:gubbysword": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-02T03:12:19.956Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T20:38:23.813Z",
-    "active": false,
+    "addedAt": "2026-09-04T13:28:59.033Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
