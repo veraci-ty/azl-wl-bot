@@ -28666,9 +28666,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-02T09:20:08.970Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "removedAt": "2026-09-04T01:45:55.780Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-09-09T09:20:08.558Z"
   },
