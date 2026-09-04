@@ -31299,5 +31299,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "9248296813:style:gremmy": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-04T13:24:57.776Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
