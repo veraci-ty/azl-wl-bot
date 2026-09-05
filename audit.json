@@ -31620,5 +31620,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2573434151:command:saeawk": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-05T12:40:22.506Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
