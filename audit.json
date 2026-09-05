@@ -22458,16 +22458,13 @@
   },
   "998091053:style:2011x": {
     "addedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-08-31T00:26:07.665Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-09-03T19:23:56.225Z",
-    "active": false,
+    "addedAt": "2026-09-05T03:09:54.536Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
