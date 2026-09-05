@@ -14784,16 +14784,13 @@
   },
   "2573434151:style:cinder": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
     },
-    "addedAt": "2026-08-16T14:25:29.870Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-03T14:06:28.776Z",
-    "active": false,
+    "addedAt": "2026-09-05T12:12:24.206Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
