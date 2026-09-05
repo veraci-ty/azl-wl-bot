@@ -31554,5 +31554,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1241352401:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-05T00:58:11.344Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
