@@ -21690,13 +21690,10 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-08-25T16:38:48.103Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:30:38.141Z",
-    "active": false,
+    "addedAt": "2026-09-05T03:08:20.466Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
