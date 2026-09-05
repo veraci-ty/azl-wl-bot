@@ -23631,13 +23631,10 @@
       "discordId": "1520107404606570665",
       "username": "yuriestera"
     },
-    "addedAt": "2026-08-29T22:08:01.206Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-03T14:06:28.776Z",
-    "active": false,
+    "addedAt": "2026-09-05T12:10:54.893Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
