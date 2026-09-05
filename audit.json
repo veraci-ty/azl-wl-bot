@@ -31581,5 +31581,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "312582604:mvp:deathkid": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-09-05T02:41:31.968Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-06T02:41:31.550Z"
   }
 }
