@@ -31617,5 +31617,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "998091053:command:kuon": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-05T05:08:54.964Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
