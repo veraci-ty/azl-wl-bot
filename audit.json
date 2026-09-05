@@ -31623,5 +31623,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1911944568:mvp:deathkid": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-05T09:57:09.482Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
