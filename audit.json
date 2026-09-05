@@ -1455,16 +1455,13 @@
   },
   "1385024651:style:ronaldo": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-06-11T19:09:52.348Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:30:38.141Z",
-    "active": false,
+    "addedAt": "2026-09-05T03:20:37.547Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
