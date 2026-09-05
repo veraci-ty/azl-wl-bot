@@ -23661,13 +23661,10 @@
       "discordId": "666762995258359808",
       "username": "konisdumb"
     },
-    "addedAt": "2026-08-29T22:19:26.750Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-03T14:06:28.776Z",
-    "active": false,
+    "addedAt": "2026-09-05T12:57:09.990Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
