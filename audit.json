@@ -31641,5 +31641,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-05T16:32:16.828Z"
+  },
+  "458595807:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "addedAt": "2026-09-05T15:09:53.676Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
