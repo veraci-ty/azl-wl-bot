@@ -22482,16 +22482,13 @@
   },
   "998091053:mvp:ulquiorra": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-26T15:11:34.039Z",
-    "removedBy": {
       "discordId": "582585049942065164",
       "username": "diisciples"
     },
-    "removedAt": "2026-09-05T00:16:41.103Z",
-    "active": false,
+    "addedAt": "2026-09-05T00:24:41.209Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
