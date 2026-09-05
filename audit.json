@@ -31683,5 +31683,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1163981623:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-05T18:51:00.565Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
