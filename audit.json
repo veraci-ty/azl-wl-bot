@@ -21957,13 +21957,10 @@
       "discordId": "582585049942065164",
       "username": "diisciples"
     },
-    "addedAt": "2026-09-01T05:05:15.503Z",
-    "removedBy": {
-      "discordId": "582585049942065164",
-      "username": "diisciples"
-    },
-    "removedAt": "2026-09-05T00:13:06.521Z",
-    "active": false,
+    "addedAt": "2026-09-05T00:24:27.203Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
