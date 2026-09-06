@@ -31423,9 +31423,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-09-04T16:36:42.182Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-06T16:37:03.903Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-06T16:36:41.775Z"
   },
