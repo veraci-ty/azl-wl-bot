@@ -12922,9 +12922,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-07-31T21:11:05.465Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T21:54:33.998Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
