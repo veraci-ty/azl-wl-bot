@@ -7515,16 +7515,13 @@
   },
   "1147190599:ost:rin": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-07-10T22:59:55.787Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-06T21:53:32.597Z",
-    "active": false,
+    "addedAt": "2026-09-06T21:53:52.441Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
