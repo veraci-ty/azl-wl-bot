@@ -25927,13 +25927,10 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-03T00:05:53.458Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-06T23:03:31.387Z",
-    "active": false,
+    "addedAt": "2026-09-06T23:24:07.430Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
