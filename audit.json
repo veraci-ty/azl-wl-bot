@@ -9770,9 +9770,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-07-22T10:47:58.090Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T22:03:23.474Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
