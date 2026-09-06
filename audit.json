@@ -24163,16 +24163,13 @@
   },
   "119422096:emote:sparxie": {
     "addedBy": {
-      "discordId": "530595571103170591",
-      "username": ".turning."
-    },
-    "addedAt": "2026-08-30T01:32:09.273Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-06T22:06:17.687Z",
-    "active": false,
+    "addedAt": "2026-09-06T22:06:55.922Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
