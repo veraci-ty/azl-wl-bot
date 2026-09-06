@@ -31819,9 +31819,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-06T06:06:28.343Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T07:00:10.132Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
