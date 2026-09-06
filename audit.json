@@ -3450,16 +3450,13 @@
   },
   "260526009:ost:rin": {
     "addedBy": {
-      "discordId": "526367718824476692",
-      "username": "toast.s"
-    },
-    "addedAt": "2026-06-20T21:19:40.294Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-06T21:55:25.844Z",
-    "active": false,
+    "addedAt": "2026-09-06T21:55:46.396Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
