@@ -27256,9 +27256,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T02:11:25.725Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T06:03:55.182Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -27268,9 +27271,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T02:11:25.725Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T06:03:55.182Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -27280,9 +27286,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T02:11:25.725Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T06:03:55.182Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -27334,9 +27343,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T02:52:14.842Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T06:03:55.182Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -27358,9 +27370,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-01T02:53:33.805Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T06:03:55.182Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
