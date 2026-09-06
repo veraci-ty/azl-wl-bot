@@ -19429,16 +19429,13 @@
   },
   "3730120158:command:skillbuilder": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-09-04T22:49:16.368Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-06T23:03:31.387Z",
-    "active": false,
+    "addedAt": "2026-09-06T23:24:12.362Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
