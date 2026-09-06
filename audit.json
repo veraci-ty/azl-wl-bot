@@ -5154,16 +5154,13 @@
   },
   "2573434151:style:cid": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-08-16T14:26:04.504Z",
-    "removedBy": {
       "discordId": "1404918321488466113",
       "username": "avalonith."
     },
-    "removedAt": "2026-09-02T20:47:12.411Z",
-    "active": false,
+    "addedAt": "2026-09-06T21:25:59.626Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
