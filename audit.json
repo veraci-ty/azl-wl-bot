@@ -8644,15 +8644,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-24T10:52:25.390Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-31T10:56:27.647Z",
-    "active": false,
+    "addedAt": "2026-09-06T23:25:36.683Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-31T10:52:24.980Z"
+    "expiresAt": null
   },
   "4640746451:style:ronaldo": {
     "addedBy": {
