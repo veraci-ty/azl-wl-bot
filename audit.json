@@ -7456,9 +7456,12 @@
       "username": "dustied"
     },
     "addedAt": "2026-07-10T14:23:33.352Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T21:56:47.742Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
