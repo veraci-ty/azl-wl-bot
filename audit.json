@@ -32194,5 +32194,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "103548428:style:nightcoded": {
+    "addedBy": {
+      "discordId": "252359230298914817",
+      "username": "stephex"
+    },
+    "addedAt": "2026-09-06T22:08:44.955Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-06T22:38:44.597Z"
   }
 }
