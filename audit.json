@@ -693,10 +693,14 @@
       "username": "dustied"
     },
     "addedAt": "2026-06-07T22:37:10.349Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
-    "kind": "ost"
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T21:57:26.502Z",
+    "active": false,
+    "kind": "ost",
+    "expiresAt": null
   },
   "1974243283:ost:kiyora": {
     "addedBy": {
