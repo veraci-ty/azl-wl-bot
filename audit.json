@@ -31555,9 +31555,12 @@
       "username": "konisdumb"
     },
     "addedAt": "2026-09-05T02:41:31.968Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-06T02:42:03.792Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-09-06T02:41:31.550Z"
   },
