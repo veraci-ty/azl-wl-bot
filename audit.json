@@ -32070,5 +32070,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "619213444:emote:mirror": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-06T21:21:07.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
