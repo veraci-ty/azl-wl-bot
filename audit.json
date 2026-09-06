@@ -32019,5 +32019,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "373457570:style:cid": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-06T19:58:28.168Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
