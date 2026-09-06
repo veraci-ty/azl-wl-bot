@@ -24167,9 +24167,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-08-30T01:32:09.273Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T22:06:17.687Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
