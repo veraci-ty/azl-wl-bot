@@ -32044,9 +32044,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-06T21:20:48.200Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T21:49:08.664Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -32056,9 +32059,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-09-06T21:20:54.489Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-06T21:49:08.664Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
