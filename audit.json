@@ -7516,9 +7516,12 @@
       "username": "v_agos"
     },
     "addedAt": "2026-07-10T22:59:55.787Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-06T21:53:32.597Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
