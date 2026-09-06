@@ -31863,5 +31863,17 @@
     "active": false,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "450165435:mvp:visionary": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-06T06:52:22.472Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
