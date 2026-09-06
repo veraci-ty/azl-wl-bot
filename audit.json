@@ -31962,5 +31962,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1555003238:mvp:disciples": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-06T14:09:14.318Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
