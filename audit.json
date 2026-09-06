@@ -32203,5 +32203,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-06T22:38:44.597Z"
+  },
+  "2573434151:ost:barou": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-09-06T22:14:25.210Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
