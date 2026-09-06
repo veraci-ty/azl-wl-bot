@@ -31890,5 +31890,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9823387274:mvp:atomic": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-06T10:42:42.527Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
