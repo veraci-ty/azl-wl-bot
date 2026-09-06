@@ -32007,5 +32007,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1549164509:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-06T17:10:55.373Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
