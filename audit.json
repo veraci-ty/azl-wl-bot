@@ -32114,9 +32114,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-06T19:58:28.168Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1404918321488466113",
+      "username": "avalonith."
+    },
+    "removedAt": "2026-09-06T23:46:46.739Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
