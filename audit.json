@@ -32488,5 +32488,41 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "87324267:style:exe": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-07T09:42:51.134Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T09:42:50.659Z"
+  },
+  "456484651:style:exe": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-07T09:42:51.134Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T09:42:50.659Z"
+  },
+  "1601612800:style:exe": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-07T09:42:51.134Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T09:42:50.659Z"
   }
 }
