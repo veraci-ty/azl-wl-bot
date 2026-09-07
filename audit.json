@@ -892,13 +892,10 @@
       "discordId": "798966560306757633",
       "username": "geoality"
     },
-    "addedAt": "2026-07-21T10:04:53.456Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-13T09:09:05.621Z",
-    "active": false,
+    "addedAt": "2026-09-07T08:04:31.046Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
