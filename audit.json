@@ -32293,5 +32293,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "119951054:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-09-07T01:08:11.823Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
