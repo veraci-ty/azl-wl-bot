@@ -7549,18 +7549,15 @@
   },
   "450165435:command:rinnoplay": {
     "addedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
+      "discordId": "635504036321165322",
+      "username": "v_agos"
     },
-    "addedAt": "2026-08-17T11:49:48.642Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-07T04:26:13.982Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-07T04:56:13.563Z"
   },
   "2012552254:command:rinnoplay": {
     "addedBy": {
