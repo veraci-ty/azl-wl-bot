@@ -1606,13 +1606,10 @@
       "discordId": "798966560306757633",
       "username": "geoality"
     },
-    "addedAt": "2026-06-11T20:40:36.363Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-08-10T05:53:01.346Z",
-    "active": false,
+    "addedAt": "2026-09-07T08:04:23.560Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
