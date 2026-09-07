@@ -32467,5 +32467,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "5077795305:style:gremmy": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-09-07T08:04:48.265Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
