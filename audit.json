@@ -6727,16 +6727,13 @@
   },
   "5639442027:ost:sae": {
     "addedBy": {
-      "discordId": "758960019114033173",
-      "username": "dustied"
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
     },
-    "addedAt": "2026-07-07T11:35:18.344Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-06T21:58:56.129Z",
-    "active": false,
+    "addedAt": "2026-09-07T08:38:28.366Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
