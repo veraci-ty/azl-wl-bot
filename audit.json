@@ -32392,5 +32392,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2327164670:mvp:memoryshard": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-07T03:37:32.281Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
