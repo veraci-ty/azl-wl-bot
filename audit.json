@@ -32524,5 +32524,29 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-14T09:42:50.659Z"
+  },
+  "5002914713:style:messi": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-07T09:46:33.573Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T09:46:33.162Z"
+  },
+  "639084498:style:messi": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-07T09:46:33.573Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-14T09:46:33.162Z"
   }
 }
