@@ -32770,5 +32770,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1941400999:command:heat": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-07T21:01:10.765Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
