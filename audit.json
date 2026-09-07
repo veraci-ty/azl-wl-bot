@@ -25069,46 +25069,37 @@
   },
   "261832676:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-30T17:58:25.612Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
   "168416663:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-30T17:59:05.147Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
   "1038030553:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-30T17:59:05.147Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -26794,16 +26785,13 @@
   },
   "3730120158:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-06T23:24:35.792Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -26860,16 +26848,13 @@
   },
   "469246586:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-08-31T18:42:57.654Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -31741,16 +31726,13 @@
   },
   "1970964202:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-09-05T02:08:56.266Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T03:30:06.887Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
