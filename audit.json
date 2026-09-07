@@ -32557,5 +32557,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-14T09:47:18.814Z"
+  },
+  "301416925:style:exe": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-07T10:04:56.639Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
