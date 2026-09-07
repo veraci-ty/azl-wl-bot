@@ -10771,15 +10771,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-13T00:42:32.322Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-20T00:43:13.650Z",
-    "active": false,
+    "addedAt": "2026-09-07T14:51:26.972Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-20T00:42:31.977Z"
+    "expiresAt": "2026-09-21T14:51:26.447Z"
   },
   "325765268:style:ronaldo": {
     "addedBy": {
