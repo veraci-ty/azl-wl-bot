@@ -23630,9 +23630,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-09-02T21:40:38.564Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-09-07T20:14:16.929Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
