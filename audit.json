@@ -9376,13 +9376,10 @@
       "discordId": "1520107404606570665",
       "username": "yuriestera"
     },
-    "addedAt": "2026-07-20T14:07:23.683Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-06T22:01:58.523Z",
-    "active": false,
+    "addedAt": "2026-09-07T08:38:50.103Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
