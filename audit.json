@@ -11731,13 +11731,10 @@
       "discordId": "798966560306757633",
       "username": "geoality"
     },
-    "addedAt": "2026-07-27T12:10:48.221Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:33:29.090Z",
-    "active": false,
+    "addedAt": "2026-09-07T08:04:38.032Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
