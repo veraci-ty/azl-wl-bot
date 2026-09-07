@@ -32692,5 +32692,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2327164670:emote:eyesclosed": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-07T14:48:24.203Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
