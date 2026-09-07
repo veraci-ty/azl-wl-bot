@@ -32794,5 +32794,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1254639293:mvp:memoryshard": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-07T21:51:03.198Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
