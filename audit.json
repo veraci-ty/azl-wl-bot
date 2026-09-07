@@ -20725,15 +20725,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-22T08:17:19.787Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-29T08:18:10.846Z",
-    "active": false,
+    "addedAt": "2026-09-07T12:24:01.954Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-29T08:17:19.409Z"
+    "expiresAt": "2026-09-14T12:24:01.425Z"
   },
   "301416925:mvp:vydiaMVP": {
     "addedBy": {
