@@ -30790,16 +30790,13 @@
   },
   "3580594488:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-03T00:58:41.115Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-09-07T14:44:16.153Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
