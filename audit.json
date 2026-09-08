@@ -4138,16 +4138,13 @@
   },
   "387041454:style:ronaldo": {
     "addedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "addedAt": "2026-06-24T12:09:04.437Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:30:38.141Z",
-    "active": false,
+    "addedAt": "2026-09-08T12:41:01.897Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
