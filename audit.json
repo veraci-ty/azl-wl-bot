@@ -32908,5 +32908,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "373457570:style:aizen": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-08T14:21:10.767Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
