@@ -26216,9 +26216,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-09-03T03:05:04.142Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-08T03:05:41.782Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-08T03:05:03.734Z"
   },
