@@ -17392,13 +17392,10 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-08-14T01:08:04.079Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-06T21:52:48.451Z",
-    "active": false,
+    "addedAt": "2026-09-08T02:32:39.942Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "ost",
     "expiresAt": null
   },
