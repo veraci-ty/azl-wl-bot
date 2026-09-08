@@ -32983,5 +32983,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "2387035419:style:aizen": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-08T19:46:59.264Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
