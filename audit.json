@@ -32956,5 +32956,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1577563438:mvp:deathkid": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-09-08T16:32:40.032Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
