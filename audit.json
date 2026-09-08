@@ -32977,5 +32977,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1481884758:commentator:Origin": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-08T17:34:57.593Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
