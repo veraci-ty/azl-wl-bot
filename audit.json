@@ -22951,15 +22951,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-08-28T12:18:23.915Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-08-31T11:18:27.488Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:28:02.217Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-27T12:18:23.493Z"
+    "expiresAt": "2026-10-15T13:28:01.699Z"
   },
   "2340109338:style:ronaldo": {
     "addedBy": {
