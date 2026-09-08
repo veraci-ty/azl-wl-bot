@@ -23998,15 +23998,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-08-30T03:00:40.572Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-08T15:50:52.274Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-29T03:00:40.210Z"
+    "expiresAt": "2026-10-15T15:50:51.779Z"
   },
   "473164784:emote:PunkRock": {
     "addedBy": {
