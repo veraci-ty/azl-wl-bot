@@ -8254,16 +8254,13 @@
   },
   "4640746451:style:dawnwalker": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-07-13T00:44:27.572Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:49:39.402Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
