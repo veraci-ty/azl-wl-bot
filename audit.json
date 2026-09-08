@@ -2659,16 +2659,13 @@
   },
   "387041454:style:dawnwalker": {
     "addedBy": {
-      "discordId": "530595571103170591",
-      "username": ".turning."
-    },
-    "addedAt": "2026-06-17T20:33:42.194Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-08T12:41:16.443Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
