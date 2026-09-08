@@ -32842,5 +32842,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2912663972:style:Goku": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-08T00:32:13.972Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
