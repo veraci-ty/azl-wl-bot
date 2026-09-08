@@ -32902,5 +32902,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "2327164670:ost:barou": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-08T14:05:35.288Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
