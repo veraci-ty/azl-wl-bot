@@ -33130,5 +33130,20 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-08T23:30:03.850Z"
+  },
+  "1833821907:style:izayoi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-08T23:00:47.062Z",
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-08T23:00:47.062Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   }
 }
