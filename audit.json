@@ -32366,9 +32366,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-07T05:44:18.389Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-08T05:45:41.873Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-08T05:44:17.937Z"
   },
