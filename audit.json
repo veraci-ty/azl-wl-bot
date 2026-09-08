@@ -10156,18 +10156,15 @@
   },
   "516412616:command:rinnoplay": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-07-23T14:33:43.485Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-07T19:10:06.426Z",
-    "active": false,
+    "addedAt": "2026-09-08T22:20:25.113Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-15T22:20:24.653Z"
   },
   "2571463620:style:ronaldo": {
     "addedBy": {
