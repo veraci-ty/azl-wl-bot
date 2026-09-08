@@ -6349,13 +6349,10 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-07-22T13:06:57.784Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-07-27T05:03:43.122Z",
-    "active": false,
+    "addedAt": "2026-09-08T12:39:10.400Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
