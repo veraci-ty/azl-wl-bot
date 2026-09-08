@@ -28300,15 +28300,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-02T00:45:36.009Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:34:09.194Z",
-    "active": false,
+    "addedAt": "2026-09-08T15:50:23.828Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-02T00:45:35.602Z"
+    "expiresAt": "2026-10-15T15:50:23.216Z"
   },
   "3868750727:emote:elpadia": {
     "addedBy": {
