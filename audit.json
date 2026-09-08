@@ -12754,18 +12754,15 @@
   },
   "905300500:command:rinnoplay": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-07-31T09:22:08.720Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-30T09:24:03.798Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:04:48.723Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-30T09:22:08.289Z"
+    "expiresAt": "2026-10-15T13:04:48.304Z"
   },
   "1911944568:command:saeawk": {
     "addedBy": {
