@@ -23602,16 +23602,13 @@
   },
   "4640746451:emote:sparxie": {
     "addedBy": {
-      "discordId": "1520107404606570665",
-      "username": "yuriestera"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-08-29T22:27:35.668Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-06T22:00:33.012Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:51:38.654Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
