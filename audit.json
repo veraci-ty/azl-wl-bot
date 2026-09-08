@@ -32845,5 +32845,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1555003238:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-08T07:14:03.012Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
