@@ -8626,15 +8626,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-31T12:00:15.292Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-01T00:03:25.706Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:53:02.576Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-01T00:00:14.862Z"
+    "expiresAt": null
   },
   "2607632729:style:KJ": {
     "addedBy": {
