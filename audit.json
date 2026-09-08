@@ -25447,15 +25447,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-08-30T22:16:36.293Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-08T22:39:17.633Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-29T22:16:35.906Z"
+    "expiresAt": "2026-10-08T22:39:17.143Z"
   },
   "11220041025:command:overtimetest": {
     "addedBy": {
