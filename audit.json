@@ -33049,5 +33049,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-15T22:17:58.578Z"
+  },
+  "2812723362:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-08T22:21:40.979Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-15T22:21:40.533Z"
   }
 }
