@@ -32875,5 +32875,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-09T00:17:58.621Z"
+  },
+  "387041454:command:saeawk": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-08T12:43:59.092Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
