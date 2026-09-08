@@ -23893,15 +23893,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-08-29T23:56:23.155Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-01T22:07:39.394Z",
-    "active": false,
+    "addedAt": "2026-09-08T13:10:33.051Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-28T23:56:22.762Z"
+    "expiresAt": "2026-10-15T13:10:32.617Z"
   },
   "2512840941:style:sonic": {
     "addedBy": {
