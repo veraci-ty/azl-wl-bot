@@ -33037,16 +33037,13 @@
   },
   "2327164670:mvp:kafkamvp": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-09-08T21:35:09.734Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-09-09T11:00:06.906Z",
-    "active": false,
+    "addedAt": "2026-09-09T11:00:14.992Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
