@@ -14935,16 +14935,13 @@
   },
   "9823387274:style:KJ": {
     "addedBy": {
-      "discordId": "798966560306757633",
-      "username": "geoality"
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
     },
-    "addedAt": "2026-08-07T20:45:30.833Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-09T10:51:14.726Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
