@@ -33226,5 +33226,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": "2026-09-16T06:23:33.749Z"
+  },
+  "5077795305:emote:PunkRock": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-09-09T08:13:28.658Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
