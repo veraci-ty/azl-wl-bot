@@ -33301,5 +33301,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-10T11:07:25.517Z"
+  },
+  "333005705:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-09T11:26:52.008Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
