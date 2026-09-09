@@ -33364,5 +33364,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "187213468:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-09T14:02:40.721Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
