@@ -33053,9 +33053,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-08T21:35:09.734Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-09-09T10:59:46.289Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
