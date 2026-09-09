@@ -33553,5 +33553,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1003239082:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-09T15:42:01.409Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
