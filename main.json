@@ -2559,6 +2559,24 @@
         ]
       ],
       "specialer": true
+    },
+    "8542761787": {
+      "tagText": "poster boy",
+      "tagColor": [
+        [
+          0,
+          249,
+          249,
+          249
+        ],
+        [
+          1,
+          17,
+          23,
+          99
+        ]
+      ],
+      "specialer": false
     }
   },
   "commentators": {
