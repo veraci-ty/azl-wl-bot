@@ -35098,5 +35098,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1696534838:command:heat": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-10T18:56:21.558Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
