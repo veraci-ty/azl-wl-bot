@@ -32866,15 +32866,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-08T12:17:59.028Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-09T00:21:54.530Z",
-    "active": false,
+    "addedAt": "2026-09-10T11:36:05.448Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-09T00:17:58.621Z"
+    "expiresAt": "2026-09-15T11:36:04.982Z"
   },
   "387041454:command:saeawk": {
     "addedBy": {
