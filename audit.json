@@ -34501,5 +34501,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5077795305:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-09-10T06:17:28.872Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
