@@ -34396,5 +34396,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "752305437:emote:mirror": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-10T02:14:47.781Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
