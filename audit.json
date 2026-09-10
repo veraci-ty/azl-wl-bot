@@ -33611,9 +33611,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:17.123Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-10T10:03:08.789Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
