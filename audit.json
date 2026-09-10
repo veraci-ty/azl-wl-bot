@@ -35116,14 +35116,11 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-09-10T21:57:10.707Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-09-10T21:57:24.774Z",
-    "active": false,
+    "addedAt": "2026-09-10T21:57:34.448Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-10T22:57:34.037Z"
   }
 }
