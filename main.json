@@ -1914,7 +1914,7 @@
       "specialer": true
     },
     "994346935": {
-      "tagText": "Gayteru",
+      "tagText": "The Gayest Azl Player",
       "tagColor": [
         [
           0,
@@ -1929,7 +1929,8 @@
           255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "1053362121": {
       "tagText": "John Azurelatch",
