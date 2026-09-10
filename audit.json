@@ -34984,5 +34984,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1911944568:style:akashi": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-10T12:00:22.198Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
