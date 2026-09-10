@@ -34537,5 +34537,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-17T07:00:46.113Z"
+  },
+  "2608219493:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-10T07:23:27.500Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
