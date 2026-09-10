@@ -35077,5 +35077,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": "2026-09-10T14:50:22.680Z"
+  },
+  "1970964202:mvp:LucyMvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-10T16:50:33.700Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
