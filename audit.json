@@ -34549,5 +34549,29 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "908077567:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-10T07:24:48.360Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
+  },
+  "7709272512:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-10T07:24:48.360Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
