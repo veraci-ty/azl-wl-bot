@@ -35173,5 +35173,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "4166416054:goaleffect:yurier": {
+    "addedBy": {
+      "discordId": "system",
+      "username": "seed-yurier"
+    },
+    "addedAt": "2026-09-10T22:18:46.113Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "goaleffect",
+    "expiresAt": null
   }
 }
