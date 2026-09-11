@@ -35434,5 +35434,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "8651277689:command:overtimetest": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-11T14:52:27.549Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
