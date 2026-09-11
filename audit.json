@@ -1940,9 +1940,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-04T23:32:06.643Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -3293,9 +3296,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-03T19:54:16.763Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -3938,9 +3944,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-03T19:54:16.763Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -8333,9 +8342,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-08T11:48:07.009Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -22361,9 +22373,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-09-05T03:09:49.981Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -24236,9 +24251,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-05T07:24:29.995Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-11T00:23:56.414Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
