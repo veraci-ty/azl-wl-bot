@@ -35500,5 +35500,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "681405668:style:cinder": {
+    "addedBy": {
+      "discordId": "634910087554793473",
+      "username": "_swiv"
+    },
+    "addedAt": "2026-09-11T21:14:47.077Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-12T21:14:46.565Z"
   }
 }
