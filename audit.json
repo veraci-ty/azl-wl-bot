@@ -35191,5 +35191,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "117843615:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-11T01:24:49.726Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-11T01:24:49.280Z"
   }
 }
