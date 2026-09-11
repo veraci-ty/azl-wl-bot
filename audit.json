@@ -35353,5 +35353,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2327164670:command:heat": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-11T13:27:29.514Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
