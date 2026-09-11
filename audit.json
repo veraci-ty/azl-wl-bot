@@ -35272,5 +35272,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5077795305:command:heat": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-09-11T08:22:53.129Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
