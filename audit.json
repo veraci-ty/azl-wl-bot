@@ -35398,5 +35398,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "5346656897:goaleffect:yurier": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-09-11T14:34:40.033Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "goaleffect",
+    "expiresAt": null
   }
 }
