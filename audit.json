@@ -35296,5 +35296,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "261832676:command:yurier": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-09-11T08:38:40.294Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
