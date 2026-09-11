@@ -35261,9 +35261,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-09-11T08:37:45.047Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "removedAt": "2026-09-11T14:25:10.386Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
