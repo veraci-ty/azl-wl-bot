@@ -32767,15 +32767,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-07T22:58:16.735Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-11T04:01:37.819Z",
-    "active": false,
+    "addedAt": "2026-09-11T04:01:48.088Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-14T22:58:16.283Z"
+    "expiresAt": "2026-09-15T04:01:47.584Z"
   },
   "709300379:mvp:visionary": {
     "addedBy": {
