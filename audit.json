@@ -35501,9 +35501,12 @@
       "username": "_swiv"
     },
     "addedAt": "2026-09-11T21:14:47.077Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-12T21:19:38.449Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-12T21:14:46.565Z"
   },
