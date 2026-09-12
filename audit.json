@@ -35776,5 +35776,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": null
+  },
+  "187213468:command:saeawk": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-12T09:57:49.080Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
