@@ -35848,5 +35848,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "2527751273:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1526746086142902444",
+      "username": "onvlua"
+    },
+    "addedAt": "2026-09-12T13:15:14.672Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
