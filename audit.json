@@ -4624,15 +4624,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-25T10:32:41.200Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-10T11:03:01.813Z",
-    "active": false,
+    "addedAt": "2026-09-12T19:19:04.978Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-24T10:32:40.823Z"
+    "expiresAt": null
   },
   "3350620229:mvp:broly": {
     "addedBy": {
