@@ -12178,18 +12178,15 @@
   },
   "2979765314:command:rinnoplay": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-07-28T17:13:35.333Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-08-05T22:06:59.491Z",
-    "active": false,
+    "addedAt": "2026-09-12T21:54:16.994Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-12T21:54:16.513Z"
   },
   "469246586:style:messi": {
     "addedBy": {
