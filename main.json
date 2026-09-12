@@ -2528,25 +2528,25 @@
       "nameaddition": true
     },
     "4166416054": {
-      "tagText": "<font face=\"Cartoon\">, The Empress</font>",
+      "tagText": ", Ruler of Roscaelifer",
       "tagColor": [
         [
           0,
           255,
-          253,
-          245
+          172,
+          28
         ],
         [
           0.5,
-          249,
-          239,
-          203
+          255,
+          255,
+          255
         ],
         [
           1,
-          232,
-          201,
-          106
+          31,
+          81,
+          255
         ]
       ],
       "specialer": true,
