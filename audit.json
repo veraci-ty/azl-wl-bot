@@ -36208,5 +36208,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "10444140562:mvp:demolishitall": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-13T10:07:27.044Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
