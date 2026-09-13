@@ -36784,5 +36784,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1771433330:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-13T18:31:39.100Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
