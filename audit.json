@@ -28570,15 +28570,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-04T12:18:34.995Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-07T12:20:41.679Z",
-    "active": false,
+    "addedAt": "2026-09-13T00:02:05.531Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-09-07T12:18:34.517Z"
+    "expiresAt": "2026-09-27T00:02:05.068Z"
   },
   "139232224:style:KJ": {
     "addedBy": {
