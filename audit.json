@@ -10390,16 +10390,13 @@
   },
   "121950837:style:aizen": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-08-16T17:31:12.772Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-18T05:10:17.709Z",
-    "active": false,
+    "addedAt": "2026-09-13T19:09:35.097Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
@@ -10423,13 +10420,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-18T17:47:45.513Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-08-20T14:19:07.791Z",
-    "active": false,
+    "addedAt": "2026-09-13T19:09:35.097Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
