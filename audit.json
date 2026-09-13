@@ -36655,5 +36655,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1053362121:style:akashi": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-13T13:52:07.675Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
