@@ -36904,5 +36904,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "187213468:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-13T19:27:16.840Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
