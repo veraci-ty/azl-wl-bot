@@ -36370,5 +36370,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "10444140562:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-13T10:10:31.980Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
