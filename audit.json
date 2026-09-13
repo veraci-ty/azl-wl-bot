@@ -36610,5 +36610,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-09-15T11:16:50.766Z"
+  },
+  "333005705:style:roland": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-13T11:22:55.219Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
