@@ -34607,9 +34607,12 @@
       "username": "geoality"
     },
     "addedAt": "2026-09-10T06:20:53.444Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-09-13T15:12:10.235Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
