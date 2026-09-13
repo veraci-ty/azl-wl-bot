@@ -36529,5 +36529,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10444140562:emote:Ippo": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-13T10:16:56.889Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
