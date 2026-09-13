@@ -3838,18 +3838,15 @@
   },
   "261832676:command:rinnoplay": {
     "addedBy": {
-      "discordId": "526367718824476692",
-      "username": "toast.s"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-06-23T00:54:13.348Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-06-30T00:56:34.444Z",
-    "active": false,
+    "addedAt": "2026-09-13T14:53:49.977Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-06-30T00:54:13.109Z"
+    "expiresAt": "2026-10-13T14:53:49.539Z"
   },
   "148947251:style:ronaldo": {
     "addedBy": {
