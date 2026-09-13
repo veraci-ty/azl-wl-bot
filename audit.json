@@ -34960,15 +34960,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-09-10T21:57:34.448Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-10T23:00:40.116Z",
-    "active": false,
+    "addedAt": "2026-09-13T19:23:48.863Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-10T22:57:34.037Z"
+    "expiresAt": null
   },
   "10237663577:command:rinnoplay": {
     "addedBy": {
