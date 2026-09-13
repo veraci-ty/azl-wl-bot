@@ -8797,13 +8797,10 @@
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "addedAt": "2026-08-30T13:42:58.308Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-10T11:03:01.813Z",
-    "active": false,
+    "addedAt": "2026-09-13T09:38:52.234Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
