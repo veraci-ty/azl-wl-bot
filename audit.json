@@ -4786,16 +4786,13 @@
   },
   "10444140562:command:f": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-06-29T11:55:50.728Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:39:32.254Z",
-    "active": false,
+    "addedAt": "2026-09-13T10:11:39.714Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
