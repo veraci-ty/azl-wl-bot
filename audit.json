@@ -32149,15 +32149,12 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-09-07T05:44:18.389Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-08T05:45:41.873Z",
-    "active": false,
+    "addedAt": "2026-09-13T18:56:01.896Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-08T05:44:17.937Z"
+    "expiresAt": null
   },
   "568225745:command:heat": {
     "addedBy": {
