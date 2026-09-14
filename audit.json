@@ -16330,13 +16330,10 @@
       "discordId": "526367718824476692",
       "username": "toast.s"
     },
-    "addedAt": "2026-08-11T18:50:35.804Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-14T02:18:30.878Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -22909,16 +22906,13 @@
   },
   "2451328647:command:rinnoplay": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
+      "discordId": "526367718824476692",
+      "username": "toast.s"
     },
-    "addedAt": "2026-08-28T15:26:35.616Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-14T02:18:30.878Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
