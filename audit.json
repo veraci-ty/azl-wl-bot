@@ -21892,16 +21892,13 @@
   },
   "1782789762:command:rinnoplay": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
     },
-    "addedAt": "2026-08-26T02:01:48.639Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:41:54.949Z",
-    "active": false,
+    "addedAt": "2026-09-14T15:33:43.364Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
