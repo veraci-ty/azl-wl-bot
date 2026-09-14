@@ -27091,16 +27091,13 @@
   },
   "2447122302:command:evil": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-09-01T02:11:25.725Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-06T06:03:55.182Z",
-    "active": false,
+    "addedAt": "2026-09-14T00:02:19.110Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
