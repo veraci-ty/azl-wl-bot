@@ -37190,9 +37190,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-09-14T15:32:54.636Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "removedAt": "2026-09-14T15:33:08.655Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   }
