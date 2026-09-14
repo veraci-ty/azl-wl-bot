@@ -37168,5 +37168,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-14T14:59:21.532Z"
+  },
+  "1285493036:emote:mirror": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-14T14:39:09.151Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
