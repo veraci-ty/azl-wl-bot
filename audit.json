@@ -34955,9 +34955,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-10T16:59:36.971Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "809483924752826479",
+      "username": "hakodevss"
+    },
+    "removedAt": "2026-09-14T13:04:37.969Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
