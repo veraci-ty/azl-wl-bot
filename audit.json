@@ -37252,5 +37252,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "165731736:mvp:flowerymvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-14T16:36:33.127Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
