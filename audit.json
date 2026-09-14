@@ -37204,5 +37204,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "619213444:style:akashi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-14T15:38:28.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
