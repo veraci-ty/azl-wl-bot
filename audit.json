@@ -8249,9 +8249,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-11T00:24:04.482Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-14T22:51:30.941Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
