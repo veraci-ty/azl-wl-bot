@@ -37303,5 +37303,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2387035419:command:heat": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-14T20:06:25.024Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
