@@ -32294,9 +32294,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-07T09:47:19.223Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-14T09:52:21.077Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-14T09:47:18.814Z"
   },
