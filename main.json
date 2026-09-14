@@ -2005,22 +2005,28 @@
       "specialer": true
     },
     "850512411": {
-      "tagText": "🍅",
+      "tagText": "🍅🍅🍅BUMGOAT🍅🍅🍅",
       "tagColor": [
         [
           0,
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
           255,
           0,
           0
         ],
         [
           1,
-          255,
+          0,
           0,
           0
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "863701520": {
       "tagText": "magnus top bins god,",
