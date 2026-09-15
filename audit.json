@@ -37354,5 +37354,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "113454594:command:heat": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-15T01:56:34.843Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
