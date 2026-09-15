@@ -37525,5 +37525,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "7327687283:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-15T14:29:49.068Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
