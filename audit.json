@@ -37432,5 +37432,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-15T06:48:47.471Z"
+  },
+  "187213468:command:homelander": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-15T10:03:10.130Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-22T10:03:09.658Z"
   }
 }
