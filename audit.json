@@ -19180,18 +19180,15 @@
   },
   "3730120158:command:skillbuilder": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T14:16:13.417Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-15T14:17:19.132Z",
-    "active": false,
+    "addedAt": "2026-09-15T16:46:06.107Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-15T14:16:12.927Z"
+    "expiresAt": null
   },
   "1761253545:mvp:nettspendlisteningparty": {
     "addedBy": {
