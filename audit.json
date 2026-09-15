@@ -37570,5 +37570,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "187213468:command:ball": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-15T17:34:16.024Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
