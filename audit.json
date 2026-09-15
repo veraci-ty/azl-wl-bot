@@ -19397,9 +19397,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-08T16:34:04.498Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-15T18:48:19.966Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-10-15T16:34:04.052Z"
   },
@@ -34145,9 +34148,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-09T17:08:44.705Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-09-15T18:48:19.966Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-16T17:08:44.240Z"
   },
