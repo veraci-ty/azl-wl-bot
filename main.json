@@ -1761,6 +1761,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "220619887": {
+      "tagText": ", Espada #6",
+      "tagColor": [
+        [
+          0,
+          121,
+          229,
+          249
+        ],
+        [
+          0.5,
+          193,
+          252,
+          246
+        ],
+        [
+          1,
+          121,
+          229,
+          249
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "301416925": {
       "tagText": "Galactic Baseballer",
       "tagColor": [
