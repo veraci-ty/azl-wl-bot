@@ -9607,18 +9607,15 @@
   },
   "1038030553:command:rinnoplay": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-07-22T06:20:11.071Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-08-09T07:30:56.882Z",
-    "active": false,
+    "addedAt": "2026-09-16T03:10:41.540Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-16T03:10:41.004Z"
   },
   "199556729:ost:shidou": {
     "addedBy": {
