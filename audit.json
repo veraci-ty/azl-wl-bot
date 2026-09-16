@@ -37726,44 +37726,35 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-09-16T04:59:05.846Z",
-    "active": false,
+    "addedAt": "2026-09-16T04:59:30.835Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-23T04:59:30.288Z"
   },
   "1508435055:command:heat": {
     "addedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-09-16T04:59:05.846Z",
-    "active": false,
+    "addedAt": "2026-09-16T04:59:30.835Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-23T04:59:30.288Z"
   },
   "1760946008:command:heat": {
     "addedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-09-16T04:59:05.846Z",
-    "active": false,
+    "addedAt": "2026-09-16T04:59:30.835Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-23T04:59:30.288Z"
   }
 }
