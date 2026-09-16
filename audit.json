@@ -37727,9 +37727,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-09-16T04:59:05.846Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -37739,9 +37742,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-09-16T04:59:05.846Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
@@ -37751,9 +37757,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-16T04:58:34.939Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-09-16T04:59:05.846Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   }
