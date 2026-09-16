@@ -19834,18 +19834,15 @@
   },
   "318074376:style:dawnwalker": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-08-18T22:20:41.357Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-08-24T04:02:49.577Z",
-    "active": false,
+    "addedAt": "2026-09-16T03:09:12.193Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-17T22:20:40.773Z"
+    "expiresAt": "2026-10-16T03:09:11.692Z"
   },
   "5002914713:style:cinder": {
     "addedBy": {
