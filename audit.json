@@ -36983,9 +36983,12 @@
       "username": "viciousry"
     },
     "addedAt": "2026-09-13T19:26:09.753Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-16T19:27:19.165Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-16T19:26:09.329Z"
   },
