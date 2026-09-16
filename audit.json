@@ -14632,15 +14632,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-07T05:11:33.949Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-01T05:13:25.805Z",
-    "active": false,
+    "addedAt": "2026-09-16T18:15:16.492Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-01T05:11:33.597Z"
+    "expiresAt": "2026-09-30T18:15:16.072Z"
   },
   "3580594488:style:ronaldo": {
     "addedBy": {
@@ -37903,5 +37900,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "890202536:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-16T18:15:16.492Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-30T18:15:16.072Z"
   }
 }
