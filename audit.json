@@ -37825,5 +37825,17 @@
     "active": false,
     "kind": "emote",
     "expiresAt": "2026-09-16T06:44:40.071Z"
+  },
+  "264199171:command:ncd": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-16T11:05:41.832Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-18T11:05:41.313Z"
   }
 }
