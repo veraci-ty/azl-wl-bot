@@ -37963,5 +37963,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "608124925:mvp:deathkid": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-09-17T01:43:13.077Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
