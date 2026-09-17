@@ -1762,6 +1762,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "215433259": {
+      "tagText": ", Espada #3",
+      "tagColor": [
+        [
+          0,
+          67,
+          193,
+          198
+        ],
+        [
+          0.5,
+          247,
+          247,
+          247
+        ],
+        [
+          1,
+          246,
+          225,
+          142
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "220619887": {
       "tagText": ", Espada #6",
       "tagColor": [
