@@ -38143,5 +38143,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "251837028:style:dio": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-17T23:38:47.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
