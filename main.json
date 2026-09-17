@@ -2561,6 +2561,31 @@
       ],
       "specialer": true
     },
+    "1942841609": {
+      "tagText": ", Espada #1",
+      "tagColor": [
+        [
+          0,
+          192,
+          200,
+          210
+        ],
+        [
+          0.5,
+          243,
+          243,
+          243
+        ],
+        [
+          1,
+          192,
+          200,
+          210
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1974243283": {
       "tagText": "★ King of Bricks ★",
       "tagColor": [
