@@ -37990,5 +37990,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-12T04:54:49.599Z"
+  },
+  "8588215558:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-17T05:38:59.752Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-12T05:38:59.199Z"
   }
 }
