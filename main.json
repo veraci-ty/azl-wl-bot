@@ -2765,6 +2765,31 @@
       ],
       "specialer": false
     },
+    "2544117826": {
+      "tagText": ", Espada #5",
+      "tagColor": [
+        [
+          0,
+          18,
+          18,
+          18
+        ],
+        [
+          0.5,
+          85,
+          85,
+          85
+        ],
+        [
+          1,
+          255,
+          215,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "2573434151": {
       "tagText": ", The Quincy King",
       "tagColor": [
