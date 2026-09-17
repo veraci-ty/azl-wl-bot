@@ -20333,9 +20333,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-21T08:03:47.351Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-09-17T17:01:00.989Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
