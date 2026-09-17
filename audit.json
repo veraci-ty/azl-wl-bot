@@ -38110,5 +38110,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "619213444:mvp:sorrychichi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-17T21:46:32.971Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
