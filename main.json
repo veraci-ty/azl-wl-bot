@@ -1679,6 +1679,31 @@
     ]
   },
   "titles": {
+    "84610797": {
+      "tagText": ", Espada #8",
+      "tagColor": [
+        [
+          0,
+          224,
+          17,
+          95
+        ],
+        [
+          0.5,
+          75,
+          0,
+          130
+        ],
+        [
+          1,
+          190,
+          194,
+          203
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "91452721": {
       "tagText": "Seraphim",
       "tagColor": [
