@@ -1696,6 +1696,31 @@
       ],
       "specialer": false
     },
+    "113454594": {
+      "tagText": ", Espada #2",
+      "tagColor": [
+        [
+          0,
+          59,
+          46,
+          90
+        ],
+        [
+          0.5,
+          74,
+          74,
+          74
+        ],
+        [
+          1,
+          212,
+          175,
+          55
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "119951054": {
       "tagText": "11/10 Tsundere",
       "tagColor": [
