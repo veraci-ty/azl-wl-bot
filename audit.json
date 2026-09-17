@@ -37187,9 +37187,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-14T13:29:49.955Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-09-17T12:29:39.629Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-09T13:29:49.470Z"
   },
