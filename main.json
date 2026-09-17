@@ -2493,6 +2493,31 @@
       ],
       "specialer": false
     },
+    "1352619189": {
+      "tagText": ", Espada #0",
+      "tagColor": [
+        [
+          0,
+          224,
+          58,
+          36
+        ],
+        [
+          0.5,
+          242,
+          244,
+          247
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1463007795": {
       "tagText": "StarCatcher",
       "tagColor": [
