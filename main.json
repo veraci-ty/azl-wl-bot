@@ -2615,6 +2615,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1771433330": {
+      "tagText": ", Ruler Blade of Scattered Flowers",
+      "tagColor": [
+        [
+          0,
+          250,
+          127,
+          194
+        ],
+        [
+          0.5,
+          235,
+          235,
+          235
+        ],
+        [
+          1,
+          250,
+          127,
+          194
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1833821907": {
       "tagText": "FemMaybee",
       "tagColor": [
