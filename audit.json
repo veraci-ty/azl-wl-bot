@@ -38272,5 +38272,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "161290291:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-18T14:42:37.022Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-18T14:42:36.480Z"
   }
 }
