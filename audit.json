@@ -1828,16 +1828,13 @@
   },
   "1163981623:style:KJ": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-06-13T13:30:56.019Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-18T05:13:41.752Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
