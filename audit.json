@@ -38242,5 +38242,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2327164670:command:kaboom": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-18T11:06:50.721Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-18T11:26:49.274Z"
   }
 }
