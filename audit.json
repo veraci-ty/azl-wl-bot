@@ -38368,5 +38368,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "387041454:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-18T16:52:17.749Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
