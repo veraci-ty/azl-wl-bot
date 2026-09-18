@@ -10516,15 +10516,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-18T20:13:44.881Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-01T20:52:55.082Z",
-    "active": false,
+    "addedAt": "2026-09-18T12:06:26.192Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-10-09T12:06:25.774Z"
   },
   "4166416054:mvp:nightRaiders": {
     "addedBy": {
