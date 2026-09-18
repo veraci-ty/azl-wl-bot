@@ -38293,14 +38293,11 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-18T14:43:01.156Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-18T14:43:13.069Z",
-    "active": false,
+    "addedAt": "2026-09-18T14:43:20.113Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-10-18T14:43:19.609Z"
   }
 }
