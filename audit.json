@@ -31252,16 +31252,13 @@
   },
   "458595807:style:cinder": {
     "addedBy": {
-      "discordId": "1520107404606570665",
-      "username": "yuriestera"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-04T16:39:44.261Z",
-    "removedBy": {
-      "discordId": "666762995258359808",
-      "username": "konisdumb"
-    },
-    "removedAt": "2026-09-17T18:25:31.189Z",
-    "active": false,
+    "addedAt": "2026-09-18T18:13:40.276Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
