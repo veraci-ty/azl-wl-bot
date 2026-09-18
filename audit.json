@@ -38476,5 +38476,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-09T17:09:02.250Z"
+  },
+  "458595807:style:akashi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-18T18:17:40.672Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
