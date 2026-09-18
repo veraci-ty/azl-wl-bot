@@ -38356,5 +38356,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-09T15:37:27.092Z"
+  },
+  "387041454:mvp:disciples": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-18T16:51:55.707Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
