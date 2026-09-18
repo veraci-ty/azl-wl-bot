@@ -2884,6 +2884,31 @@
       ],
       "specialer": false
     },
+    "2710475979": {
+      "tagText": ", Lord of Las Noches",
+      "tagColor": [
+        [
+          0,
+          2,
+          2,
+          2
+        ],
+        [
+          0.5,
+          191,
+          178,
+          247
+        ],
+        [
+          1,
+          142,
+          109,
+          84
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "2832433840": {
       "tagText": "WORST EU RIN IN EXISTENCE OF AZURE LATCH.",
       "tagColor": [
