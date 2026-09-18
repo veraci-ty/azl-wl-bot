@@ -38377,5 +38377,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "998091053:command:ncd": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-18T16:58:15.257Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
