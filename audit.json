@@ -39235,5 +39235,29 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "469246586:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-19T22:41:48.946Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
+  },
+  "1759869569:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-19T22:41:48.946Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
