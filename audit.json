@@ -39028,5 +39028,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "170720452:mvp:kafkamvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-19T15:28:17.947Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
