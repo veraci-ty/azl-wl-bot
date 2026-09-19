@@ -20207,9 +20207,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-08-20T20:48:38.407Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-19T20:50:57.394Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-19T20:48:38.014Z"
   },
