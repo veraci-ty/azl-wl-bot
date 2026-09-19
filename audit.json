@@ -38920,5 +38920,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1481884758:mvp:gameover": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-19T14:51:07.287Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
