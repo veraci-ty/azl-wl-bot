@@ -38851,5 +38851,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2762900290:command:funnyvoicelines": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-19T10:30:23.307Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
