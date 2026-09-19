@@ -26006,9 +26006,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-14T15:23:46.461Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-09-19T08:00:30.979Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
