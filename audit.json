@@ -38902,5 +38902,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-26T12:40:19.830Z"
+  },
+  "1481884758:mvp:gameon": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-19T12:43:37.618Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
