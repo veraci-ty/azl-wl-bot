@@ -38863,5 +38863,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "9823387274:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-19T10:44:35.686Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
