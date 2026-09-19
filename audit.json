@@ -39067,5 +39067,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "619213444:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-19T16:03:06.118Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
