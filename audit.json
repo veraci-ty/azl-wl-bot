@@ -39325,5 +39325,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1911944568:mvp:gameon": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-20T03:50:00.611Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
