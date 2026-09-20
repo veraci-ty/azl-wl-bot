@@ -40411,5 +40411,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1549164509:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-20T18:11:17.896Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
