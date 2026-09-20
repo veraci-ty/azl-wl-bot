@@ -33485,9 +33485,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T06:15:37.993Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33788,9 +33791,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:40:59.483Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33812,9 +33818,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:41:18.992Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33824,9 +33833,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:41:23.561Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33836,9 +33848,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:41:42.491Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33848,9 +33863,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:41:47.622Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33860,9 +33878,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:41:52.560Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33872,9 +33893,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:01.409Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33884,9 +33908,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:08.782Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33896,9 +33923,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:12.841Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33923,9 +33953,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:21.318Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33935,9 +33968,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:25.381Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33947,9 +33983,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:29.735Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33959,9 +33998,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:34.076Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33971,9 +34013,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:39.218Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33983,9 +34028,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:42.324Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33995,9 +34043,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:46.581Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34007,9 +34058,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:51.381Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34019,9 +34073,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:42:56.819Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34031,9 +34088,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:01.860Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34043,9 +34103,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:05.174Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34055,9 +34118,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:09.419Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34082,9 +34148,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:19.134Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34094,9 +34163,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:23.238Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34106,9 +34178,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:28.557Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34118,9 +34193,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:33.640Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34130,9 +34208,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:37.667Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34142,9 +34223,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:43.320Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34154,9 +34238,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:48.324Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34166,9 +34253,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:53.240Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34178,9 +34268,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:43:58.148Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34190,9 +34283,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:02.662Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34202,9 +34298,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:17.854Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34214,9 +34313,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:25.276Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34226,9 +34328,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:29.326Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34238,9 +34343,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:34.328Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34250,9 +34358,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:38.763Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34262,9 +34373,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:43.925Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34274,9 +34388,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T15:44:48.886Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34313,9 +34430,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T16:10:34.063Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34340,9 +34460,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-09T16:48:19.940Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34862,9 +34985,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T05:20:34.910Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35084,9 +35210,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:47:20.570Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35096,9 +35225,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:47:33.167Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35108,9 +35240,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:47:47.266Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35120,9 +35255,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:47:59.566Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35132,9 +35270,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:48:06.988Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35144,9 +35285,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:49:50.309Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35156,9 +35300,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:50:08.119Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35168,9 +35315,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:50:23.888Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35180,9 +35330,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:50:31.613Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35192,9 +35345,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-10T07:50:54.944Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39251,9 +39407,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39263,9 +39422,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39275,9 +39437,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39287,9 +39452,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39299,9 +39467,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39311,9 +39482,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39323,9 +39497,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39335,9 +39512,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39347,9 +39527,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39359,9 +39542,12 @@
       "username": "kuztfr"
     },
     "addedAt": "2026-09-19T10:24:49.660Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "removedAt": "2026-09-20T19:02:28.199Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
