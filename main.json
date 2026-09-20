@@ -2982,31 +2982,6 @@
       "specialer": true,
       "nameaddition": true
     },
-    "4166416054": {
-      "tagText": ", Ruler of Roscaelifer",
-      "tagColor": [
-        [
-          0,
-          255,
-          172,
-          28
-        ],
-        [
-          0.5,
-          255,
-          255,
-          255
-        ],
-        [
-          1,
-          31,
-          81,
-          255
-        ]
-      ],
-      "specialer": true,
-      "nameaddition": true
-    },
     "5077795305": {
       "tagText": "Scripter",
       "tagColor": [
