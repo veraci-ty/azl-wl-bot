@@ -40363,5 +40363,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "473164784:mvp:travisMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-20T18:06:59.571Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
