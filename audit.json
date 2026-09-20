@@ -40537,5 +40537,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "469246586:style:akashi": {
+    "addedBy": {
+      "discordId": "683473283982557185",
+      "username": "fyvalith"
+    },
+    "addedAt": "2026-09-20T18:49:55.509Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
