@@ -3176,6 +3176,25 @@
         ]
       ],
       "specialer": false
+    },
+    "8423284346": {
+      "tagText": ", Low Angles Demon",
+      "tagColor": [
+        [
+          0,
+          255,
+          0,
+          255
+        ],
+        [
+          1,
+          102,
+          0,
+          102
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   },
   "commentators": {
