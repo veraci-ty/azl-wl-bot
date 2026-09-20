@@ -23338,16 +23338,13 @@
   },
   "926258577:style:aizen": {
     "addedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-08-29T21:48:56.096Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-10T11:03:01.813Z",
-    "active": false,
+    "addedAt": "2026-09-20T08:12:29.487Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
