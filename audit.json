@@ -40642,5 +40642,29 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-04T20:17:58.921Z"
+  },
+  "1761253545:command:saeawk": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-20T21:13:11.440Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
+  },
+  "850512411:command:saeawk": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-20T21:13:11.441Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
