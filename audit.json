@@ -40702,5 +40702,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "875799457:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-20T23:08:45.872Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
