@@ -1755,23 +1755,22 @@
       "specialer": true
     },
     "142494951": {
-      "tagText": ", White T-Poison",
+      "tagText": "Phantom Thief",
       "tagColor": [
         [
           0,
-          124,
-          58,
-          237
+          181,
+          18,
+          43
         ],
         [
           1,
-          245,
-          243,
-          255
+          17,
+          17,
+          17
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": false
     },
     "150511385": {
       "tagText": "Sin of Vanity",
