@@ -40648,23 +40648,23 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-09-20T21:13:11.440Z",
+    "addedAt": "2026-09-20T21:13:49.372Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-04T21:13:48.649Z"
   },
   "850512411:command:saeawk": {
     "addedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-09-20T21:13:11.441Z",
+    "addedAt": "2026-09-20T21:13:49.372Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-04T21:13:48.649Z"
   }
 }
