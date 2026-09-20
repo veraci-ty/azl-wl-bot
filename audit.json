@@ -37922,9 +37922,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-16T05:30:24.894Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-20T05:30:59.881Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-20T05:30:24.249Z"
   },
