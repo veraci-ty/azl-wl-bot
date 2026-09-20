@@ -12562,16 +12562,13 @@
   },
   "4678987333:command:saeawk": {
     "addedBy": {
-      "discordId": "1112511454713745548",
-      "username": "night.coded"
-    },
-    "addedAt": "2026-07-31T04:07:54.377Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -13474,16 +13471,13 @@
   },
   "1172470680:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-08-03T00:50:36.062Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -13933,16 +13927,13 @@
   },
   "458595807:command:saeawk": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-08-04T20:21:21.095Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -17266,16 +17257,13 @@
   },
   "1941400999:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-09-08T23:05:58.097Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -28363,16 +28351,13 @@
   },
   "220619887:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-09-02T01:24:55.198Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -30808,16 +30793,13 @@
   },
   "103548428:command:saeawk": {
     "addedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
-    },
-    "addedAt": "2026-09-03T10:50:07.330Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -30928,16 +30910,13 @@
   },
   "2327164670:command:saeawk": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-03T15:24:42.217Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -31633,16 +31612,13 @@
   },
   "2573434151:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-09-05T12:40:22.506Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -32872,16 +32848,13 @@
   },
   "387041454:command:saeawk": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-08T12:43:59.092Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -38911,16 +38884,13 @@
   },
   "139232224:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-09-18T23:12:05.569Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
@@ -39331,16 +39301,13 @@
   },
   "413662006:command:saeawk": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
-    },
-    "addedAt": "2026-09-19T16:50:41.695Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T16:07:17.462Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
