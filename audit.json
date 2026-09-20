@@ -40648,29 +40648,23 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-09-20T21:13:49.372Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-20T21:14:08.578Z",
-    "active": false,
+    "addedAt": "2026-09-20T21:14:12.965Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-04T21:13:48.649Z"
+    "expiresAt": "2026-10-04T21:14:12.424Z"
   },
   "850512411:command:saeawk": {
     "addedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-09-20T21:13:49.372Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-20T21:14:08.578Z",
-    "active": false,
+    "addedAt": "2026-09-20T21:14:12.965Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-04T21:13:48.649Z"
+    "expiresAt": "2026-10-04T21:14:12.424Z"
   }
 }
