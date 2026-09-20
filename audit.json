@@ -12718,16 +12718,13 @@
   },
   "1911944568:command:saeawk": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-07-31T09:55:48.326Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-09-20T15:59:54.230Z",
-    "active": false,
+    "addedAt": "2026-09-20T19:18:57.113Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
