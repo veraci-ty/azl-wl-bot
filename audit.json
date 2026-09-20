@@ -40630,5 +40630,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "520623444:command:ihatekunigami": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-20T20:18:00.151Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-04T20:17:58.921Z"
   }
 }
