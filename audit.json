@@ -40465,5 +40465,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1486445640:style:akashi": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-20T18:43:42.509Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
