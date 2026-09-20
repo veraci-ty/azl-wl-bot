@@ -39560,9 +39560,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-20T08:18:28.437Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-09-20T08:24:34.738Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
