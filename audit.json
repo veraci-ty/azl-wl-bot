@@ -39898,5 +39898,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "607410168:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-20T14:57:17.274Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
