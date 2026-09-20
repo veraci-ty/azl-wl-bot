@@ -40618,5 +40618,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "113454594:command:breakdance": {
+    "addedBy": {
+      "discordId": "298110946490974209",
+      "username": "_ghouwl"
+    },
+    "addedAt": "2026-09-20T20:02:09.870Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
