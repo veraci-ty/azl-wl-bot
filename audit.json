@@ -40453,5 +40453,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-20T18:20:34.334Z"
+  },
+  "312582604:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-20T18:33:40.461Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
