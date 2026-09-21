@@ -30908,16 +30908,13 @@
   },
   "1127512386:mvp:broly": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-09-03T04:27:22.741Z",
-    "removedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "removedAt": "2026-09-21T03:58:15.447Z",
-    "active": false,
+    "addedAt": "2026-09-21T14:34:18.278Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
