@@ -40714,5 +40714,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1942841609:command:breakdance": {
+    "addedBy": {
+      "discordId": "298110946490974209",
+      "username": "_ghouwl"
+    },
+    "addedAt": "2026-09-21T02:31:48.786Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
