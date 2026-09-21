@@ -18044,12 +18044,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-15T03:18:44.989Z",
+    "addedAt": "2026-09-21T06:11:44.286Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-12T06:11:43.877Z"
   },
   "301510950:command:kuon": {
     "addedBy": {
