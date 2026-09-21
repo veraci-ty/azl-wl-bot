@@ -23219,15 +23219,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-09-12T02:07:24.113Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-12T03:09:38.040Z",
-    "active": false,
+    "addedAt": "2026-09-21T21:12:03.763Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-12T03:07:23.571Z"
+    "expiresAt": "2026-09-21T22:12:03.389Z"
   },
   "1974243283:mvp:rienMVP": {
     "addedBy": {
