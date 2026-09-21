@@ -39518,13 +39518,10 @@
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "addedAt": "2026-09-19T12:43:37.618Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -39674,16 +39671,13 @@
   },
   "619213444:mvp:gameon": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-19T16:02:10.776Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -39926,16 +39920,13 @@
   },
   "1911944568:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T03:50:00.611Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -40085,16 +40076,13 @@
   },
   "10444140562:mvp:gameon": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-20T09:09:20.247Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -40139,151 +40127,121 @@
   },
   "94706694:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "11617401295:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "119422096:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "587034579:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "885475971:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "10014528850:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "2855765747:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "11207915501:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "1251635216:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
   "494954154:mvp:gameon": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-20T12:36:10.703Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-09-21T19:27:22.284Z",
-    "active": false,
+    "addedAt": "2026-09-21T19:29:22.656Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
