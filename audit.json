@@ -40892,5 +40892,41 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-12T14:32:05.048Z"
+  },
+  "923681783:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-21T15:08:44.249Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
+  },
+  "821491247:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-21T15:08:44.249Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
+  },
+  "261832676:mvp:shinrajump": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-21T15:08:44.249Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
