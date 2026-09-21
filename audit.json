@@ -15524,15 +15524,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T13:09:13.192Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-09T15:57:28.514Z",
-    "active": false,
+    "addedAt": "2026-09-21T06:36:13.216Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-15T13:09:12.725Z"
+    "expiresAt": "2026-10-21T06:36:12.814Z"
   },
   "8588215558:command:cc": {
     "addedBy": {
