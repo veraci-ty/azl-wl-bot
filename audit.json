@@ -38220,9 +38220,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-15T14:34:31.684Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-22T14:36:05.041Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": "2026-09-22T14:34:31.152Z"
   },
