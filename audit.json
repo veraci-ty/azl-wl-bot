@@ -9165,9 +9165,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-07-19T13:18:32.763Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-22T21:29:06.722Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
