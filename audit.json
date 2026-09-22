@@ -41501,5 +41501,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-25T14:18:15.866Z"
+  },
+  "312582604:mvp:nettspendlisteningparty": {
+    "addedBy": {
+      "discordId": "1526746086142902444",
+      "username": "onvlua"
+    },
+    "addedAt": "2026-09-22T15:00:10.620Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
