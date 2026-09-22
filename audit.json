@@ -41564,5 +41564,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-23T07:42:29.187Z"
+  },
+  "87324267:mvp:gameover": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-22T22:24:54.781Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
