@@ -2764,29 +2764,22 @@
       "specialer": false
     },
     "2573434151": {
-      "tagText": ", The Quincy King",
+      "tagText": "Shni’s",
       "tagColor": [
         [
           0,
-          20,
-          50,
-          110
-        ],
-        [
-          0.5,
-          223,
-          205,
-          36
+          255,
+          23,
+          23
         ],
         [
           1,
-          0,
-          0,
-          0
+          255,
+          186,
+          186
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     },
     "2608219493": {
       "tagText": "The Ultimate Gamer",
