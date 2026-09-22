@@ -41438,5 +41438,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-06T12:09:37.549Z"
+  },
+  "1341530234:style:1w": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-22T12:29:01.096Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
