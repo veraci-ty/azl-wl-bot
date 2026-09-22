@@ -38093,15 +38093,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-15T06:48:06.609Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-19T17:41:48.040Z",
-    "active": false,
+    "addedAt": "2026-09-22T11:48:42.678Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-15T06:48:06.142Z"
+    "expiresAt": "2026-10-22T11:48:42.190Z"
   },
   "3885485505:command:rinnoplay": {
     "addedBy": {
