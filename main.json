@@ -1960,19 +1960,19 @@
       "nameaddition": true
     },
     "393718809": {
-      "tagText": "Withr's",
+      "tagText": "Red Hood,",
       "tagColor": [
         [
           0,
-          143,
-          52,
-          235
+          255,
+          36,
+          36
         ],
         [
           1,
-          191,
-          151,
-          232
+          255,
+          158,
+          158
         ]
       ],
       "specialer": true
