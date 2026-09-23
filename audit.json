@@ -41891,5 +41891,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2549530730:mvp:gameon": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-23T17:41:18.951Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
