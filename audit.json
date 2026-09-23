@@ -33104,18 +33104,15 @@
   },
   "520623444:style:2011x": {
     "addedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-13T18:13:18.272Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-09-20T07:06:31.956Z",
-    "active": false,
+    "addedAt": "2026-09-23T16:22:45.136Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-09-26T16:22:44.625Z"
   },
   "387041454:command:saeawk": {
     "addedBy": {
