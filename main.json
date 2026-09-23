@@ -2798,6 +2798,24 @@
       ],
       "specialer": false
     },
+    "2527751273": {
+      "tagText": "Child of War",
+      "tagColor": [
+        [
+          0,
+          242,
+          231,
+          88
+        ],
+        [
+          1,
+          122,
+          193,
+          65
+        ]
+      ],
+      "specialer": true
+    },
     "2573434151": {
       "tagText": ", The Quincy King",
       "tagColor": [
