@@ -41924,5 +41924,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1102361643:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-23T18:17:26.747Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
