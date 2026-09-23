@@ -41807,5 +41807,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "568225745:command:rebel": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-23T16:53:23.229Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
