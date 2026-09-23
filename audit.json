@@ -42131,5 +42131,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-30T18:53:44.882Z"
+  },
+  "5344601978:mvp:deathkid": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-23T18:59:46.900Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-30T18:59:46.392Z"
   }
 }
