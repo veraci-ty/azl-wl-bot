@@ -41726,5 +41726,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4385385148:mvp:gameover": {
+    "addedBy": {
+      "discordId": "449426755179249685",
+      "username": "pt.n"
+    },
+    "addedAt": "2026-09-23T14:29:28.191Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-09-30T14:29:27.533Z"
   }
 }
