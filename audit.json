@@ -33863,15 +33863,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-09T15:33:06.994Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-11T01:24:28.722Z",
-    "active": false,
+    "addedAt": "2026-09-23T17:44:42.141Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-09T15:33:06.466Z"
+    "expiresAt": "2026-10-23T17:44:41.504Z"
   },
   "1390578962:emote:SuperWalk": {
     "addedBy": {
