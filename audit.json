@@ -118,5 +118,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": null
+  },
+  "2812723362:style:ronaldo": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-24T10:19:13.363Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-30T10:19:13.016Z"
   }
 }
