@@ -154,5 +154,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "520623444:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-24T11:36:44.455Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-09-27T11:36:44.090Z"
   }
 }
