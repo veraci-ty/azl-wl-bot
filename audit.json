@@ -212,9 +212,12 @@
       "username": "pt.n"
     },
     "addedAt": "2026-09-24T13:48:09.730Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "449426755179249685",
+      "username": "pt.n"
+    },
+    "removedAt": "2026-09-24T13:51:29.471Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
