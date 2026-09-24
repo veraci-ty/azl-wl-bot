@@ -29237,16 +29237,13 @@
   },
   "2912663972:style:KJ": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "449426755179249685",
+      "username": "pt.n"
     },
-    "addedAt": "2026-09-02T09:26:13.626Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-24T17:44:55.141Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
