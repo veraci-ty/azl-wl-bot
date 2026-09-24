@@ -49,5 +49,20 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-30T09:55:02.802Z"
+  },
+  "10296674:command:overtimetest": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-24T10:04:01.671Z",
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-24T10:04:01.671Z",
+    "active": false,
+    "kind": "command",
+    "expiresAt": null
   }
 }
