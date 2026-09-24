@@ -42380,5 +42380,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "575826973:command:saeawk": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-09-24T15:01:08.429Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
