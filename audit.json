@@ -25311,9 +25311,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-08-30T21:02:28.753Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-24T20:08:28.113Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -39903,9 +39906,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-09-19T19:25:56.718Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-24T20:08:28.113Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
