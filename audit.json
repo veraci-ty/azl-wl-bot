@@ -193,5 +193,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4166416054:command:rebel": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-24T13:45:36.107Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
