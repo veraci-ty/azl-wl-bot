@@ -2510,15 +2510,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-04T13:27:34.786Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-20T16:45:10.221Z",
-    "active": false,
+    "addedAt": "2026-09-24T21:31:22.221Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-09-25T21:31:21.584Z"
   },
   "9248296813:command:ncd": {
     "addedBy": {
