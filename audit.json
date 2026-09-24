@@ -130,5 +130,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-30T10:19:13.016Z"
+  },
+  "469595468:mvp:gameon": {
+    "addedBy": {
+      "discordId": "449426755179249685",
+      "username": "pt.n"
+    },
+    "addedAt": "2026-09-24T10:22:20.421Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
