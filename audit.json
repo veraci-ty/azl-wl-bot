@@ -91,5 +91,17 @@
     "active": false,
     "kind": "emote",
     "expiresAt": null
+  },
+  "260222750:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-24T10:05:45.736Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
