@@ -42348,9 +42348,12 @@
       "username": "pt.n"
     },
     "addedAt": "2026-09-24T13:54:14.561Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-24T14:59:11.811Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-24T14:54:14.254Z"
   },
