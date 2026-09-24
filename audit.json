@@ -166,5 +166,20 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-09-27T11:36:44.090Z"
+  },
+  "260222750:command:yurier": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-24T13:07:17.642Z",
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-09-24T13:07:17.644Z",
+    "active": false,
+    "kind": "command",
+    "expiresAt": null
   }
 }
