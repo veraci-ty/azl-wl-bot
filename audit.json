@@ -10,5 +10,20 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-10-24T03:49:50.018Z"
+  },
+  "3885485505:style:messi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-24T09:53:31.176Z",
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-24T09:53:31.178Z",
+    "active": false,
+    "kind": "style",
+    "expiresAt": null
   }
 }
