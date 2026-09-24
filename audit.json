@@ -42389,5 +42389,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1481884758:style:akashi": {
+    "addedBy": {
+      "discordId": "683473283982557185",
+      "username": "fyvalith"
+    },
+    "addedAt": "2026-09-24T16:46:54.343Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
