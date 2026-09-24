@@ -24510,9 +24510,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-08-30T06:40:58.989Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-24T14:14:12.264Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-09-24T06:40:58.638Z"
   },
