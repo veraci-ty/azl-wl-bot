@@ -42542,5 +42542,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1601612800:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-25T12:18:59.253Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-25T12:18:58.587Z"
   }
 }
