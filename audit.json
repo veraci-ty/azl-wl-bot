@@ -38747,18 +38747,15 @@
   },
   "575474319:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-17T04:54:50.024Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-09-19T21:14:36.417Z",
-    "active": false,
+    "addedAt": "2026-09-25T12:19:42.182Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-12T04:54:49.599Z"
+    "expiresAt": "2026-10-25T12:19:41.569Z"
   },
   "8588215558:style:dawnwalker": {
     "addedBy": {
