@@ -3146,7 +3146,7 @@
       "nameaddition": true
     },
     "8651277689": {
-      "tagText": "The One Beyond All Limits",
+      "tagText": "Life After The Party",
       "tagColor": [
         [
           0,
@@ -3157,8 +3157,8 @@
         [
           1,
           255,
-          8,
-          239
+          255,
+          255
         ]
       ],
       "specialer": true
