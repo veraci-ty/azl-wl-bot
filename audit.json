@@ -33446,13 +33446,10 @@
       "discordId": "691222236375547955",
       "username": "viciousry"
     },
-    "addedAt": "2026-09-08T19:46:59.264Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-10T11:03:01.813Z",
-    "active": false,
+    "addedAt": "2026-09-25T13:43:49.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
