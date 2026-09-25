@@ -33527,18 +33527,15 @@
   },
   "2812723362:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-09-24T10:18:28.875Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-24T10:18:28.875Z",
-    "active": false,
+    "addedAt": "2026-09-25T12:21:50.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-25T12:21:50.310Z"
   },
   "3885485505:style:ronaldo": {
     "addedBy": {
