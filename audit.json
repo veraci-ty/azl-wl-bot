@@ -29105,16 +29105,13 @@
   },
   "1251635216:style:KJ": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "449426755179249685",
+      "username": "pt.n"
     },
-    "addedAt": "2026-09-02T09:26:13.626Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-25T15:00:09.408Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
