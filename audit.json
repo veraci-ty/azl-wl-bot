@@ -23411,16 +23411,13 @@
   },
   "10444140562:mvp:diavoloMvp": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-09-13T10:07:43.257Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-21T20:38:13.317Z",
-    "active": false,
+    "addedAt": "2026-09-25T17:11:08.420Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
