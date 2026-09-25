@@ -14153,13 +14153,10 @@
       "discordId": "1404918321488466113",
       "username": "avalonith."
     },
-    "addedAt": "2026-09-09T14:48:25.780Z",
-    "removedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "removedAt": "2026-09-20T16:47:38.305Z",
-    "active": false,
+    "addedAt": "2026-09-25T17:27:38.924Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
