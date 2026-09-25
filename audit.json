@@ -20724,9 +20724,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-18T16:19:04.828Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-25T16:19:12.332Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-09-25T16:19:04.346Z"
   },
