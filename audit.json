@@ -42851,5 +42851,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1241352401:command:evil": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-26T18:47:15.303Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-09-27T18:47:14.214Z"
   }
 }
