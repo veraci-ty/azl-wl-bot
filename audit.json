@@ -43004,5 +43004,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-10-26T22:30:10.992Z"
+  },
+  "301510950:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-26T23:20:26.882Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
