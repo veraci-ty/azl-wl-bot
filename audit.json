@@ -38012,15 +38012,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-20T20:18:10.953Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-25T20:19:12.219Z",
-    "active": false,
+    "addedAt": "2026-09-26T12:51:13.661Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-25T20:18:09.685Z"
+    "expiresAt": "2026-09-29T12:51:13.082Z"
   },
   "3730120158:emote:RetryNow": {
     "addedBy": {
