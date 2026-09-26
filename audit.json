@@ -42939,9 +42939,12 @@
       "username": "niaplix"
     },
     "addedAt": "2026-09-26T21:48:23.750Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-26T21:49:12.435Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-09-26T21:48:53.218Z"
   }
