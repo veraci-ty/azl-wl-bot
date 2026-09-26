@@ -2825,6 +2825,30 @@
       ],
       "specialer": false
     },
+    "2265468781": {
+      "tagText": "Spinjutsu Master",
+      "tagColor": [
+        [
+          0,
+          255,
+          243,
+          163
+        ],
+        [
+          0.5,
+          217,
+          154,
+          0
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": false
+    },
     "2327164670": {
       "tagText": "Prinzessin der Schatten",
       "tagColor": [
