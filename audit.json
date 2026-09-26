@@ -42764,5 +42764,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2505639340:mvp:vydiaMVP": {
+    "addedBy": {
+      "discordId": "815312623741567036",
+      "username": "vydla_"
+    },
+    "addedAt": "2026-09-26T17:09:30.038Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
