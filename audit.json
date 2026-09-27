@@ -43166,15 +43166,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-27T18:03:14.898Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-27T18:12:21.416Z",
-    "active": false,
+    "addedAt": "2026-09-27T18:12:33.363Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-04T18:03:14.376Z"
+    "expiresAt": null
   },
   "9248296813:mvp:gameon": {
     "addedBy": {
