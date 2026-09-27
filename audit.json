@@ -42947,5 +42947,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5639442027:emote:eyesclosed": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-27T00:01:13.726Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
