@@ -5000,15 +5000,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-06-30T15:53:45.502Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-07T15:54:31.763Z",
-    "active": false,
+    "addedAt": "2026-09-27T12:01:17.863Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-07-07T15:53:45.193Z"
+    "expiresAt": null
   },
   "1861742548:style:KJ": {
     "addedBy": {
