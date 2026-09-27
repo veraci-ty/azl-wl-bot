@@ -43028,5 +43028,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-09-30T02:18:56.038Z"
+  },
+  "8205193641:mvp:gameon": {
+    "addedBy": {
+      "discordId": "449426755179249685",
+      "username": "pt.n"
+    },
+    "addedAt": "2026-09-27T03:22:28.143Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
