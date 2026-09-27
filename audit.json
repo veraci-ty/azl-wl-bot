@@ -42813,9 +42813,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-26T20:12:09.028Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "449426755179249685",
+      "username": "pt.n"
+    },
+    "removedAt": "2026-09-27T01:37:27.342Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
