@@ -43082,5 +43082,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "96478357:mvp:rienMVP": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-27T14:44:38.570Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
