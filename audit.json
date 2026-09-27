@@ -42989,5 +42989,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1970964202:emote:eyesclosed": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-27T01:11:21.709Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
