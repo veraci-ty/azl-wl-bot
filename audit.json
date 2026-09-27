@@ -40067,16 +40067,13 @@
   },
   "10444140562:mvp:gameon": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-09-21T19:29:22.656Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-21T20:38:13.317Z",
-    "active": false,
+    "addedAt": "2026-09-27T18:13:41.973Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
