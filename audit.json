@@ -5159,16 +5159,13 @@
   },
   "662417482:mvp:broly": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-09-06T05:22:26.897Z",
-    "removedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "removedAt": "2026-09-21T03:58:15.447Z",
-    "active": false,
+    "addedAt": "2026-09-27T03:01:40.855Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
