@@ -43040,5 +43040,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1761253545:emote:sparxie": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-09-27T05:09:34.095Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
