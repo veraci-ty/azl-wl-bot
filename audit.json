@@ -43421,5 +43421,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "387041454:command:rebel": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-28T01:36:11.508Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
