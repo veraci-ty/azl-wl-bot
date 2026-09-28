@@ -43517,5 +43517,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "163606607:emote:iHateYouNiaplix": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-09-28T02:09:47.915Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
