@@ -42335,18 +42335,15 @@
   },
   "372744870:command:skillbuilder": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-09-24T20:43:46.836Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-09-28T05:11:02.329Z",
-    "active": false,
+    "addedAt": "2026-09-28T05:12:49.692Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-01T20:43:46.249Z"
+    "expiresAt": "2026-10-01T05:12:48.841Z"
   },
   "4900201703:command:skillbuilder": {
     "addedBy": {
