@@ -44147,5 +44147,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1911944568:emote:rampage": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-09-28T23:05:10.742Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
