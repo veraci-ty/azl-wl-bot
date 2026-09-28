@@ -43622,5 +43622,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-28T07:37:11.227Z"
+  },
+  "1128963703:command:f": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-28T07:38:40.311Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-28T07:38:39.708Z"
   }
 }
