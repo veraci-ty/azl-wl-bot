@@ -43745,5 +43745,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": "2026-09-28T09:30:46.372Z"
+  },
+  "11207915501:commentator:Origin": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-09-28T11:27:55.455Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
