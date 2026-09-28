@@ -42510,9 +42510,12 @@
       "username": "pt.n"
     },
     "addedAt": "2026-09-27T13:01:10.753Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-28T13:04:12.973Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-09-28T13:01:10.158Z"
   },
