@@ -24179,18 +24179,15 @@
   },
   "325765268:command:rinnoplay": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-08-30T02:36:50.468Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-31T02:39:53.477Z",
-    "active": false,
+    "addedAt": "2026-09-28T00:58:29.726Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-31T02:36:50.136Z"
+    "expiresAt": null
   },
   "40327589:command:rinnoplay": {
     "addedBy": {
