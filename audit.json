@@ -43790,5 +43790,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "8662694280:mvp:jimmysmvp1": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-28T12:45:43.743Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
