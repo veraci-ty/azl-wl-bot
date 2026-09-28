@@ -2379,6 +2379,31 @@
       "specialer": true,
       "nameaddition": true
     },
+    "923681783": {
+      "tagText": ", Saint of Laterano",
+      "tagColor": [
+        [
+          0,
+          73,
+          110,
+          222
+        ],
+        [
+          0.5,
+          186,
+          212,
+          247
+        ],
+        [
+          1,
+          232,
+          244,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "967187368": {
       "tagText": "My Sweet Passion,",
       "tagColor": [
