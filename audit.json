@@ -44087,5 +44087,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4166416054:emote:rampage": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-28T18:18:50.404Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
