@@ -3860,13 +3860,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-06-22T22:36:20.729Z",
-    "removedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "removedAt": "2026-09-21T03:58:15.447Z",
-    "active": false,
+    "addedAt": "2026-09-28T00:30:31.851Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
