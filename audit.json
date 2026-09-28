@@ -28202,15 +28202,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-11T16:06:14.143Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-13T16:09:38.674Z",
-    "active": false,
+    "addedAt": "2026-09-28T14:12:25.568Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-13T16:06:13.705Z"
+    "expiresAt": "2026-10-01T14:12:24.882Z"
   },
   "2979765314:emote:elpadia": {
     "addedBy": {
