@@ -43454,15 +43454,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-27T21:54:12.571Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-28T21:54:12.918Z",
-    "active": false,
+    "addedAt": "2026-09-28T23:45:20.270Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-09-28T21:54:11.955Z"
+    "expiresAt": "2026-09-29T19:45:19.722Z"
   },
   "3730120158:command:heat": {
     "addedBy": {
