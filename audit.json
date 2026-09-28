@@ -17321,15 +17321,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-08-13T18:03:57.851Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-18T18:08:35.120Z",
-    "active": false,
+    "addedAt": "2026-09-28T10:51:30.377Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-18T18:03:57.478Z"
+    "expiresAt": "2026-10-19T10:51:29.797Z"
   },
   "15212321:command:awaketest": {
     "addedBy": {
