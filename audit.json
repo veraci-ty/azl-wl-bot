@@ -34802,15 +34802,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-10T01:24:33.121Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-25T12:18:43.530Z",
-    "active": false,
+    "addedAt": "2026-09-28T07:43:05.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-10T01:24:32.734Z"
+    "expiresAt": "2026-10-28T07:43:04.689Z"
   },
   "1931203237:style:dio": {
     "addedBy": {
