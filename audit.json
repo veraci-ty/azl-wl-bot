@@ -44039,5 +44039,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1549164509:emote:LeagueTrophy": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-09-28T14:44:56.510Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
