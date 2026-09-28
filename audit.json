@@ -30384,9 +30384,12 @@
       "username": "night.coded"
     },
     "addedAt": "2026-09-27T23:11:02.387Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-09-28T00:51:02.403Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
