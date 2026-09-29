@@ -37934,15 +37934,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-26T12:51:13.661Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-29T12:54:13.279Z",
-    "active": false,
+    "addedAt": "2026-09-29T17:13:50.148Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-29T12:51:13.082Z"
+    "expiresAt": "2026-10-04T17:13:49.501Z"
   },
   "3730120158:emote:RetryNow": {
     "addedBy": {
