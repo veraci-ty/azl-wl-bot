@@ -24141,9 +24141,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-08-30T01:17:51.326Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-29T01:19:12.826Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": "2026-09-29T01:17:50.961Z"
   },
