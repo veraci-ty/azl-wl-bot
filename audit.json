@@ -44915,5 +44915,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-10-06T20:13:58.443Z"
+  },
+  "3749261239:command:heat": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-29T20:14:48.323Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
