@@ -44285,5 +44285,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-29T03:50:48.650Z"
+  },
+  "1027715791:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-29T03:52:01.632Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-29T03:52:00.940Z"
   }
 }
