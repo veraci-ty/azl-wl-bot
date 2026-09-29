@@ -44219,5 +44219,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "645900651:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-09-29T01:31:48.389Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
