@@ -44474,5 +44474,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-29T14:22:53.985Z"
+  },
+  "2573434151:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-29T16:25:33.813Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
