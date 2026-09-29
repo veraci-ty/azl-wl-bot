@@ -44363,5 +44363,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-29T04:21:09.316Z"
+  },
+  "1171807840:mvp:kafkamvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-09-29T05:06:03.053Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-10-02T05:06:02.238Z"
   }
 }
