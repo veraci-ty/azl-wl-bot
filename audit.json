@@ -38612,15 +38612,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-16T18:15:37.237Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-28T18:24:13.925Z",
-    "active": false,
+    "addedAt": "2026-09-29T23:54:09.258Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-28T18:15:36.714Z"
+    "expiresAt": null
   },
   "11207915501:command:f": {
     "addedBy": {
