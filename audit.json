@@ -42327,9 +42327,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-23T18:59:46.900Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-09-30T19:04:13.715Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": "2026-09-30T18:59:46.392Z"
   },
