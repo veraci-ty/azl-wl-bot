@@ -35837,15 +35837,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-11T11:44:24.082Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-19T21:21:18.450Z",
-    "active": false,
+    "addedAt": "2026-09-30T18:45:03.609Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-11T11:44:23.686Z"
+    "expiresAt": "2026-10-30T18:45:02.713Z"
   },
   "2327164670:command:yurier": {
     "addedBy": {
