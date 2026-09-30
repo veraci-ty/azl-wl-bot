@@ -45443,5 +45443,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "9248296813:emote:Groove": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-09-30T16:11:06.775Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
