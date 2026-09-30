@@ -33962,13 +33962,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-09T15:41:13.480Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -33977,13 +33974,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34007,13 +34001,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34037,13 +34028,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34052,13 +34040,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34067,13 +34052,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -34082,13 +34064,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-20T19:03:17.252Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -35438,13 +35417,10 @@
       "discordId": "1518626711556591657",
       "username": "kuztfr"
     },
-    "addedAt": "2026-09-10T10:02:58.179Z",
-    "removedBy": {
-      "discordId": "1518626711556591657",
-      "username": "kuztfr"
-    },
-    "removedAt": "2026-09-30T13:41:28.580Z",
-    "active": false,
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -45298,6 +45274,66 @@
     "removedAt": null,
     "active": true,
     "kind": "mvp",
+    "expiresAt": null
+  },
+  "1520887436:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "3966485411:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "582589785:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "545724205:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "3712698061:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "1518626711556591657",
+      "username": "kuztfr"
+    },
+    "addedAt": "2026-09-30T13:41:39.225Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
     "expiresAt": null
   }
 }
