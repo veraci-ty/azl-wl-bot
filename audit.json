@@ -45065,5 +45065,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "619213444:mvp:heianvsgang": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-30T07:17:55.938Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
