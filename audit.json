@@ -45531,9 +45531,12 @@
       "username": "diisciples"
     },
     "addedAt": "2026-09-30T18:08:20.612Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "removedAt": "2026-09-30T18:08:44.568Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   }
