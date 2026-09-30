@@ -44996,5 +44996,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "4348260626:style:gremmy": {
+    "addedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "addedAt": "2026-09-30T01:04:24.929Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
