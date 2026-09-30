@@ -43647,9 +43647,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-09-30T12:24:19.682Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "removedAt": "2026-09-30T13:08:33.625Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
