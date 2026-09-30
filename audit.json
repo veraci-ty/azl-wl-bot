@@ -3656,16 +3656,13 @@
   },
   "4004553580:style:KJ": {
     "addedBy": {
-      "discordId": "252359230298914817",
-      "username": "stephex"
+      "discordId": "449426755179249685",
+      "username": "pt.n"
     },
-    "addedAt": "2026-06-22T16:15:59.220Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-09-02T09:26:13.626Z",
-    "active": false,
+    "addedAt": "2026-09-30T01:28:27.336Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
