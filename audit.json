@@ -44217,9 +44217,12 @@
       "username": "vydla_"
     },
     "addedAt": "2026-09-28T22:19:49.604Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "815312623741567036",
+      "username": "vydla_"
+    },
+    "removedAt": "2026-09-30T08:27:31.522Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
