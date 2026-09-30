@@ -45395,5 +45395,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1508180357:emote:sorry": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-09-30T14:18:29.919Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
