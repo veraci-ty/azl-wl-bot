@@ -45122,5 +45122,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4166416054:mvp:heianvsgang": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-09-30T11:13:50.722Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
