@@ -44978,5 +44978,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-01T23:29:24.771Z"
+  },
+  "5622750932:command:mobian": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-09-30T00:05:47.539Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
