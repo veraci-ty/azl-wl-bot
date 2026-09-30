@@ -45833,5 +45833,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "639363980:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-09-30T22:39:08.481Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
