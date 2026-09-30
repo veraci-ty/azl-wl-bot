@@ -1875,6 +1875,25 @@
       ],
       "specialer": false
     },
+    "150284119": {
+      "tagText": "The Dummy guy,",
+      "tagColor": [
+        [
+          0,
+          255,
+          99,
+          244
+        ],
+        [
+          1,
+          122,
+          204,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "150511385": {
       "tagText": "Sin of Vanity",
       "tagColor": [
