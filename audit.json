@@ -46220,5 +46220,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1931203237:command:tung": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-01T17:08:02.980Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
