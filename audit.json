@@ -24212,15 +24212,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-08-30T01:18:36.458Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-08-30T22:16:23.750Z",
-    "active": false,
+    "addedAt": "2026-10-01T16:02:41.047Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-29T01:18:36.048Z"
+    "expiresAt": "2026-10-31T16:02:40.373Z"
   },
   "119422096:emote:sparxie": {
     "addedBy": {
