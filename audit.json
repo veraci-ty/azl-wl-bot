@@ -46244,5 +46244,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3556383744:command:yurier": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-01T17:55:42.096Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
