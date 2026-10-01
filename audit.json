@@ -45848,5 +45848,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10564006744:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-01T02:28:56.446Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-10-08T02:28:55.895Z"
   }
 }
