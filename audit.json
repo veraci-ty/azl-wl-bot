@@ -46337,5 +46337,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "375336392:command:heat": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-01T22:07:29.160Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
