@@ -46373,5 +46373,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "4982293450:style:aizen": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-01T23:10:08.639Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
