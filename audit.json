@@ -36582,9 +36582,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-09-30T17:00:34.945Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-10-01T19:08:28.361Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
