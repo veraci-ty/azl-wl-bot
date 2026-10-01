@@ -45896,5 +45896,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "152131626:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-01T03:54:36.879Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
