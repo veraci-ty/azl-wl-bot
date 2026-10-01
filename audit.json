@@ -27681,9 +27681,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-01T03:00:17.937Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-01T18:10:36.713Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
