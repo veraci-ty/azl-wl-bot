@@ -41786,15 +41786,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-22T14:18:16.306Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-25T14:19:12.258Z",
-    "active": false,
+    "addedAt": "2026-10-02T16:54:38.158Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-25T14:18:15.866Z"
+    "expiresAt": "2026-10-07T16:54:37.574Z"
   },
   "312582604:mvp:nettspendlisteningparty": {
     "addedBy": {
