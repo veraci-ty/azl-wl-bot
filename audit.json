@@ -46487,5 +46487,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1115343036:command:cc": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-02T14:38:12.513Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
