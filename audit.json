@@ -23213,15 +23213,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-02T05:26:40.768Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-02T05:26:55.085Z",
-    "active": false,
+    "addedAt": "2026-10-02T05:27:08.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-07T05:27:08.344Z"
   },
   "2492873946:command:skillbuilder": {
     "addedBy": {
@@ -46448,14 +46445,11 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-02T05:26:40.768Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-02T05:26:55.085Z",
-    "active": false,
+    "addedAt": "2026-10-02T05:27:08.981Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-10-07T05:27:08.344Z"
   }
 }
