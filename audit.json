@@ -42476,18 +42476,15 @@
   },
   "10296674:style:messi": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-09-24T10:04:25.928Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-30T10:09:13.527Z",
-    "active": false,
+    "addedAt": "2026-10-02T22:59:42.804Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-30T10:04:25.580Z"
+    "expiresAt": "2026-11-01T22:59:42.247Z"
   },
   "2812723362:style:ronaldo": {
     "addedBy": {
