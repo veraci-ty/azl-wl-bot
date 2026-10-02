@@ -45171,9 +45171,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-30T00:05:47.539Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "removedAt": "2026-10-02T13:39:35.519Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
