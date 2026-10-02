@@ -1958,6 +1958,24 @@
       "specialer": true,
       "nameaddition": true
     },
+    "212012720": {
+      "tagText": "1% luck is all i need",
+      "tagColor": [
+        [
+          0,
+          254,
+          248,
+          159
+        ],
+        [
+          1,
+          127,
+          84,
+          45
+        ]
+      ],
+      "specialer": false
+    },
     "215433259": {
       "tagText": ", Espada #3",
       "tagColor": [
