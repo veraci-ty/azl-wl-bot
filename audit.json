@@ -46457,5 +46457,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-07T05:27:08.344Z"
+  },
+  "2327164670:command:rebel": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-02T13:35:34.847Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
