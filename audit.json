@@ -46424,5 +46424,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "150284119:command:heat": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-02T03:12:47.032Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
