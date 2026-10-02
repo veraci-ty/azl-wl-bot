@@ -36500,15 +36500,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-12T20:22:07.629Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-16T03:09:43.998Z",
-    "active": false,
+    "addedAt": "2026-10-02T23:05:22.005Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-12T20:22:07.225Z"
+    "expiresAt": "2026-11-01T23:05:21.284Z"
   },
   "261832676:mvp:kafkamvp": {
     "addedBy": {
