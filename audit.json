@@ -46400,5 +46400,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "152131626:ost:sae": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-02T02:19:04.278Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
