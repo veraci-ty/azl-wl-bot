@@ -45413,15 +45413,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-30T13:44:37.212Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-02T13:49:14.464Z",
-    "active": false,
+    "addedAt": "2026-10-03T18:43:17.053Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-02T13:44:36.563Z"
+    "expiresAt": null
   },
   "3707009690:emote:Groove": {
     "addedBy": {
