@@ -23423,16 +23423,13 @@
   },
   "10444140562:emote:FreeterDance": {
     "addedBy": {
-      "discordId": "1404918321488466113",
-      "username": "avalonith."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-25T16:31:40.325Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-27T18:23:53.746Z",
-    "active": false,
+    "addedAt": "2026-10-03T23:33:12.127Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
