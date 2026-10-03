@@ -37005,9 +37005,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-09-27T18:14:00.105Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "removedAt": "2026-10-03T21:17:21.633Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
