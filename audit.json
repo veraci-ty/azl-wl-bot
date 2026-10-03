@@ -46700,5 +46700,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "571598582:style:dio": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-03T13:20:49.609Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
