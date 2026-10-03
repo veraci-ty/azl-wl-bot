@@ -39393,9 +39393,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-18T22:55:24.010Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "683473283982557185",
+      "username": "fyvalith"
+    },
+    "removedAt": "2026-10-03T21:24:32.975Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
