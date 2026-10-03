@@ -12713,13 +12713,10 @@
       "discordId": "1127997764362579979",
       "username": "freddy_yeah"
     },
-    "addedAt": "2026-07-30T10:36:05.384Z",
-    "removedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "removedAt": "2026-09-21T03:58:15.447Z",
-    "active": false,
+    "addedAt": "2026-10-03T16:09:43.744Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
