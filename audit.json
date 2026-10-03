@@ -46898,5 +46898,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "19213444:emote:brightestheart": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-03T23:35:27.944Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
