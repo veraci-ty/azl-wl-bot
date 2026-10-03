@@ -43757,13 +43757,10 @@
       "discordId": "526367718824476692",
       "username": "toast.s"
     },
-    "addedAt": "2026-09-30T12:24:19.682Z",
-    "removedBy": {
-      "discordId": "526367718824476692",
-      "username": "toast.s"
-    },
-    "removedAt": "2026-09-30T13:08:33.625Z",
-    "active": false,
+    "addedAt": "2026-10-03T11:40:29.971Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
