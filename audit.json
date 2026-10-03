@@ -46793,5 +46793,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1820139880:style:akashi": {
+    "addedBy": {
+      "discordId": "683473283982557185",
+      "username": "fyvalith"
+    },
+    "addedAt": "2026-10-03T19:58:48.456Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-06T19:58:47.861Z"
   }
 }
