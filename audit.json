@@ -46733,5 +46733,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "7355518097:commentator:Roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-10-03T18:46:37.888Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
