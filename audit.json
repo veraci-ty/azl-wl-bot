@@ -37523,15 +37523,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-13T15:50:25.296Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-28T07:39:09.149Z",
-    "active": false,
+    "addedAt": "2026-10-03T09:27:50.650Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-13T15:50:24.814Z"
+    "expiresAt": "2026-11-02T09:27:49.984Z"
   },
   "1771433330:mvp:sothisishowitfeels": {
     "addedBy": {
