@@ -40874,16 +40874,13 @@
   },
   "1431630479:mvp:shinrajump": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-20T18:47:52.148Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-21T19:28:23.442Z",
-    "active": false,
+    "addedAt": "2026-10-03T22:45:44.649Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
