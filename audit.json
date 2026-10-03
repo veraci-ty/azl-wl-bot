@@ -39389,16 +39389,13 @@
   },
   "977590007:style:akashi": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-09-18T22:55:24.010Z",
-    "removedBy": {
       "discordId": "683473283982557185",
       "username": "fyvalith"
     },
-    "removedAt": "2026-10-03T21:24:32.975Z",
-    "active": false,
+    "addedAt": "2026-10-03T22:00:01.630Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
