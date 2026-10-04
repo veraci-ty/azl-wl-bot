@@ -47960,5 +47960,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1941400999:style:akashi": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-10-04T22:26:01.482Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-05T22:26:00.755Z"
   }
 }
