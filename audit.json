@@ -34430,15 +34430,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-09T15:58:37.141Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-12T09:02:49.169Z",
-    "active": false,
+    "addedAt": "2026-10-04T16:52:30.067Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-09T15:58:36.652Z"
+    "expiresAt": "2026-11-03T16:52:28.737Z"
   },
   "3967505572:emote:SuperWalk": {
     "addedBy": {
