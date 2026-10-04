@@ -47975,5 +47975,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "619213444:mvp:remiellethingy": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-04T22:52:46.157Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
