@@ -41297,16 +41297,13 @@
   },
   "1481884758:mvp:jimmysmvp1": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-09-21T19:27:00.056Z",
-    "removedBy": {
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "removedAt": "2026-09-30T13:35:47.125Z",
-    "active": false,
+    "addedAt": "2026-10-04T22:39:26.614Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
