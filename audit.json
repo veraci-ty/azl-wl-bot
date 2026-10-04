@@ -48008,5 +48008,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2375049502:emote:kenkeshisingles": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-04T23:23:59.092Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
