@@ -42389,18 +42389,15 @@
   },
   "4348260626:command:heat": {
     "addedBy": {
-      "discordId": "635504036321165322",
-      "username": "v_agos"
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
     },
-    "addedAt": "2026-09-23T21:06:42.926Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-23T22:11:05.427Z",
-    "active": false,
+    "addedAt": "2026-10-04T09:16:51.474Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-23T22:06:42.477Z"
+    "expiresAt": null
   },
   "2608219493:mvp:gameon": {
     "addedBy": {
