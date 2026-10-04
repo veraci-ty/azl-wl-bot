@@ -23720,13 +23720,10 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-09-02T21:40:38.564Z",
-    "removedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "removedAt": "2026-09-07T20:14:16.929Z",
-    "active": false,
+    "addedAt": "2026-10-04T18:24:52.547Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
