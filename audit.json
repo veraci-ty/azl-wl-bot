@@ -39641,16 +39641,13 @@
   },
   "1481884758:mvp:gameover": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-21T19:29:32.490Z",
-    "removedBy": {
-      "discordId": "691222236375547955",
-      "username": "viciousry"
-    },
-    "removedAt": "2026-09-28T13:22:43.613Z",
-    "active": false,
+    "addedAt": "2026-10-04T22:40:21.489Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
