@@ -47963,5 +47963,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-05T22:26:00.755Z"
+  },
+  "1431630479:style:cid": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-04T22:50:10.197Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
