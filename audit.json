@@ -19784,15 +19784,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-16T20:29:18.657Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-30T20:34:13.633Z",
-    "active": false,
+    "addedAt": "2026-10-04T22:01:24.527Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-30T20:29:18.198Z"
+    "expiresAt": null
   },
   "3449899839:mvp:testerMVP": {
     "addedBy": {
