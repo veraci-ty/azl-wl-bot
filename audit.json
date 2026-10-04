@@ -47213,5 +47213,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "318074376:emote:GiveMeEverything": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-10-04T13:05:13.989Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
