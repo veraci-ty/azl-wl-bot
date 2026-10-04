@@ -46994,5 +46994,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "910289066:command:cc": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-04T00:16:13.744Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
