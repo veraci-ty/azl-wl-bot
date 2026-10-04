@@ -47348,5 +47348,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260526009:style:roland": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-04T16:18:28.805Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
