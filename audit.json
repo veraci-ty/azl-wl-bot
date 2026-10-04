@@ -47165,5 +47165,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-03T09:55:32.022Z"
+  },
+  "4310133717:mvp:kanekimvp": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-10-04T10:34:30.587Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
