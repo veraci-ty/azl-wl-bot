@@ -47390,5 +47390,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "260526009:mvp:ironMouseTuffMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-04T16:23:40.376Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
