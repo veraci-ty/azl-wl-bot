@@ -47996,5 +47996,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "301416925:mvp:kafkamvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-04T23:21:19.658Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
