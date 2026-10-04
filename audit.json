@@ -10805,15 +10805,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-20T08:53:37.484Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-04T08:53:51.406Z",
-    "active": false,
+    "addedAt": "2026-10-04T14:42:29.882Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-04T08:53:36.789Z"
+    "expiresAt": "2026-10-18T14:42:29.032Z"
   },
   "325765268:style:ronaldo": {
     "addedBy": {
