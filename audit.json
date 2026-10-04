@@ -47300,5 +47300,17 @@
     "active": false,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "260526009:style:cid": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-04T16:14:50.787Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
