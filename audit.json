@@ -47030,5 +47030,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1147190599:style:roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-10-04T01:09:22.724Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
