@@ -47936,5 +47936,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4358080146:mvp:jimmysmvp1": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-10-04T22:04:09.486Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
