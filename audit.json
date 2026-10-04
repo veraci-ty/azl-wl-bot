@@ -45618,9 +45618,12 @@
       "username": "diisciples"
     },
     "addedAt": "2026-09-30T18:13:36.436Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "removedAt": "2026-10-04T06:44:24.317Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
