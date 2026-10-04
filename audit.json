@@ -47285,5 +47285,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1911944568:mvp:redspace": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-04T16:02:56.327Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
