@@ -41888,15 +41888,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-23T13:29:24.657Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-29T03:44:33.198Z",
-    "active": false,
+    "addedAt": "2026-10-04T16:51:43.571Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-23T13:29:24.105Z"
+    "expiresAt": "2026-11-03T16:51:42.262Z"
   },
   "194696838:style:dawnwalker": {
     "addedBy": {
