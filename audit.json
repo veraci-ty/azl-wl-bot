@@ -33545,15 +33545,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T22:37:17.591Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-12T19:54:25.463Z",
-    "active": false,
+    "addedAt": "2026-10-04T01:25:49.237Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-15T22:37:17.177Z"
+    "expiresAt": "2026-11-03T01:25:48.629Z"
   },
   "318074376:command:rinnoplay": {
     "addedBy": {
