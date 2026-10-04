@@ -47108,5 +47108,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9823387274:mvp:redspace": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-04T05:39:14.922Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
