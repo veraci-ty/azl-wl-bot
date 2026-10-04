@@ -47261,5 +47261,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1684305522:style:ronaldo": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-10-04T15:37:53.743Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
