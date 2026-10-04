@@ -14468,13 +14468,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-08-05T15:05:14.299Z",
-    "removedBy": {
-      "discordId": "1127997764362579979",
-      "username": "freddy_yeah"
-    },
-    "removedAt": "2026-09-21T03:58:15.447Z",
-    "active": false,
+    "addedAt": "2026-10-04T16:22:12.864Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
