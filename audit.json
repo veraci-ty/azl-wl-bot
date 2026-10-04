@@ -47088,9 +47088,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-04T04:56:08.471Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-10-04T04:56:34.226Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   }
