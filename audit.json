@@ -47006,5 +47006,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1302997866:command:cc": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-10-04T00:35:30.696Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
