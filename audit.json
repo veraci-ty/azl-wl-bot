@@ -47927,5 +47927,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2912663972:emote:redreaming": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-10-04T21:47:40.713Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
