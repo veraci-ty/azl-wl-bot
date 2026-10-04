@@ -24764,16 +24764,13 @@
   },
   "281828496:emote:GiveMeEverything": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-08-30T13:36:05.516Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-09-07T03:29:25.700Z",
-    "active": false,
+    "addedAt": "2026-10-04T16:49:59.834Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
