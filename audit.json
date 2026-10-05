@@ -24512,18 +24512,15 @@
   },
   "260222750:mvp:kanekimvp": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "526367718824476692",
+      "username": "toast.s"
     },
-    "addedAt": "2026-08-30T06:40:58.989Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-24T14:14:12.264Z",
-    "active": false,
+    "addedAt": "2026-10-05T12:50:23.562Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-09-24T06:40:58.638Z"
+    "expiresAt": null
   },
   "260222750:emote:GiveMeEverything": {
     "addedBy": {
