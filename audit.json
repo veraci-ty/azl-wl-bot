@@ -48335,5 +48335,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "575826973:command:kaiserawk": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T17:38:04.228Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
