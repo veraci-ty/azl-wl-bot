@@ -48239,5 +48239,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-10T12:36:00.318Z"
+  },
+  "1730800603:ost:sae": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-10-05T13:19:50.548Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
