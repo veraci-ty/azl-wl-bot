@@ -48206,5 +48206,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1911944568:mvp:heianvsgang": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T07:28:29.263Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
