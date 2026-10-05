@@ -30509,15 +30509,12 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-09-13T18:13:18.272Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-09-20T07:06:31.956Z",
-    "active": false,
+    "addedAt": "2026-10-05T20:27:41.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": null
+    "expiresAt": "2026-10-12T20:27:40.331Z"
   },
   "2327164670:command:ball": {
     "addedBy": {
@@ -48386,5 +48383,41 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1973952768:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-10-05T20:27:41.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-12T20:27:40.331Z"
+  },
+  "1411204990:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-10-05T20:27:41.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-12T20:27:40.331Z"
+  },
+  "671309439:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-10-05T20:27:41.357Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-12T20:27:40.331Z"
   }
 }
