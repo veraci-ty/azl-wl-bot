@@ -48197,5 +48197,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-08T06:25:33.522Z"
+  },
+  "1911944568:emote:redreaming": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T06:34:57.425Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
