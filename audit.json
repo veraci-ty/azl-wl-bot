@@ -48260,5 +48260,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-04T13:21:47.205Z"
+  },
+  "3957742318:emote:brightestheart": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T16:33:32.395Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
