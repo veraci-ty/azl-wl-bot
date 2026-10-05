@@ -48230,5 +48230,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "260222750:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T12:36:01.159Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-10T12:36:00.318Z"
   }
 }
