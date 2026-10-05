@@ -48554,5 +48554,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "387041454:style:akashi": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-10-05T23:13:01.720Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
