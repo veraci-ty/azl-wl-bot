@@ -48050,5 +48050,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-05T01:28:29.706Z"
+  },
+  "2327164670:emote:kenkeshisingles": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-05T01:22:09.576Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
