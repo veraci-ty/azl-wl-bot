@@ -48308,5 +48308,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-07T17:03:12.715Z"
+  },
+  "432828236:command:control": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-05T17:07:57.369Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
