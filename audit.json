@@ -48920,5 +48920,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-09T18:44:28.622Z"
+  },
+  "575826973:emote:LeagueTrophy": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-06T19:32:31.346Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
