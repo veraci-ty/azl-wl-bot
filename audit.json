@@ -3366,9 +3366,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-06-20T16:44:20.292Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "removedAt": "2026-10-06T18:18:59.187Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
