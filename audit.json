@@ -46152,9 +46152,12 @@
       "username": "yuriestera"
     },
     "addedAt": "2026-10-01T16:09:41.189Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "removedAt": "2026-10-06T21:13:13.364Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
