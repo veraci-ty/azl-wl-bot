@@ -6794,15 +6794,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-08-16T03:04:09.980Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-23T03:08:11.930Z",
-    "active": false,
+    "addedAt": "2026-10-06T22:33:02.021Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-23T03:04:09.588Z"
+    "expiresAt": null
   },
   "1555003238:mvp:kanekimvp": {
     "addedBy": {
