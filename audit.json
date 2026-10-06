@@ -46719,9 +46719,12 @@
       "username": "fyvalith"
     },
     "addedAt": "2026-10-03T19:58:48.456Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-06T19:58:51.548Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-06T19:58:47.861Z"
   },
