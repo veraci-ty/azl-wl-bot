@@ -48818,5 +48818,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-07T17:05:45.813Z"
+  },
+  "1508180357:emote:elpadia": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-06T17:12:34.431Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
