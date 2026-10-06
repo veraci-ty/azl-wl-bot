@@ -48605,5 +48605,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2693061269:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-06T03:38:04.755Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
