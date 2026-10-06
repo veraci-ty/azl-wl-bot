@@ -48644,15 +48644,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-06T04:23:54.087Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-06T04:24:40.774Z",
-    "active": false,
+    "addedAt": "2026-10-06T04:24:44.627Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": null
+    "expiresAt": "2026-11-05T04:24:43.824Z"
   },
   "7163416967:command:rinnoplay": {
     "addedBy": {
