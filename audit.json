@@ -48983,5 +48983,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1053362121:mvp:loreaccuratekaiser": {
+    "addedBy": {
+      "discordId": "730160474272038952",
+      "username": "izuko_roblox"
+    },
+    "addedAt": "2026-10-06T19:58:32.979Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
