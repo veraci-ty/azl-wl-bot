@@ -49262,5 +49262,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "5639442027:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-07T14:40:16.903Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
