@@ -49163,5 +49163,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1163981623:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-07T04:08:19.281Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
