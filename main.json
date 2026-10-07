@@ -3034,6 +3034,25 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1892769897": {
+      "tagText": "Inkling",
+      "tagColor": [
+        [
+          0,
+          108,
+          255,
+          18
+        ],
+        [
+          1,
+          108,
+          255,
+          18
+        ]
+      ],
+      "specialer": false,
+      "nameaddition": true
+    },
     "1911944568": {
       "tagText": "The Black Silence",
       "tagColor": [
