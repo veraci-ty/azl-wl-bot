@@ -49376,5 +49376,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4264776952:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-07T22:06:00.880Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
