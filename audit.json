@@ -49250,5 +49250,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "8651277689:command:breakdance": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-07T12:56:48.515Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
