@@ -49535,5 +49535,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "458595807:mvp:loreaccuratekaiser": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-08T11:34:54.266Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
