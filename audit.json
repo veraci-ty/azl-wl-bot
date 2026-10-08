@@ -49634,15 +49634,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-08T16:30:32.930Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-08T17:00:28.507Z",
-    "active": false,
+    "addedAt": "2026-10-08T17:00:35.354Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-08T17:00:32.151Z"
+    "expiresAt": null
   },
   "186326357:emote:redreaming": {
     "addedBy": {
