@@ -49703,5 +49703,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "366074287:style:zantetsu": {
+    "addedBy": {
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
+    },
+    "addedAt": "2026-10-08T20:05:43.467Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
