@@ -49715,5 +49715,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4264776952:commentator:metavision": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-08T20:35:00.788Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "commentator",
+    "expiresAt": null
   }
 }
