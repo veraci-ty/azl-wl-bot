@@ -3635,6 +3635,25 @@
         ]
       ],
       "specialer": true
+    },
+    "11215971050": {
+      "tagText": "Guardian of the Master Emerald",
+      "tagColor": [
+        [
+          0,
+          121,
+          0,
+          0
+        ],
+        [
+          1,
+          211,
+          0,
+          0
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   },
   "commentators": {
