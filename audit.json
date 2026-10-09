@@ -26160,9 +26160,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-08-31T01:49:36.368Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-09T03:09:53.407Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
