@@ -3637,7 +3637,7 @@
       "specialer": true
     },
     "11215971050": {
-      "tagText": "Guardian of the Master Emerald",
+      "tagText": "Guardian of the Master Emerald,",
       "tagColor": [
         [
           0,
@@ -3652,8 +3652,7 @@
           0
         ]
       ],
-      "specialer": true,
-      "nameaddition": true
+      "specialer": true
     }
   },
   "commentators": {
