@@ -50366,5 +50366,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "8924062018:command:mobian": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-10-09T21:04:17.062Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
