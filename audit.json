@@ -49835,5 +49835,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-08T01:01:58.453Z"
+  },
+  "252921838:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-09T01:02:47.827Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-11-08T01:02:46.969Z"
   }
 }
