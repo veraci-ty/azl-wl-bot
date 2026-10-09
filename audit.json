@@ -50210,5 +50210,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "520623444:style:zantetsu": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-09T16:37:43.530Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-23T16:37:42.725Z"
   }
 }
