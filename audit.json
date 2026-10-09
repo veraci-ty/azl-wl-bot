@@ -34760,15 +34760,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-18T01:03:39.349Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-29T03:45:15.575Z",
-    "active": false,
+    "addedAt": "2026-10-09T21:06:50.560Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-18T01:03:38.850Z"
+    "expiresAt": "2026-11-08T21:06:49.773Z"
   },
   "65373821:command:rinnoplay": {
     "addedBy": {
