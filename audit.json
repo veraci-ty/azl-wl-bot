@@ -50000,5 +50000,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3580594488:emote:kenkeshisingles": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-09T04:25:27.370Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
