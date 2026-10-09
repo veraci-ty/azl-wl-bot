@@ -46290,9 +46290,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-05T13:20:26.086Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-09T10:25:41.590Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
