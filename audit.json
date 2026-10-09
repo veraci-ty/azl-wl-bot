@@ -50261,5 +50261,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-08T18:26:25.371Z"
+  },
+  "516950297:command:overtimetest": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-09T18:26:39.163Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-08T18:26:38.322Z"
   }
 }
