@@ -50399,5 +50399,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "134046548:emote:RetryNow": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-09T21:51:02.551Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
