@@ -3087,6 +3087,30 @@
       ],
       "specialer": false
     },
+    "1911944568": {
+      "tagText": "Prince of the Stage",
+      "tagColor": [
+        [
+          0,
+          250,
+          240,
+          190
+        ],
+        [
+          0.5,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          211,
+          211,
+          211
+        ]
+      ],
+      "specialer": true
+    },
     "1931203237": {
       "tagText": "The Lord Of Mysteries,",
       "tagColor": [
