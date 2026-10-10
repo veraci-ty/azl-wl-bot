@@ -46902,9 +46902,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-03T23:33:56.890Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-10-10T01:36:44.083Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
