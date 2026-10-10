@@ -12567,18 +12567,15 @@
   },
   "520623444:style:KJ": {
     "addedBy": {
-      "discordId": "449426755179249685",
-      "username": "pt.n"
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-09-30T13:38:23.489Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-09T06:41:44.966Z",
-    "active": false,
+    "addedAt": "2026-10-10T21:11:07.409Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-14T13:38:22.804Z"
+    "expiresAt": null
   },
   "2512840941:style:ronaldo": {
     "addedBy": {
