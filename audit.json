@@ -50694,5 +50694,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "225469691:command:heat": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-10T13:47:34.507Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
