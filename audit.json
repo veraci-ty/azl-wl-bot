@@ -33596,15 +33596,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-09T06:16:02.580Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-11T01:25:33.667Z",
-    "active": false,
+    "addedAt": "2026-10-10T03:28:59.784Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-16T06:16:02.104Z"
+    "expiresAt": "2026-11-09T03:28:59.037Z"
   },
   "1508435055:emote:sparxie": {
     "addedBy": {
