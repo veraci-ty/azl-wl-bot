@@ -3087,6 +3087,30 @@
       ],
       "specialer": false
     },
+    "1911944568": {
+      "tagText": "Prince of the StagE",
+      "tagColor": [
+        [
+          0,
+          250,
+          240,
+          190
+        ],
+        [
+          0.5,
+          211,
+          211,
+          211
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "1931203237": {
       "tagText": "The Lord Of Mysteries,",
       "tagColor": [
