@@ -50736,5 +50736,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "260526009:command:control": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-10T15:16:53.689Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
