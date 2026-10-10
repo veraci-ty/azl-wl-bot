@@ -10059,15 +10059,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-10T12:17:46.789Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-10T12:21:32.428Z",
-    "active": false,
+    "addedAt": "2026-10-10T21:31:04.365Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-10T12:17:46.327Z"
+    "expiresAt": "2026-11-09T21:31:03.571Z"
   },
   "1761253545:command:cc": {
     "addedBy": {
