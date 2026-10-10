@@ -50550,9 +50550,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-10T02:23:08.579Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-10T02:31:32.527Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-10-10T02:28:07.768Z"
   }
