@@ -4278,18 +4278,15 @@
   },
   "225469691:command:rinnoplay": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-06-25T00:14:48.387Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-07-02T00:16:34.845Z",
-    "active": false,
+    "addedAt": "2026-10-10T13:47:43.196Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-07-02T00:14:48.091Z"
+    "expiresAt": null
   },
   "301416925:style:Goku": {
     "addedBy": {
