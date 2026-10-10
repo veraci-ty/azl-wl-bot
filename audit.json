@@ -50606,5 +50606,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-09T03:28:34.393Z"
+  },
+  "607410168:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-10T03:29:50.219Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-11-09T03:29:49.368Z"
   }
 }
