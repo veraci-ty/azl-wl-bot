@@ -50754,5 +50754,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2331670473:mvp:loreaccuratekaiser": {
+    "addedBy": {
+      "discordId": "730160474272038952",
+      "username": "izuko_roblox"
+    },
+    "addedAt": "2026-10-10T17:59:41.301Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2026-11-09T17:59:40.168Z"
   }
 }
