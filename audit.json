@@ -50724,5 +50724,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "460319855:emote:sparxie": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-10T14:24:19.604Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
