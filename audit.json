@@ -50826,5 +50826,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-09T21:28:56.388Z"
+  },
+  "264199171:style:ronaldo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-10T21:30:24.014Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-11-09T21:30:23.075Z"
   }
 }
