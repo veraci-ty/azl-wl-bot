@@ -35032,9 +35032,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:24:48.360Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -35044,9 +35047,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:24:48.360Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -35056,9 +35062,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:25:29.051Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -35068,9 +35077,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:25:29.051Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -35080,9 +35092,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:25:29.051Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -35122,9 +35137,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-09-10T07:25:29.051Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582209916215885825",
+      "username": "zaneisprettycool"
+    },
+    "removedAt": "2026-10-10T23:07:05.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
