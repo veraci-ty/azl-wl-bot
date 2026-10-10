@@ -50558,5 +50558,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": "2026-10-10T02:28:07.768Z"
+  },
+  "152131626:style:dio": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-10T02:34:03.176Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
