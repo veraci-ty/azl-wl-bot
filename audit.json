@@ -50582,5 +50582,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1147190599:command:f": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-10T02:39:30.626Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-13T02:39:29.918Z"
   }
 }
