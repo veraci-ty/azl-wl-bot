@@ -50672,5 +50672,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-09T11:48:29.979Z"
+  },
+  "225469691:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-10T13:46:41.937Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
