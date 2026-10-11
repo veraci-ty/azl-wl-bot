@@ -51168,5 +51168,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "499583934:emote:brightestheart": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-11T17:59:48.018Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
