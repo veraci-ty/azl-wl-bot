@@ -51393,5 +51393,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "375336392:emote:eyesclosed": {
+    "addedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "addedAt": "2026-10-11T21:43:34.782Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
