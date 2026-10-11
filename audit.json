@@ -51444,5 +51444,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "301510950:command:isagi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-11T22:39:35.749Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
