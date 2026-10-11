@@ -51028,9 +51028,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-10-11T05:29:41.575Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-11T05:42:48.710Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   }
