@@ -51261,5 +51261,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "499583934:mvp:LyxBestRapper": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-11T18:36:35.276Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
