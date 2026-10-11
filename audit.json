@@ -51307,9 +51307,12 @@
       "username": "zaneisprettycool"
     },
     "addedAt": "2026-10-11T19:29:55.751Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-11T19:46:32.902Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-11T19:44:55.049Z"
   },
