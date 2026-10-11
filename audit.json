@@ -51288,5 +51288,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "487372574:style:roland": {
+    "addedBy": {
+      "discordId": "471410854613745665",
+      "username": "niaplix"
+    },
+    "addedAt": "2026-10-11T19:20:18.059Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
