@@ -51105,5 +51105,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-10T09:18:22.456Z"
+  },
+  "4310133717:style:akashi": {
+    "addedBy": {
+      "discordId": "683473283982557185",
+      "username": "fyvalith"
+    },
+    "addedAt": "2026-10-11T14:25:46.721Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-14T14:25:45.201Z"
   }
 }
