@@ -51180,5 +51180,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "499583934:emote:sorry": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-11T18:00:10.755Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
