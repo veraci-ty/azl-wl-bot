@@ -50310,13 +50310,10 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-10-09T20:48:45.036Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-10-11T01:28:07.966Z",
-    "active": false,
+    "addedAt": "2026-10-11T01:29:28.967Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
