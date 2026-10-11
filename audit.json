@@ -51216,5 +51216,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "8588215558:emote:Rampage": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-11T18:10:45.260Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": "2026-10-12T18:10:44.189Z"
   }
 }
