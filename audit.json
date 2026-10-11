@@ -51117,5 +51117,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-14T14:25:45.201Z"
+  },
+  "3518094515:emote:Rampage": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-11T15:14:08.926Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
