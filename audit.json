@@ -51690,5 +51690,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "754727096:command:randomizer": {
+    "addedBy": {
+      "discordId": "298110946490974209",
+      "username": "_ghouwl"
+    },
+    "addedAt": "2026-10-12T18:02:02.875Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
