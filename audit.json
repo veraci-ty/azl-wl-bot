@@ -13665,15 +13665,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-03T21:34:08.347Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-28T21:34:12.845Z",
-    "active": false,
+    "addedAt": "2026-10-12T19:40:18.307Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-28T21:34:07.888Z"
+    "expiresAt": "2026-11-11T19:40:17.361Z"
   },
   "1403331802:command:f": {
     "addedBy": {
