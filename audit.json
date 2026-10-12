@@ -51750,5 +51750,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "7709272512:mvp:ogurinmvp": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-12T21:01:38.771Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
