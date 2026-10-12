@@ -51582,5 +51582,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "80615256:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "530595571103170591",
+      "username": ".turning."
+    },
+    "addedAt": "2026-10-12T03:48:50.229Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
