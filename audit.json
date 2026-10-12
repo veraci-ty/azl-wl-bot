@@ -26655,15 +26655,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-21T06:03:53.718Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-12T06:06:40.400Z",
-    "active": false,
+    "addedAt": "2026-10-12T18:56:16.378Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-12T06:03:53.286Z"
+    "expiresAt": null
   },
   "366074287:command:overtimetest": {
     "addedBy": {
