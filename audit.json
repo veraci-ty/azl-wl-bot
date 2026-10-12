@@ -44526,15 +44526,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-29T04:05:56.022Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-10T11:42:43.177Z",
-    "active": false,
+    "addedAt": "2026-10-12T06:45:25.716Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-29T04:05:55.360Z"
+    "expiresAt": "2026-11-11T06:45:24.068Z"
   },
   "3006830621:style:messi": {
     "addedBy": {
