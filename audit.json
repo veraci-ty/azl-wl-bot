@@ -51510,5 +51510,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-11T00:34:14.751Z"
+  },
+  "152131626:command:heat": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-12T01:53:35.095Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
