@@ -52191,5 +52191,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2912663972:mvp:fatchudbnuuy": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-13T17:43:40.274Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
