@@ -51825,5 +51825,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "545724205:style:aizen": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-13T03:45:53.406Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
