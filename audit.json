@@ -52087,9 +52087,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-10-13T17:40:40.924Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "removedAt": "2026-10-13T17:42:27.111Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
