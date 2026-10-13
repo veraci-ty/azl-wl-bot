@@ -48369,15 +48369,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-05T13:21:47.982Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-09T01:01:11.198Z",
-    "active": false,
+    "addedAt": "2026-10-13T01:29:23.176Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-11-04T13:21:47.205Z"
+    "expiresAt": "2026-11-12T01:29:22.348Z"
   },
   "3957742318:emote:brightestheart": {
     "addedBy": {
