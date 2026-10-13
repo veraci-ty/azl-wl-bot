@@ -10464,15 +10464,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-28T18:17:32.873Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-12T18:21:33.862Z",
-    "active": false,
+    "addedAt": "2026-10-13T13:34:07.639Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-12T18:17:31.729Z"
+    "expiresAt": "2026-11-12T13:34:06.859Z"
   },
   "520623444:command:kuon": {
     "addedBy": {
