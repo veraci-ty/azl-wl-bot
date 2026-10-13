@@ -52317,5 +52317,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "432828236:style:akashi": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-13T22:00:37.148Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
