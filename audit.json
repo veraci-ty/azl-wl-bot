@@ -41917,7 +41917,7 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-10-13T18:44:01.627Z",
-     "removedBy": {
+    "removedBy": {
       "discordId": "system",
       "username": "system"
     },
@@ -49465,9 +49465,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-07T05:54:11.159Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-13T21:23:09.873Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-11-06T05:54:10.418Z"
   },
