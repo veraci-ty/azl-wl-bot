@@ -52206,5 +52206,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1053362121:command:heat": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-13T17:57:08.598Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
