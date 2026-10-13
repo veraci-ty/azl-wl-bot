@@ -2132,7 +2132,7 @@
       "specialer": true
     },
     "150511385": {
-      "tagText": "Sin of Vanity",
+      "tagText": ", Authority of Vanity",
       "tagColor": [
         [
           0,
@@ -2153,7 +2153,8 @@
           255
         ]
       ],
-      "specialer": true
+      "specialer": true,
+      "nameaddition": true
     },
     "166569387": {
       "tagText": ", The K",
