@@ -12912,15 +12912,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-07-31T20:17:41.725Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-03T20:20:43.099Z",
-    "active": false,
+    "addedAt": "2026-10-13T00:08:48.220Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-08-03T20:17:41.384Z"
+    "expiresAt": "2026-10-13T03:08:47.348Z"
   },
   "390761642:ost:sae": {
     "addedBy": {
