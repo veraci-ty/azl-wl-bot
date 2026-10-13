@@ -52239,5 +52239,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-12T19:05:55.199Z"
+  },
+  "520623444:command:rebel": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-13T20:15:29.417Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-18T20:15:27.531Z"
   }
 }
