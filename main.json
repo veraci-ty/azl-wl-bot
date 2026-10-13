@@ -3074,6 +3074,24 @@
       "specialer": true,
       "nameaddition": true
     },
+    "1753588331": {
+      "tagText": "JumpTwiceForMeToStopUsingSpecs",
+      "tagColor": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          1,
+          255,
+          255,
+          255
+        ]
+      ],
+      "specialer": true
+    },
     "1771433330": {
       "tagText": ", Ruler Blade of Scattered Flowers",
       "tagColor": [
