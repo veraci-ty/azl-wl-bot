@@ -52329,5 +52329,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "432828236:style:sonic": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-13T22:01:12.097Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
