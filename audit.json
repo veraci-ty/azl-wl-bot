@@ -52227,5 +52227,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "516950297:command:kuon": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-13T19:05:56.138Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-12T19:05:55.199Z"
   }
 }
