@@ -41921,7 +41921,7 @@
       "discordId": "system",
       "username": "system"
     },
-    "addedAt": "2026-10-13T19:44:01.627Z",
+    "removedAt": "2026-10-13T19:44:01.627Z",
     "active": true,
     "kind": "style",
     "expiresAt": null
