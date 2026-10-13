@@ -51930,5 +51930,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "11291526906:style:cinder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-13T15:26:21.742Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-14T15:26:20.896Z"
   }
 }
