@@ -52167,5 +52167,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "225469691:style:KJ": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-13T17:43:12.284Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
