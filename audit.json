@@ -52263,5 +52263,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-12T20:16:03.762Z"
+  },
+  "1172470680:mvp:backrooms": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-13T20:17:07.653Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
