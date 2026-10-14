@@ -52413,5 +52413,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "977590007:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-14T02:25:27.381Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
