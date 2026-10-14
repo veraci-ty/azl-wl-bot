@@ -10927,9 +10927,12 @@
       "username": "illusionated"
     },
     "addedAt": "2026-07-26T00:54:41.857Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -11842,9 +11845,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-09-02T16:02:09.189Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -25507,9 +25513,12 @@
       "username": "shotokku."
     },
     "addedAt": "2026-09-26T23:51:15.561Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -28213,9 +28222,12 @@
       "username": "cementalclwn"
     },
     "addedAt": "2026-09-01T14:35:08.618Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -39436,9 +39448,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-09-18T22:55:24.010Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
@@ -46804,9 +46819,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-10-03T10:45:27.888Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
@@ -49450,9 +49468,12 @@
       "username": "izuko_roblox"
     },
     "addedAt": "2026-10-07T05:25:02.399Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-14T09:06:05.283Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
