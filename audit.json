@@ -52425,5 +52425,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "3886437498:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "addedAt": "2026-10-14T03:18:27.009Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
