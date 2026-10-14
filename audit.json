@@ -52575,5 +52575,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-08T16:23:25.304Z"
+  },
+  "520623444:command:ignoreflowcooldown": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-14T16:30:07.430Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-13T16:30:06.577Z"
   }
 }
