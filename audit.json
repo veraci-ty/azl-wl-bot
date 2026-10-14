@@ -40009,9 +40009,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-09-24T20:59:28.989Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "removedAt": "2026-10-14T17:14:36.381Z",
+    "active": false,
     "kind": "ost",
     "expiresAt": null
   },
