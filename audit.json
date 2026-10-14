@@ -46767,15 +46767,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-02T23:09:31.517Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-09T01:01:48.221Z",
-    "active": false,
+    "addedAt": "2026-10-14T15:10:15.651Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-11-01T23:09:30.817Z"
+    "expiresAt": "2026-11-13T15:10:14.636Z"
   },
   "957886240:emote:SuperWalk": {
     "addedBy": {
