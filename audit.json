@@ -52563,5 +52563,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-13T15:11:42.073Z"
+  },
+  "520623444:command:legalhbe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-14T16:23:26.170Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-08T16:23:25.304Z"
   }
 }
