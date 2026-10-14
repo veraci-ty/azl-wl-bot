@@ -50787,15 +50787,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-10T02:39:30.626Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-13T02:41:33.270Z",
-    "active": false,
+    "addedAt": "2026-10-14T07:22:10.949Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-13T02:39:29.918Z"
+    "expiresAt": null
   },
   "2622010199:command:f": {
     "addedBy": {
