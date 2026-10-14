@@ -52602,5 +52602,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-13T16:30:14.790Z"
+  },
+  "2239290341:ost:kiyora": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-14T17:14:58.380Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
