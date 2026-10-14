@@ -41919,12 +41919,9 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-13T18:44:01.627Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-13T19:44:01.627Z",
+    "addedAt": "2026-10-14T01:10:52.387Z",
+    "removedBy": null,
+    "removedAt": null,
     "active": true,
     "kind": "style",
     "expiresAt": null
