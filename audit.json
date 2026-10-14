@@ -3924,15 +3924,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-13T14:53:49.977Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-13T14:56:33.616Z",
-    "active": false,
+    "addedAt": "2026-10-14T15:09:31.638Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-13T14:53:49.539Z"
+    "expiresAt": null
   },
   "148947251:style:ronaldo": {
     "addedBy": {
