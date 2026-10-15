@@ -52132,15 +52132,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-13T15:27:39.423Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-14T15:31:33.679Z",
-    "active": false,
+    "addedAt": "2026-10-15T18:26:41.145Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-14T15:27:37.668Z"
+    "expiresAt": "2026-10-22T18:26:40.382Z"
   },
   "926258577:style:roland": {
     "addedBy": {
