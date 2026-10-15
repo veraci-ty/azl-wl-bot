@@ -38866,15 +38866,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-25T12:19:42.182Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-01T16:01:18.721Z",
-    "active": false,
+    "addedAt": "2026-10-15T19:32:12.139Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-25T12:19:41.569Z"
+    "expiresAt": "2026-11-14T19:32:11.291Z"
   },
   "8588215558:style:dawnwalker": {
     "addedBy": {
