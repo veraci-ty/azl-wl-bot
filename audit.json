@@ -52403,9 +52403,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-13T22:00:25.562Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "removedAt": "2026-10-15T18:59:47.341Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
