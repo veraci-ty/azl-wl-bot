@@ -52734,5 +52734,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-16T04:02:46.017Z"
+  },
+  "96478357:style:exe": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-15T04:02:56.626Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
