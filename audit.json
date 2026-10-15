@@ -52746,5 +52746,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-16T04:03:11.662Z"
+  },
+  "152131626:command:kuon": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-15T04:22:05.163Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
