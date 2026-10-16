@@ -48070,16 +48070,13 @@
   },
   "2336850219:emote:Rampage": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-10-04T21:22:17.402Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-07T19:45:51.469Z",
-    "active": false,
+    "addedAt": "2026-10-16T04:22:30.549Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
