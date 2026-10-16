@@ -53002,5 +53002,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "3730120158:command:rebel": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-16T00:36:02.483Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-23T00:36:01.003Z"
   }
 }
