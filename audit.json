@@ -53173,5 +53173,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-17T05:22:28.407Z"
+  },
+  "1911944568:mvp:sorrychichi": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-16T06:55:43.818Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
