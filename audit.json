@@ -27751,13 +27751,10 @@
       "discordId": "582209916215885825",
       "username": "zaneisprettycool"
     },
-    "addedAt": "2026-09-01T03:01:38.522Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-15T13:22:55.046Z",
-    "active": false,
+    "addedAt": "2026-10-16T03:24:32.544Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
