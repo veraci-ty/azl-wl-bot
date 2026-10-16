@@ -53090,9 +53090,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-16T01:08:57.111Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-16T20:19:26.932Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-15T01:08:56.327Z"
   },
