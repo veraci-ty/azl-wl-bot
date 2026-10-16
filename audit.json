@@ -39052,15 +39052,12 @@
       "discordId": "635504036321165322",
       "username": "v_agos"
     },
-    "addedAt": "2026-09-18T00:48:31.350Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-19T00:50:57.210Z",
-    "active": false,
+    "addedAt": "2026-10-16T23:59:31.180Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-19T00:48:30.828Z"
+    "expiresAt": null
   },
   "890202536:style:aizen": {
     "addedBy": {
