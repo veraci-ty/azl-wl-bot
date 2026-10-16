@@ -53095,5 +53095,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1607939690:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-16T02:37:35.828Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
