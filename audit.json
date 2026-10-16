@@ -19717,15 +19717,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T13:09:38.219Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-15T13:11:46.054Z",
-    "active": false,
+    "addedAt": "2026-10-16T02:31:21.375Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-15T13:09:37.751Z"
+    "expiresAt": "2026-11-15T02:31:20.502Z"
   },
   "1555003238:style:dawnwalker": {
     "addedBy": {
