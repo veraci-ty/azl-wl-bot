@@ -10129,15 +10129,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T13:06:56.507Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-15T13:11:38.198Z",
-    "active": false,
+    "addedAt": "2026-10-16T20:22:14.863Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-15T13:06:56.067Z"
+    "expiresAt": "2026-11-15T20:22:13.889Z"
   },
   "1941400999:command:rinnoplay": {
     "addedBy": {
