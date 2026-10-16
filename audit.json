@@ -52472,9 +52472,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-13T23:31:02.514Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-16T01:08:42.322Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-11-12T23:31:01.556Z"
   },
