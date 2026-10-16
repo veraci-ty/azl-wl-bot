@@ -1861,16 +1861,13 @@
   },
   "1163981623:style:KJ": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-09-18T05:13:41.752Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-10-09T06:41:44.966Z",
-    "active": false,
+    "addedAt": "2026-10-16T02:29:00.885Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
