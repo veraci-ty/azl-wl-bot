@@ -53245,5 +53245,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1736082069:mvp:fatchudbnuuy": {
+    "addedBy": {
+      "discordId": "1127997764362579979",
+      "username": "freddy_yeah"
+    },
+    "addedAt": "2026-10-16T12:03:30.448Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
