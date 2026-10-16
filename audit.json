@@ -16081,15 +16081,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-07T16:16:05.187Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-14T16:17:18.750Z",
-    "active": false,
+    "addedAt": "2026-10-16T01:09:32.219Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-14T16:16:04.776Z"
+    "expiresAt": "2026-11-15T01:09:31.490Z"
   },
   "929501840:command:cc": {
     "addedBy": {
