@@ -53014,5 +53014,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-23T00:36:01.003Z"
+  },
+  "102985038:command:heat": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-10-16T00:46:25.833Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
