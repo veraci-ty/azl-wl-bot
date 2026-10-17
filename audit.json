@@ -53707,13 +53707,10 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-17T10:32:17.569Z",
-    "removedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "removedAt": "2026-10-17T10:59:28.132Z",
-    "active": false,
+    "addedAt": "2026-10-17T12:19:41.638Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   }
