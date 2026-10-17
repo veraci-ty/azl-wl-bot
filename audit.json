@@ -53782,5 +53782,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1227713606:style:2011x": {
+    "addedBy": {
+      "discordId": "1066528844972048465",
+      "username": "shotokku."
+    },
+    "addedAt": "2026-10-17T15:38:08.970Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-17T16:38:07.785Z"
   }
 }
