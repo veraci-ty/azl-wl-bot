@@ -50315,9 +50315,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-16T02:09:30.738Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-17T02:11:34.179Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": "2026-10-17T02:09:29.892Z"
   },
