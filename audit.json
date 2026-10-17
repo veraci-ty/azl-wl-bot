@@ -38492,9 +38492,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-15T16:17:34.834Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-10-17T21:16:40.081Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
