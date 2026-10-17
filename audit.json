@@ -53749,5 +53749,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "586870069:command:heat": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-10-17T13:38:11.441Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
