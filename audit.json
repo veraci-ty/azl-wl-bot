@@ -51286,15 +51286,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-10T22:28:40.035Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-11T08:47:16.200Z",
-    "active": false,
+    "addedAt": "2026-10-17T19:32:32.072Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-11-09T22:28:39.228Z"
+    "expiresAt": "2026-11-16T19:32:30.930Z"
   },
   "1168015850:style:cid": {
     "addedBy": {
