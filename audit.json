@@ -53479,5 +53479,17 @@
     "active": false,
     "kind": "style",
     "expiresAt": "2026-10-17T08:20:43.979Z"
+  },
+  "152131626:style:zantetsu": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-17T08:27:19.513Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
