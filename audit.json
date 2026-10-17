@@ -53482,5 +53482,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-16T03:51:02.267Z"
+  },
+  "212012720:style:ronaldo": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-17T06:20:44.790Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-17T08:20:43.979Z"
   }
 }
