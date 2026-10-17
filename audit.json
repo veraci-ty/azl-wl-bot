@@ -44324,9 +44324,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-28T12:06:17.423Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-17T10:21:45.314Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
@@ -45671,9 +45674,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-09-30T14:18:29.919Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-17T10:21:45.314Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
