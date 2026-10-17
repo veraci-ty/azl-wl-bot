@@ -53518,5 +53518,20 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-18T08:36:10.600Z"
+  },
+  "5077795305:mvp:kafkamvp": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-17T09:46:46.951Z",
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-17T09:46:46.951Z",
+    "active": false,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
