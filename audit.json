@@ -5212,16 +5212,13 @@
   },
   "1974243283:style:dustsbscreation": {
     "addedBy": {
-      "discordId": "758960019114033173",
-      "username": "dustied"
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
     },
-    "addedAt": "2026-07-01T13:42:52.867Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-09-23T18:33:34.263Z",
-    "active": false,
+    "addedAt": "2026-10-17T14:52:43.808Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
