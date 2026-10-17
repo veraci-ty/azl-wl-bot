@@ -21770,9 +21770,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-10T22:04:37.806Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-17T22:07:23.385Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-10-17T22:04:37.371Z"
   },
