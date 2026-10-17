@@ -50231,9 +50231,12 @@
       "username": "__jimmy_."
     },
     "addedAt": "2026-10-09T03:11:23.596Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-17T03:31:26.742Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
