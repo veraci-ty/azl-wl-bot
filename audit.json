@@ -53240,9 +53240,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-16T05:22:29.255Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-17T05:26:37.763Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-17T05:22:28.407Z"
   },
