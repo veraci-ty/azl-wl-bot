@@ -53773,5 +53773,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1115343036:emote:rampage": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-17T14:10:51.717Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
