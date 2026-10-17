@@ -44575,16 +44575,13 @@
   },
   "2327164670:emote:Rampage": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-09-29T01:29:58.101Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-17T10:04:00.352Z",
-    "active": false,
+    "addedAt": "2026-10-17T10:05:18.013Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
