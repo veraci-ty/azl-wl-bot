@@ -53209,15 +53209,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-16T05:22:22.229Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-17T05:26:34.187Z",
-    "active": false,
+    "addedAt": "2026-10-17T07:26:02.094Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-17T05:22:21.416Z"
+    "expiresAt": "2026-10-20T07:26:01.207Z"
   },
   "96478357:style:KJ": {
     "addedBy": {
