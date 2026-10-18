@@ -54124,5 +54124,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9823387274:emote:lamine": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-18T11:00:43.037Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
