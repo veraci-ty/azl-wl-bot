@@ -33697,15 +33697,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-08T22:49:18.708Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-15T22:51:34.241Z",
-    "active": false,
+    "addedAt": "2026-10-18T01:22:02.249Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-15T22:49:18.226Z"
+    "expiresAt": "2026-11-17T01:22:01.356Z"
   },
   "1147190599:command:saeawk": {
     "addedBy": {
