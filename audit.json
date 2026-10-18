@@ -51070,13 +51070,10 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-10T13:47:09.051Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-10-11T11:12:02.607Z",
-    "active": false,
+    "addedAt": "2026-10-18T18:58:47.851Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
