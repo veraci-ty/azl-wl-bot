@@ -55180,5 +55180,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2675459431:emote:fridaynight": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-18T21:18:09.670Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
