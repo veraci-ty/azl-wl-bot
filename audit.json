@@ -55240,5 +55240,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "260222750:emote:konosuba": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-18T21:20:36.173Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
