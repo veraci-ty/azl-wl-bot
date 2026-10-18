@@ -22501,16 +22501,13 @@
   },
   "260222750:mvp:gubbysword": {
     "addedBy": {
-      "discordId": "526367718824476692",
-      "username": "toast.s"
-    },
-    "addedAt": "2026-08-26T10:38:08.842Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-10-18T04:06:37.753Z",
-    "active": false,
+    "addedAt": "2026-10-18T11:27:45.949Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
