@@ -18178,15 +18178,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-21T06:11:44.286Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-12T06:16:32.931Z",
-    "active": false,
+    "addedAt": "2026-10-18T08:59:08.343Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-12T06:11:43.877Z"
+    "expiresAt": null
   },
   "301510950:command:kuon": {
     "addedBy": {
