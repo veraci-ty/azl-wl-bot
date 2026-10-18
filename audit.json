@@ -50416,16 +50416,13 @@
   },
   "260222750:emote:kenkeshisingles": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-10-09T04:22:50.863Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-18T04:10:43.122Z",
-    "active": false,
+    "addedAt": "2026-10-18T05:57:47.558Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
