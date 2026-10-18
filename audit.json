@@ -35119,16 +35119,13 @@
   },
   "260222750:command:overtimetest": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
     },
-    "addedAt": "2026-09-10T02:45:50.438Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-18T04:10:43.122Z",
-    "active": false,
+    "addedAt": "2026-10-18T05:57:37.208Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
