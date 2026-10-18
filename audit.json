@@ -54028,5 +54028,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9823387274:emote:stagger": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-18T10:59:59.194Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
