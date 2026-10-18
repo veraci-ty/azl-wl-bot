@@ -55558,5 +55558,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "260222750:emote:allieverwanted": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-18T22:56:47.218Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
