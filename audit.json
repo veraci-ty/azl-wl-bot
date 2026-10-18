@@ -53971,5 +53971,20 @@
     "active": false,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5077795305:ost:nelisagi": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-18T07:57:07.014Z",
+    "removedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "removedAt": "2026-10-18T07:57:07.014Z",
+    "active": false,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
