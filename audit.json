@@ -55204,5 +55204,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3730120158:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-18T21:19:02.752Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
