@@ -34600,15 +34600,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-22T11:47:48.470Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-18T04:10:43.122Z",
-    "active": false,
+    "addedAt": "2026-10-18T05:57:30.596Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-22T11:47:47.855Z"
+    "expiresAt": "2026-11-17T05:57:29.872Z"
   },
   "1589013613:style:ronaldo": {
     "addedBy": {
