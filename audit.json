@@ -24635,9 +24635,12 @@
       "username": "toast.s"
     },
     "addedAt": "2026-10-05T12:50:23.562Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-18T04:07:47.679Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
