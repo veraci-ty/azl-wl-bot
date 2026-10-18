@@ -54148,5 +54148,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9823387274:emote:konosuba": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-18T11:00:52.238Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
