@@ -54922,5 +54922,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "8588215558:emote:stagger": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-18T21:09:32.758Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
