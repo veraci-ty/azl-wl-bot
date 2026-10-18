@@ -54016,5 +54016,20 @@
     "active": false,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5077795305:ost:shidou": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-18T07:57:25.020Z",
+    "removedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "removedAt": "2026-10-18T07:57:25.020Z",
+    "active": false,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
