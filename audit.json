@@ -53908,5 +53908,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1759869569:mvp:ulquiorra": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-18T05:19:48.992Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
