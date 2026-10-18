@@ -38227,16 +38227,13 @@
   },
   "2375049502:style:2011x": {
     "addedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-10-09T15:49:04.794Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-18T04:11:57.901Z",
-    "active": false,
+    "addedAt": "2026-10-18T09:42:27.455Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
