@@ -53926,5 +53926,20 @@
     "active": false,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5077795305:ost:kaiser": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-18T07:56:37.091Z",
+    "removedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "removedAt": "2026-10-18T07:56:37.091Z",
+    "active": false,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
