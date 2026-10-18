@@ -55477,5 +55477,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "261832676:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-18T22:03:04.891Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
