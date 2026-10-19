@@ -39523,16 +39523,13 @@
   },
   "3749261239:style:akashi": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
+      "discordId": "417132635085864960",
+      "username": "koi_yo"
     },
-    "addedAt": "2026-09-18T22:55:24.010Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-10-19T03:23:43.365Z",
-    "active": false,
+    "addedAt": "2026-10-19T03:29:22.449Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
