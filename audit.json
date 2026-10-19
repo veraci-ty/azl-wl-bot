@@ -56224,5 +56224,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "264199171:emote:dancindomino": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-19T04:39:58.401Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
