@@ -44740,15 +44740,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-29T03:54:26.395Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-30T18:55:09.100Z",
-    "active": false,
+    "addedAt": "2026-10-19T05:36:37.548Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-29T03:54:25.829Z"
+    "expiresAt": "2026-11-18T05:36:36.694Z"
   },
   "10797490609:command:overtimetest": {
     "addedBy": {
