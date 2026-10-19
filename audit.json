@@ -55909,5 +55909,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10444140562:emote:lamine": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-19T02:36:04.491Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
