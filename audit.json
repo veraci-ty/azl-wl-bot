@@ -56062,5 +56062,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "10444140562:emote:crashout": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-19T03:55:45.187Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
