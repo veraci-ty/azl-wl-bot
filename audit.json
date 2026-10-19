@@ -51337,13 +51337,10 @@
       "discordId": "582585049942065164",
       "username": "diisciples"
     },
-    "addedAt": "2026-10-11T01:06:06.532Z",
-    "removedBy": {
-      "discordId": "582585049942065164",
-      "username": "diisciples"
-    },
-    "removedAt": "2026-10-19T17:14:38.722Z",
-    "active": false,
+    "addedAt": "2026-10-19T18:41:08.093Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
