@@ -32686,16 +32686,13 @@
   },
   "1168015850:style:2011x": {
     "addedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-09-26T23:51:15.561Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-17T03:37:08.477Z",
-    "active": false,
+    "addedAt": "2026-10-19T03:39:18.581Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
