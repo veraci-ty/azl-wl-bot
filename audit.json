@@ -49165,16 +49165,13 @@
   },
   "3749261239:style:roland": {
     "addedBy": {
-      "discordId": "471410854613745665",
-      "username": "niaplix"
+      "discordId": "417132635085864960",
+      "username": "koi_yo"
     },
-    "addedAt": "2026-10-06T05:45:49.381Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-10-19T03:22:55.253Z",
-    "active": false,
+    "addedAt": "2026-10-19T03:29:08.717Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
