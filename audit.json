@@ -56443,5 +56443,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "568225745:emote:cryforme": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-19T20:01:30.999Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
