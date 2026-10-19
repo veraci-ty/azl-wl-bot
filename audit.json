@@ -56305,5 +56305,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": "2026-11-02T06:12:15.622Z"
+  },
+  "469246586:emote:SuperWalk": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-19T06:33:46.731Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
