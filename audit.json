@@ -55562,9 +55562,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-18T22:36:54.433Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-19T02:45:00.431Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-11-17T22:36:53.687Z"
   },
