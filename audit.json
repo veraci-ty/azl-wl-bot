@@ -31516,16 +31516,13 @@
   },
   "1168015850:mvp:starboymvp": {
     "addedBy": {
-      "discordId": "1460695938267091099",
-      "username": "cementalclwn"
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
     },
-    "addedAt": "2026-09-04T07:50:56.187Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-17T03:36:08.117Z",
-    "active": false,
+    "addedAt": "2026-10-19T03:39:29.241Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
