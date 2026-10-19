@@ -3887,6 +3887,31 @@
         ]
       ],
       "specialer": true
+    },
+    "10994979297": {
+      "tagText": ", Mother Snezhnaya",
+      "tagColor": [
+        [
+          0,
+          209,
+          234,
+          247
+        ],
+        [
+          0.5,
+          193,
+          221,
+          243
+        ],
+        [
+          1,
+          218,
+          241,
+          254
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
     }
   },
   "commentators": {
