@@ -56134,5 +56134,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "5639442027:emote:allieverwanted": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-19T04:04:39.843Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
