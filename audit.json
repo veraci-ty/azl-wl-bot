@@ -370,9 +370,12 @@
       "username": ".turning."
     },
     "addedAt": "2026-09-02T16:02:09.189Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-10-19T03:23:28.117Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
