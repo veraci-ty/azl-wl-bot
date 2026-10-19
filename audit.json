@@ -15530,9 +15530,12 @@
       "username": "sorratana4"
     },
     "addedAt": "2026-08-09T21:23:40.421Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-10-19T03:22:39.971Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
