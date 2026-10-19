@@ -56098,5 +56098,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1759869569:emote:splits": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-19T04:03:40.356Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
