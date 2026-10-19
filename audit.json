@@ -56086,5 +56086,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1038030553:mvp:backrooms": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-19T03:58:32.547Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
