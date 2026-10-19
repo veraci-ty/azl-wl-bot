@@ -33631,15 +33631,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-25T12:21:50.981Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-17T03:50:56.603Z",
-    "active": false,
+    "addedAt": "2026-10-19T05:36:07.568Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-25T12:21:50.310Z"
+    "expiresAt": "2026-11-18T05:36:06.692Z"
   },
   "3885485505:style:ronaldo": {
     "addedBy": {
