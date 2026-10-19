@@ -56290,15 +56290,12 @@
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "addedAt": "2026-10-19T06:11:39.551Z",
-    "removedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "removedAt": "2026-10-19T06:12:29.535Z",
-    "active": false,
+    "addedAt": "2026-10-19T06:12:41.459Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
-    "expiresAt": null
+    "expiresAt": "2026-11-02T06:12:40.572Z"
   },
   "2237504710:emote:redreaming": {
     "addedBy": {
