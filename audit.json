@@ -10840,15 +10840,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-04T14:42:29.882Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-18T14:47:24.252Z",
-    "active": false,
+    "addedAt": "2026-10-19T10:46:39.769Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-18T14:42:29.032Z"
+    "expiresAt": "2026-11-02T10:46:38.846Z"
   },
   "325765268:style:ronaldo": {
     "addedBy": {
