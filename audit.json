@@ -5968,16 +5968,13 @@
   },
   "10296674:mvp:kanekimvp": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-07-05T13:16:09.579Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-10-14T17:44:11.490Z",
-    "active": false,
+    "addedAt": "2026-10-20T07:53:58.320Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
