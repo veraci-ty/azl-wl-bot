@@ -21769,15 +21769,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-10T22:04:37.806Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-17T22:07:23.385Z",
-    "active": false,
+    "addedAt": "2026-10-20T01:08:21.006Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-17T22:04:37.371Z"
+    "expiresAt": "2026-11-19T01:08:20.190Z"
   },
   "1911944568:style:dustsbscreation": {
     "addedBy": {
