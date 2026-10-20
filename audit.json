@@ -56602,5 +56602,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2762900290:mvp:loreaccuratekaiser": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-20T03:28:48.262Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
