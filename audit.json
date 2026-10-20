@@ -56710,5 +56710,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "7362032776:emote:mintemote": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-20T06:08:46.309Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
