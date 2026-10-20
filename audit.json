@@ -19532,9 +19532,12 @@
       "username": "niaplix"
     },
     "addedAt": "2026-08-17T15:19:38.833Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-20T06:24:11.100Z",
+    "active": false,
     "kind": "commentator",
     "expiresAt": null
   },
@@ -21764,9 +21767,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-20T01:08:21.006Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-20T06:24:11.100Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-19T01:08:20.190Z"
   },
