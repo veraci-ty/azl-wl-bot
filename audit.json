@@ -56854,5 +56854,17 @@
     "active": true,
     "kind": "ost",
     "expiresAt": null
+  },
+  "5639442027:emote:kitkit": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-20T20:24:37.774Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
