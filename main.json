@@ -3666,6 +3666,25 @@
       ],
       "specialer": true
     },
+    "3743427133": {
+      "tagText": "Femlock'd",
+      "tagColor": [
+        [
+          0,
+          252,
+          3,
+          232
+        ],
+        [
+          1,
+          3,
+          252,
+          94
+        ]
+      ],
+      "specialer": false,
+      "nameaddition": true
+    },
     "3886437498": {
       "tagText": "The Drive Towards Saving Limits",
       "tagColor": [
