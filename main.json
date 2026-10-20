@@ -3934,6 +3934,30 @@
       ],
       "specialer": true,
       "nameaddition": true
+    },
+    "7362032776": {
+      "tagText": "Endless Solo of Solitude",
+      "tagColor": [
+        [
+          0,
+          53,
+          59,
+          167
+        ],
+        [
+          0.5,
+          105,
+          138,
+          232
+        ],
+        [
+          1,
+          248,
+          249,
+          254
+        ]
+      ],
+      "specialer": true
     }
   },
   "commentators": {
