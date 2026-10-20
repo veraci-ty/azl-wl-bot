@@ -39619,15 +39619,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-19T07:42:02.857Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-19T07:45:55.127Z",
-    "active": false,
+    "addedAt": "2026-10-20T01:08:41.142Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-19T07:42:02.201Z"
+    "expiresAt": "2026-11-19T01:08:40.301Z"
   },
   "4910771423:style:messi": {
     "addedBy": {
