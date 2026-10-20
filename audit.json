@@ -56674,5 +56674,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2003869815:style:messi": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-20T04:16:52.025Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-23T04:16:51.272Z"
   }
 }
