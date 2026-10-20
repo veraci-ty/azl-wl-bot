@@ -56482,5 +56482,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "7362032776:command:cc": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-20T02:02:31.149Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
