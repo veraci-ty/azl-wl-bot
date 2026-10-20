@@ -56698,5 +56698,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-23T04:25:41.781Z"
+  },
+  "7362032776:mvp:ogurinmvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-20T05:21:29.042Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
