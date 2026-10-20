@@ -43351,15 +43351,12 @@
       "discordId": "471410854613745665",
       "username": "niaplix"
     },
-    "addedAt": "2026-09-26T21:48:23.750Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-26T21:49:12.435Z",
-    "active": false,
+    "addedAt": "2026-10-20T20:38:26.294Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-09-26T21:48:53.218Z"
+    "expiresAt": null
   },
   "2265468781:command:cc": {
     "addedBy": {
