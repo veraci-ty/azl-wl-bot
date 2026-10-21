@@ -57268,5 +57268,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "4358080146:style:zantetsu": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T08:49:50.874Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
