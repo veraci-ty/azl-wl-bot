@@ -57280,5 +57280,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4358080146:style:milkytillys": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T08:49:56.082Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
