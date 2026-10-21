@@ -57553,5 +57553,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "1481884758:command:ball": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T17:10:18.423Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
