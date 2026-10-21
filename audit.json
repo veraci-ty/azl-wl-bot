@@ -57133,5 +57133,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "469246586:command:heat": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-21T05:17:49.406Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
