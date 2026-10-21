@@ -48358,16 +48358,13 @@
   },
   "2375049502:emote:kenkeshisingles": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-10-18T09:43:15.843Z",
-    "removedBy": {
       "discordId": "1064147628398477312",
       "username": "nightsdev"
     },
-    "removedAt": "2026-10-21T07:32:34.965Z",
-    "active": false,
+    "addedAt": "2026-10-21T07:35:18.604Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
