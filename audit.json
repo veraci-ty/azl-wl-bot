@@ -57304,5 +57304,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "4358080146:style:dawnwalker": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T08:50:07.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
