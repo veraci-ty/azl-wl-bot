@@ -57667,5 +57667,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1955431871:mvp:backrooms": {
+    "addedBy": {
+      "discordId": "1178603232457654332",
+      "username": "topmaybee"
+    },
+    "addedAt": "2026-10-21T23:27:42.869Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
