@@ -57040,5 +57040,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-20T02:51:23.035Z"
+  },
+  "2443583731:command:isawyougoinwild": {
+    "addedBy": {
+      "discordId": "298110946490974209",
+      "username": "_ghouwl"
+    },
+    "addedAt": "2026-10-21T03:46:10.845Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
