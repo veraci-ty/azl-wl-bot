@@ -51916,15 +51916,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-12T03:01:22.728Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-16T20:22:41.244Z",
-    "active": false,
+    "addedAt": "2026-10-21T23:53:21.910Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-11-11T03:01:21.633Z"
+    "expiresAt": null
   },
   "1607939690:command:rebel": {
     "addedBy": {
