@@ -53006,9 +53006,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-15T19:34:29.052Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-21T02:50:42.745Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-11-14T19:34:28.197Z"
   },
