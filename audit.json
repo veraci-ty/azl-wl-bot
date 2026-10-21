@@ -57572,9 +57572,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-21T17:18:13.474Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-21T18:19:47.966Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-21T18:18:12.565Z"
   },
