@@ -57115,5 +57115,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-20T04:48:15.838Z"
+  },
+  "469246586:mvp:nightRaiders": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T05:04:53.582Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
