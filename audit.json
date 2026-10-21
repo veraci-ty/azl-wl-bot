@@ -52490,9 +52490,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-13T20:34:06.138Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-21T05:16:30.600Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-12T20:34:05.089Z"
   },
