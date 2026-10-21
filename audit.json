@@ -57508,5 +57508,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4358080146:mvp:visionary": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T08:53:04.340Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
