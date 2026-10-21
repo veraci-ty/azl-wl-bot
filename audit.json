@@ -57484,5 +57484,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4358080146:mvp:gameover": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-21T08:52:51.639Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
