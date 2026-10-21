@@ -57628,5 +57628,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-22T19:33:37.568Z"
+  },
+  "3580594488:mvp:starboymvp": {
+    "addedBy": {
+      "discordId": "1460695938267091099",
+      "username": "cementalclwn"
+    },
+    "addedAt": "2026-10-21T20:23:54.994Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
