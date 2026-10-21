@@ -56890,15 +56890,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-20T13:12:15.541Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-20T16:15:55.999Z",
-    "active": false,
+    "addedAt": "2026-10-21T10:13:04.844Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-20T16:12:14.446Z"
+    "expiresAt": "2026-10-23T10:13:03.888Z"
   },
   "1436226044:ost:shidou": {
     "addedBy": {
