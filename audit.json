@@ -33376,15 +33376,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-09T01:00:41.874Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-12T00:33:14.306Z",
-    "active": false,
+    "addedAt": "2026-10-21T23:58:43.620Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-11-08T01:00:41.018Z"
+    "expiresAt": "2026-11-20T23:58:42.799Z"
   },
   "2327164670:ost:nelisagi": {
     "addedBy": {
