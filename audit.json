@@ -57010,5 +57010,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3251774546:command:f": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-21T02:50:55.221Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-20T02:50:54.371Z"
   }
 }
