@@ -57616,5 +57616,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "1115343036:style:cinder": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-21T19:33:38.490Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-22T19:33:37.568Z"
   }
 }
