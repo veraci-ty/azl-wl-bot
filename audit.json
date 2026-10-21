@@ -57184,5 +57184,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "187213468:mvp:ogurinmvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-21T07:02:32.173Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
