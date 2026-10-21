@@ -56906,9 +56906,12 @@
       "username": "v_agos"
     },
     "addedAt": "2026-10-20T20:46:52.538Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "removedAt": "2026-10-21T01:00:32.298Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
