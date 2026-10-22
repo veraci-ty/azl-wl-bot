@@ -23746,16 +23746,13 @@
   },
   "260526009:style:2011x": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
-    },
-    "addedAt": "2026-10-04T16:17:24.219Z",
-    "removedBy": {
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "removedAt": "2026-10-22T17:24:49.071Z",
-    "active": false,
+    "addedAt": "2026-10-22T17:43:49.235Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
