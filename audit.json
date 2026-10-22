@@ -57883,5 +57883,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1139386827:command:heat": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-22T03:52:51.948Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
