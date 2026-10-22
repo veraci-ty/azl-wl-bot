@@ -49999,13 +49999,10 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-07T22:49:27.162Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-10-21T07:32:34.965Z",
-    "active": false,
+    "addedAt": "2026-10-22T23:11:02.141Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
