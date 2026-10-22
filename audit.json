@@ -57955,5 +57955,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-11-21T04:28:38.445Z"
+  },
+  "389160571:command:heat": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-22T04:29:23.622Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
