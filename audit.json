@@ -58108,5 +58108,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3803880118:ost:barou": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-10-22T16:32:37.570Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "ost",
+    "expiresAt": null
   }
 }
