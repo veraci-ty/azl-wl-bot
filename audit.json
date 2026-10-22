@@ -57847,5 +57847,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "220619887:emote:cryforme": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-22T03:35:12.061Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
