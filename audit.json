@@ -57703,5 +57703,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-20T23:59:04.716Z"
+  },
+  "7362032776:emote:kenkeshisingles": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-22T01:10:39.338Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
