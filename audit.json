@@ -58069,5 +58069,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "7715223354:emote:splits": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-22T13:21:40.323Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
