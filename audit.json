@@ -52876,15 +52876,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-10-13T20:15:29.417Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-18T20:16:43.363Z",
-    "active": false,
+    "addedAt": "2026-10-23T12:25:38.801Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-18T20:15:27.531Z"
+    "expiresAt": "2026-11-06T12:25:37.831Z"
   },
   "516950297:command:ignoreflowcooldown": {
     "addedBy": {
