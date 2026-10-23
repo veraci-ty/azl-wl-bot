@@ -16400,9 +16400,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-09-30T18:47:20.068Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:57:46.031Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-10-30T18:47:19.289Z"
   },
