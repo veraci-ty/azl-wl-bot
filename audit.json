@@ -58558,5 +58558,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1598411034:mvp:memoryshard": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-23T10:05:05.537Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
