@@ -10034,9 +10034,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-04T01:25:11.300Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T11:02:22.064Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-03T01:25:10.595Z"
   },
