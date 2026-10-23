@@ -57302,9 +57302,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-20T12:00:42.201Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-23T12:04:49.183Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-23T12:00:40.942Z"
   },
