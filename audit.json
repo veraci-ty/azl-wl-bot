@@ -28700,9 +28700,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-21T02:50:20.705Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:53:55.098Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-20T02:50:19.898Z"
   },
