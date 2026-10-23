@@ -49576,15 +49576,12 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-10-06T17:05:46.748Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-07T17:06:35.451Z",
-    "active": false,
+    "addedAt": "2026-10-23T11:26:00.022Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-10-07T17:05:45.813Z"
+    "expiresAt": null
   },
   "1508180357:emote:elpadia": {
     "addedBy": {
