@@ -12188,9 +12188,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-07-28T13:24:33.962Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T11:00:06.956Z",
+    "active": false,
     "kind": "command",
     "expiresAt": null
   },
