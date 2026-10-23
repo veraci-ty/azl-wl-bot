@@ -58462,5 +58462,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-25T04:51:26.316Z"
+  },
+  "11220041025:style:akashi": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-23T05:07:39.270Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-26T05:07:38.410Z"
   }
 }
