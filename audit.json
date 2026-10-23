@@ -58423,5 +58423,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "261832676:emote:dancealone": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-23T04:32:42.494Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
