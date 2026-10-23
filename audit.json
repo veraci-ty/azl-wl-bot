@@ -50744,9 +50744,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-09T18:26:26.365Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:43:50.154Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-11-08T18:26:25.371Z"
   },
@@ -50756,9 +50759,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-09T18:26:39.163Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:43:50.154Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-08T18:26:38.322Z"
   },
@@ -50768,9 +50774,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-09T18:26:45.759Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:43:50.154Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-08T18:26:44.954Z"
   },
@@ -50780,9 +50789,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-09T18:32:13.747Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:43:50.154Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-08T18:32:12.796Z"
   },
@@ -52685,9 +52697,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-13T19:05:56.138Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-23T10:43:50.154Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-12T19:05:55.199Z"
   },
