@@ -31381,16 +31381,13 @@
   },
   "2327164670:style:exe": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-09-03T15:19:15.878Z",
-    "removedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "removedAt": "2026-10-16T18:15:29.094Z",
-    "active": false,
+    "addedAt": "2026-10-23T05:07:54.703Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
