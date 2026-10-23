@@ -58957,5 +58957,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2375049502:style:cinder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-23T13:52:52.730Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-30T13:52:51.813Z"
   }
 }
