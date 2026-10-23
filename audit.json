@@ -58546,5 +58546,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2762900290:mvp:LucyMvp": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-23T09:56:52.976Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
