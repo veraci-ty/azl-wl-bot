@@ -58933,5 +58933,17 @@
     "active": true,
     "kind": "goaleffect",
     "expiresAt": null
+  },
+  "1545957568:emote:sparxie": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-23T11:52:35.251Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
