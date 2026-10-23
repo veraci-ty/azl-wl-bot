@@ -59041,5 +59041,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "2327164670:mvp:rulerofmyheart": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-23T20:39:21.375Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
