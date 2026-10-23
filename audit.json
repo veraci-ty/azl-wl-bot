@@ -58534,5 +58534,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2762900290:mvp:nightfallsMVP": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-23T09:56:34.229Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
