@@ -58969,5 +58969,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": "2026-10-30T13:52:51.813Z"
+  },
+  "1027715791:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-23T13:55:49.011Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
