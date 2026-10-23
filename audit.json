@@ -58996,5 +58996,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "413662006:style:cinder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-23T16:45:50.938Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-24T16:45:49.981Z"
   }
 }
