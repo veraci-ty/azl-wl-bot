@@ -50870,9 +50870,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-09T16:37:43.530Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-23T16:39:49.401Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-23T16:37:42.725Z"
   },
