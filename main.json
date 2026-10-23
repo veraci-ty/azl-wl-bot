@@ -2495,6 +2495,31 @@
       ],
       "specialer": true
     },
+    "333005705": {
+      "tagText": "Arbiter of the Head",
+      "tagColor": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0.5,
+          115,
+          120,
+          133
+        ],
+        [
+          1,
+          255,
+          225,
+          65
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "387041454": {
       "tagText": "Moonless Sky",
       "tagColor": [
