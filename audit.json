@@ -50920,15 +50920,12 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-10-09T18:26:26.365Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-23T10:43:50.154Z",
-    "active": false,
+    "addedAt": "2026-10-23T11:30:04.505Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
-    "expiresAt": "2026-11-08T18:26:25.371Z"
+    "expiresAt": null
   },
   "516950297:command:overtimetest": {
     "addedBy": {
