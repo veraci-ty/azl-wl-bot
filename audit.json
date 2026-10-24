@@ -59300,9 +59300,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-24T10:27:21.442Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "removedAt": "2026-10-24T13:42:41.362Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
