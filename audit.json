@@ -56597,9 +56597,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-19T03:58:32.547Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "removedAt": "2026-10-24T19:45:56.555Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
