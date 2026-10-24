@@ -3673,16 +3673,13 @@
   },
   "4004553580:style:KJ": {
     "addedBy": {
-      "discordId": "449426755179249685",
-      "username": "pt.n"
-    },
-    "addedAt": "2026-09-30T01:28:27.336Z",
-    "removedBy": {
       "discordId": "790719344408920145",
       "username": "__jimmy_."
     },
-    "removedAt": "2026-10-09T06:41:44.966Z",
-    "active": false,
+    "addedAt": "2026-10-24T17:04:22.545Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
