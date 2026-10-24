@@ -55714,16 +55714,13 @@
   },
   "3730120158:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-10-18T21:19:02.752Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-24T09:54:34.045Z",
-    "active": false,
+    "addedAt": "2026-10-24T09:59:17.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -55996,16 +55993,13 @@
   },
   "261832676:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "1064147628398477312",
-      "username": "nightsdev"
-    },
-    "addedAt": "2026-10-18T22:03:04.891Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-24T09:54:34.045Z",
-    "active": false,
+    "addedAt": "2026-10-24T09:59:17.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -56104,13 +56098,10 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-18T22:57:02.414Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-24T09:54:34.045Z",
-    "active": false,
+    "addedAt": "2026-10-24T09:59:17.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -56659,13 +56650,10 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-19T04:04:27.539Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-24T09:54:34.045Z",
-    "active": false,
+    "addedAt": "2026-10-24T09:59:17.447Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
