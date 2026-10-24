@@ -59296,16 +59296,13 @@
   },
   "4264776952:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "addedAt": "2026-10-24T10:27:21.442Z",
-    "removedBy": {
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "removedAt": "2026-10-24T13:42:41.362Z",
-    "active": false,
+    "addedAt": "2026-10-24T13:51:14.613Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
