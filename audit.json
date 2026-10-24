@@ -35260,13 +35260,10 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-20T18:00:29.001Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-22T04:12:17.283Z",
-    "active": false,
+    "addedAt": "2026-10-24T10:37:24.496Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
     "expiresAt": null
   },
