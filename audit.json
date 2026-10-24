@@ -59134,5 +59134,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "225469691:style:akashi": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-24T02:56:56.979Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": null
   }
 }
