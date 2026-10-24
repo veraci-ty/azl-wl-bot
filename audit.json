@@ -59336,9 +59336,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-24T14:07:40.926Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-10-24T14:58:59.700Z",
+    "active": false,
     "kind": "command",
     "expiresAt": "2026-11-07T14:07:39.221Z"
   },
