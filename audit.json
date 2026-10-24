@@ -59539,5 +59539,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2375049502:emote:elpadia": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-24T21:40:33.425Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
