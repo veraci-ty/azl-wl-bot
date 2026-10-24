@@ -59563,5 +59563,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3730120158:emote:flayo": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-24T21:47:30.066Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
