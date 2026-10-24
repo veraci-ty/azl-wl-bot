@@ -59114,9 +59114,12 @@
       "username": "nightsdev"
     },
     "addedAt": "2026-10-23T20:38:38.262Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "removedAt": "2026-10-24T16:55:46.036Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
