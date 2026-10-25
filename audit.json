@@ -59861,9 +59861,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-25T04:34:50.831Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "removedAt": "2026-10-25T05:28:40.131Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": "2026-10-26T04:34:49.991Z"
   }
