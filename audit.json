@@ -59902,5 +59902,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "2375049502:emote:disobedience": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-25T10:02:34.677Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
