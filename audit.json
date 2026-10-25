@@ -60100,5 +60100,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3730120158:command:sillysong": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T18:06:44.709Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
