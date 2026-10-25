@@ -60187,5 +60187,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "520623444:emote:hellagain": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T21:57:43.195Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
