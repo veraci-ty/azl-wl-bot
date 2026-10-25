@@ -60418,5 +60418,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "619213444:emote:TheWorldRevolving": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T22:58:06.245Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
