@@ -56683,16 +56683,13 @@
   },
   "2327164670:emote:cryforme": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
-    },
-    "addedAt": "2026-10-19T04:14:23.081Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-20T06:32:27.184Z",
-    "active": false,
+    "addedAt": "2026-10-25T10:24:41.444Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
