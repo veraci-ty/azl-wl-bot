@@ -56644,16 +56644,13 @@
   },
   "5639442027:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "613743283876659200",
+      "username": "sorratana4"
     },
-    "addedAt": "2026-10-24T09:59:17.447Z",
-    "removedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "removedAt": "2026-10-24T13:42:08.508Z",
-    "active": false,
+    "addedAt": "2026-10-25T14:50:45.667Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
