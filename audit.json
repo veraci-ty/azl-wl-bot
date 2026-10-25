@@ -59866,5 +59866,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "96478357:command:rinnoplay": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T07:05:06.943Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-10-26T07:05:06.049Z"
   }
 }
