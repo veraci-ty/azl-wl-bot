@@ -60274,5 +60274,17 @@
     "active": false,
     "kind": "command",
     "expiresAt": null
+  },
+  "261832676:emote:seanopry": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T22:33:57.374Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
