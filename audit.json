@@ -59914,5 +59914,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "9823387274:emote:seanopry": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-25T10:21:28.124Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
