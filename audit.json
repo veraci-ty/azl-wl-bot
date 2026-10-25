@@ -60112,5 +60112,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2573434151:emote:larpwalking": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-25T18:09:06.965Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
