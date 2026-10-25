@@ -47017,13 +47017,10 @@
       "discordId": "1066528844972048465",
       "username": "shotokku."
     },
-    "addedAt": "2026-10-02T13:40:40.791Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-10-25T22:14:11.640Z",
-    "active": false,
+    "addedAt": "2026-10-25T22:24:13.767Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
     "expiresAt": null
   },
