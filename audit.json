@@ -60043,5 +60043,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "11220041025:style:Goku": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T10:57:33.494Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-28T10:57:31.983Z"
   }
 }
