@@ -60386,9 +60386,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-25T22:56:11.188Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "removedAt": "2026-10-25T22:56:51.239Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
