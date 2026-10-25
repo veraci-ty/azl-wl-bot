@@ -60076,5 +60076,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-11-08T15:17:32.074Z"
+  },
+  "11875956580:command:heat": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T16:37:21.406Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
