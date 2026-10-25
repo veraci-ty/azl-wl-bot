@@ -59926,5 +59926,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2327164670:mvp:gokuxzamasu": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-25T10:23:43.189Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
