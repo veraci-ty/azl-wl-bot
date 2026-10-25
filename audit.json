@@ -59854,17 +59854,14 @@
   },
   "3580594488:emote:eyesclosed": {
     "addedBy": {
-      "discordId": "582585049942065164",
-      "username": "diisciples"
-    },
-    "addedAt": "2026-10-25T04:14:05.101Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-25T04:34:44.456Z",
-    "active": false,
+    "addedAt": "2026-10-25T04:34:50.831Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
-    "expiresAt": null
+    "expiresAt": "2026-10-26T04:34:49.991Z"
   }
 }
