@@ -55759,13 +55759,10 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-24T09:59:17.447Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-26T03:33:34.613Z",
-    "active": false,
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -56062,13 +56059,10 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-10-24T09:59:17.447Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-26T03:33:34.613Z",
-    "active": false,
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -56725,16 +56719,13 @@
   },
   "5639442027:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "613743283876659200",
-      "username": "sorratana4"
-    },
-    "addedAt": "2026-10-25T14:50:45.667Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-26T03:33:34.613Z",
-    "active": false,
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -59413,16 +59404,13 @@
   },
   "4264776952:emote:ohmyboy": {
     "addedBy": {
-      "discordId": "1130459482237964381",
-      "username": "vuhracity"
-    },
-    "addedAt": "2026-10-24T13:51:14.613Z",
-    "removedBy": {
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "removedAt": "2026-10-26T03:33:34.613Z",
-    "active": false,
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
@@ -61061,6 +61049,78 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-26T11:17:27.448Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "5865099115:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "2375049502:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "168030564:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "2586607364:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "8205193641:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
+  },
+  "469246586:emote:ohmyboy": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:18:19.477Z",
     "removedBy": null,
     "removedAt": null,
     "active": true,
