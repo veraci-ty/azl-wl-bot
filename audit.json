@@ -61180,5 +61180,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3259651002:emote:eyesclosed": {
+    "addedBy": {
+      "discordId": "582585049942065164",
+      "username": "diisciples"
+    },
+    "addedAt": "2026-10-26T17:46:48.747Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": "2026-10-27T17:46:47.663Z"
   }
 }
