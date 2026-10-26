@@ -33463,16 +33463,13 @@
   },
   "520623444:style:2011x": {
     "addedBy": {
-      "discordId": "790719344408920145",
-      "username": "__jimmy_."
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
     },
-    "addedAt": "2026-10-01T13:12:38.232Z",
-    "removedBy": {
-      "discordId": "1066528844972048465",
-      "username": "shotokku."
-    },
-    "removedAt": "2026-10-25T22:21:27.135Z",
-    "active": false,
+    "addedAt": "2026-10-26T17:19:51.187Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "style",
     "expiresAt": null
   },
