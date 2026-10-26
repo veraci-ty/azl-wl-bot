@@ -54302,9 +54302,12 @@
       "username": ".cassiee."
     },
     "addedAt": "2026-10-26T01:04:29.330Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-26T01:05:15.316Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
