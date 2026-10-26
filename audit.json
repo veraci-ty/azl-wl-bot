@@ -61162,5 +61162,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "264199171:emote:hellagain": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-26T15:58:06.632Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
