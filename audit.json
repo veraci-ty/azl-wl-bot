@@ -50542,13 +50542,10 @@
       "discordId": "1130459482237964381",
       "username": "vuhracity"
     },
-    "addedAt": "2026-10-08T22:08:58.391Z",
-    "removedBy": {
-      "discordId": "1520107404606570665",
-      "username": "yuriestera"
-    },
-    "removedAt": "2026-10-24T21:46:48.518Z",
-    "active": false,
+    "addedAt": "2026-10-26T00:43:46.226Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "emote",
     "expiresAt": null
   },
