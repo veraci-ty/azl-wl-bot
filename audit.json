@@ -60676,5 +60676,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "998091053:command:marbleball": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-26T02:19:02.852Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
