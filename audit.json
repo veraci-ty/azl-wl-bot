@@ -61174,5 +61174,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3730120158:emote:timesticking": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-26T16:33:33.300Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
