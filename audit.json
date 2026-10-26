@@ -24544,18 +24544,15 @@
   },
   "929501840:command:overtimetest": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-09-29T03:54:06.014Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-10-23T11:06:21.765Z",
-    "active": false,
+    "addedAt": "2026-10-26T03:19:46.279Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-29T03:54:05.361Z"
+    "expiresAt": null
   },
   "9248296813:style:sonic": {
     "addedBy": {
