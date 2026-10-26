@@ -61315,5 +61315,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "927851599:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "635504036321165322",
+      "username": "v_agos"
+    },
+    "addedAt": "2026-10-26T23:11:26.624Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
