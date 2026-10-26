@@ -61276,5 +61276,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "645900651:emote:brightestheart": {
+    "addedBy": {
+      "discordId": "1064147628398477312",
+      "username": "nightsdev"
+    },
+    "addedAt": "2026-10-26T21:30:19.390Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
