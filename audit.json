@@ -60787,5 +60787,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "152131626:mvp:rulerofmyheart": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-26T03:41:05.898Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
