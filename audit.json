@@ -22639,15 +22639,12 @@
       "discordId": "613743283876659200",
       "username": "sorratana4"
     },
-    "addedAt": "2026-08-26T18:52:57.439Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-08-29T18:57:15.233Z",
-    "active": false,
+    "addedAt": "2026-10-26T15:51:52.030Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-08-29T18:52:57.063Z"
+    "expiresAt": null
   },
   "998091053:style:sonic": {
     "addedBy": {
