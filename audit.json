@@ -60089,9 +60089,12 @@
       "username": "remmmyyy"
     },
     "addedAt": "2026-10-25T10:27:56.440Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "removedAt": "2026-10-26T04:10:09.911Z",
+    "active": false,
     "kind": "mvp",
     "expiresAt": null
   },
