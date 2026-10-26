@@ -61105,5 +61105,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "520623444:command:skillbuilder": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-26T11:53:25.483Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": "2026-11-02T11:53:24.612Z"
   }
 }
