@@ -61222,5 +61222,17 @@
     "active": true,
     "kind": "style",
     "expiresAt": null
+  },
+  "103145487:command:gubby": {
+    "addedBy": {
+      "discordId": "526367718824476692",
+      "username": "toast.s"
+    },
+    "addedAt": "2026-10-26T20:08:24.512Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "command",
+    "expiresAt": null
   }
 }
