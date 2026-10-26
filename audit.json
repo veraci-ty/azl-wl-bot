@@ -60532,5 +60532,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": "2026-10-27T02:09:22.856Z"
+  },
+  "2812723362:emote:whatislove": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T02:15:11.330Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
