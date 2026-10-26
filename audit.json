@@ -60913,5 +60913,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "4264776952:emote:seanopry": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-26T06:05:38.140Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
