@@ -61252,5 +61252,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "264199171:style:cinder": {
+    "addedBy": {
+      "discordId": "798966560306757633",
+      "username": "geoality"
+    },
+    "addedAt": "2026-10-26T20:59:08.863Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "style",
+    "expiresAt": "2026-10-26T21:59:07.825Z"
   }
 }
