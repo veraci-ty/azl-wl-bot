@@ -61018,5 +61018,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1139386827:emote:mintemote": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-26T11:16:43.400Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
