@@ -50531,9 +50531,12 @@
       "username": "vuhracity"
     },
     "addedAt": "2026-10-26T00:43:46.226Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "removedAt": "2026-10-26T18:29:42.991Z",
+    "active": false,
     "kind": "emote",
     "expiresAt": null
   },
