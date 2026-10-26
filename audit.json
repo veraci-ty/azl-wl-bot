@@ -60703,5 +60703,17 @@
     "active": true,
     "kind": "commentator",
     "expiresAt": null
+  },
+  "998091053:emote:larpwalking": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-26T02:28:00.222Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
