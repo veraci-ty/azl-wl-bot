@@ -60799,5 +60799,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "152131626:mvp:gokuxzamasu": {
+    "addedBy": {
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
+    },
+    "addedAt": "2026-10-26T03:41:18.847Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
