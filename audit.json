@@ -45082,15 +45082,12 @@
       "discordId": "1087336094091186216",
       "username": ".cassiee."
     },
-    "addedAt": "2026-09-29T05:06:03.053Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-02T05:09:13.757Z",
-    "active": false,
+    "addedAt": "2026-10-27T00:45:27.010Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-10-02T05:06:02.238Z"
+    "expiresAt": null
   },
   "1549164509:style:gremmy": {
     "addedBy": {
