@@ -61507,5 +61507,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": "2026-12-26T07:02:49.645Z"
+  },
+  "10444140562:mvp:rulerofmyheart": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-27T08:17:53.877Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
