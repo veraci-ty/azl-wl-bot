@@ -61256,9 +61256,12 @@
       "username": "geoality"
     },
     "addedAt": "2026-10-26T22:01:11.102Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "system",
+      "username": "system"
+    },
+    "removedAt": "2026-10-27T18:05:37.719Z",
+    "active": false,
     "kind": "style",
     "expiresAt": "2026-10-27T18:01:10.073Z"
   },
