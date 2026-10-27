@@ -17896,18 +17896,15 @@
   },
   "4969805185:command:skillbuilder": {
     "addedBy": {
-      "discordId": "378737940312096769",
-      "username": "remmmyyy"
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-08-14T16:10:32.361Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-09-08T16:10:41.887Z",
-    "active": false,
+    "addedAt": "2026-10-27T08:47:17.759Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-09-08T16:10:31.936Z"
+    "expiresAt": null
   },
   "1684305522:command:rinnoplay": {
     "addedBy": {
