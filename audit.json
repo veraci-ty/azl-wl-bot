@@ -61933,5 +61933,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "3730120158:emote:ribbiit": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-27T16:31:32.946Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
