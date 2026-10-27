@@ -61483,5 +61483,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "2907356707:mvp:testerMVP": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-27T07:02:18.181Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": "2027-01-25T07:02:17.292Z"
   }
 }
