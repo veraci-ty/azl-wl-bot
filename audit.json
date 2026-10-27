@@ -61462,5 +61462,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "545724205:mvp:fatchudbnuuy": {
+    "addedBy": {
+      "discordId": "1127997764362579979",
+      "username": "freddy_yeah"
+    },
+    "addedAt": "2026-10-27T04:36:09.611Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
