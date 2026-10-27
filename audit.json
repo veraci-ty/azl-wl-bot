@@ -27313,15 +27313,12 @@
       "discordId": "378737940312096769",
       "username": "remmmyyy"
     },
-    "addedAt": "2026-09-22T13:49:38.336Z",
-    "removedBy": {
-      "discordId": "system",
-      "username": "system"
-    },
-    "removedAt": "2026-10-13T13:51:33.598Z",
-    "active": false,
+    "addedAt": "2026-10-27T13:49:05.876Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "mvp",
-    "expiresAt": "2026-10-13T13:49:37.809Z"
+    "expiresAt": null
   },
   "4678987333:style:2011x": {
     "addedBy": {
