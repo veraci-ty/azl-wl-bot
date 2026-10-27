@@ -18502,18 +18502,15 @@
   },
   "113454594:command:rinnoplay": {
     "addedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
+      "discordId": "790719344408920145",
+      "username": "__jimmy_."
     },
-    "addedAt": "2026-09-13T14:56:59.080Z",
-    "removedBy": {
-      "discordId": "1087336094091186216",
-      "username": ".cassiee."
-    },
-    "removedAt": "2026-09-16T10:47:35.621Z",
-    "active": false,
+    "addedAt": "2026-10-27T06:18:51.339Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
     "kind": "command",
-    "expiresAt": "2026-10-13T14:56:58.484Z"
+    "expiresAt": "2026-10-27T06:19:50.107Z"
   },
   "1782789762:style:exe": {
     "addedBy": {
