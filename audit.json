@@ -61621,5 +61621,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3556383744:goaleffect:yurier": {
+    "addedBy": {
+      "discordId": "1520107404606570665",
+      "username": "yuriestera"
+    },
+    "addedAt": "2026-10-27T11:44:53.765Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "goaleffect",
+    "expiresAt": null
   }
 }
