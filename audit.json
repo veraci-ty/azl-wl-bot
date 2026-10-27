@@ -61705,5 +61705,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3009900777:emote:kenkeshisingles": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-27T12:15:10.380Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
