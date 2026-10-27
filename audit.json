@@ -16610,9 +16610,12 @@
       "username": "konisdumb"
     },
     "addedAt": "2026-08-11T18:18:50.973Z",
-    "removedBy": null,
-    "removedAt": null,
-    "active": true,
+    "removedBy": {
+      "discordId": "666762995258359808",
+      "username": "konisdumb"
+    },
+    "removedAt": "2026-10-27T04:30:20.964Z",
+    "active": false,
     "kind": "style",
     "expiresAt": null
   },
