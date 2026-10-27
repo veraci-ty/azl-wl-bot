@@ -61423,5 +61423,17 @@
     "active": true,
     "kind": "emote",
     "expiresAt": null
+  },
+  "1431630479:emote:brainrotteto": {
+    "addedBy": {
+      "discordId": "378737940312096769",
+      "username": "remmmyyy"
+    },
+    "addedAt": "2026-10-27T02:59:28.264Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
