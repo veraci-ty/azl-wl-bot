@@ -61963,5 +61963,17 @@
     "active": true,
     "kind": "command",
     "expiresAt": null
+  },
+  "2336850219:mvp:fatchudbnuuy": {
+    "addedBy": {
+      "discordId": "1130459482237964381",
+      "username": "vuhracity"
+    },
+    "addedAt": "2026-10-27T20:50:51.426Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
