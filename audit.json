@@ -61681,5 +61681,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "3025117362:mvp:jimmymvp1": {
+    "addedBy": {
+      "discordId": "691222236375547955",
+      "username": "viciousry"
+    },
+    "addedAt": "2026-10-27T11:51:35.808Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "mvp",
+    "expiresAt": null
   }
 }
