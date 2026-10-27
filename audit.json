@@ -61897,5 +61897,17 @@
     "active": true,
     "kind": "mvp",
     "expiresAt": null
+  },
+  "1027715791:emote:ribbiit": {
+    "addedBy": {
+      "discordId": "1087336094091186216",
+      "username": ".cassiee."
+    },
+    "addedAt": "2026-10-27T15:02:23.335Z",
+    "removedBy": null,
+    "removedAt": null,
+    "active": true,
+    "kind": "emote",
+    "expiresAt": null
   }
 }
