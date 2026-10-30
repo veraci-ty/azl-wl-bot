@@ -3579,6 +3579,30 @@
       "specialer": true,
       "nameaddition": true
     },
+    "2540835076": {
+      "tagText": "The God of Fear and Hunger,",
+      "tagColor": [
+        [
+          0,
+          145,
+          112,
+          55
+        ],
+        [
+          0.5,
+          237,
+          202,
+          97
+        ],
+        [
+          1,
+          145,
+          112,
+          55
+        ]
+      ],
+      "specialer": true
+    },
     "2573434151": {
       "tagText": ", The Quincy King",
       "tagColor": [
