@@ -2523,6 +2523,25 @@
     "mylifem": []
   },
   "titles": {
+    "38862595": {
+      "tagText": "<font face=\"Gotham\"> Mish Mash</font>",
+      "tagColor": [
+        [
+          0,
+          0,
+          255,
+          255
+        ],
+        [
+          1,
+          0,
+          255,
+          255
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "91452721": {
       "tagText": "Demon King of Salvation",
       "tagColor": [
