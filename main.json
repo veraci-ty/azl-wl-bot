@@ -3666,6 +3666,25 @@
       ],
       "specialer": true
     },
+    "1567272813": {
+      "tagText": ", Ruthless Pirate",
+      "tagColor": [
+        [
+          0,
+          152,
+          0,
+          0
+        ],
+        [
+          1,
+          201,
+          11,
+          11
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1735123767": {
       "tagText": ", Bludgeoning Angel Dokuro-chan",
       "tagColor": [
