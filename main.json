@@ -3714,6 +3714,31 @@
       ],
       "specialer": true
     },
+    "1549164509": {
+      "tagText": ", Herald of Ardor",
+      "tagColor": [
+        [
+          0,
+          121,
+          15,
+          250
+        ],
+        [
+          0.5,
+          173,
+          89,
+          222
+        ],
+        [
+          1,
+          155,
+          52,
+          199
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "1567272813": {
       "tagText": ", Ruthless Pirate",
       "tagColor": [
