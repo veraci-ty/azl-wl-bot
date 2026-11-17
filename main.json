@@ -4068,22 +4068,28 @@
       "specialer": true
     },
     "2573434151": {
-      "tagText": "i am so ugly ughhh >~<,",
+      "tagText": "Mixxed's Husband,",
       "tagColor": [
         [
           0,
-          0,
+          139,
           0,
           0
         ],
         [
+          0.5,
+          128,
+          0,
+          128
+        ],
+        [
           1,
-          0,
-          0,
-          0
+          255,
+          107,
+          107
         ]
       ],
-      "specialer": true
+      "specialer": false
     },
     "2608219493": {
       "tagText": "The Ultimate Gamer",
