@@ -4311,22 +4311,23 @@
       "nameaddition": true
     },
     "5077795305": {
-      "tagText": "Scripter",
+      "tagText": "<font face=\"Arcade\">, Vanguard of Armageddon</font>",
       "tagColor": [
         [
           0,
-          0,
-          0,
-          0
+          72,
+          61,
+          139
         ],
         [
           1,
-          75,
           0,
-          130
+          0,
+          0
         ]
       ],
-      "specialer": false
+      "specialer": true,
+      "nameaddition": true
     },
     "9248296813": {
       "tagText": ", ꧁⎝ 𓆩༺ The Lady Avalonith ༻𓆪 ⎠꧂",
