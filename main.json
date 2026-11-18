@@ -2725,6 +2725,25 @@
       ],
       "specialer": true
     },
+    "101957762": {
+      "tagText": "The Brick-Fiend",
+      "tagColor": [
+        [
+          0,
+          227,
+          66,
+          52
+        ],
+        [
+          1,
+          227,
+          66,
+          52
+        ]
+      ],
+      "specialer": true,
+      "nameaddition": true
+    },
     "113454594": {
       "tagText": ", Espada #2",
       "tagColor": [
