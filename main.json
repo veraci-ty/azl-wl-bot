@@ -3269,6 +3269,30 @@
       ],
       "specialer": false
     },
+    "609340941": {
+      "tagText": "Ghost of the JAA,",
+      "tagColor": [
+        [
+          0,
+          58,
+          57,
+          61
+        ],
+        [
+          0.5,
+          128,
+          128,
+          128
+        ],
+        [
+          1,
+          169,
+          169,
+          169
+        ]
+      ],
+      "specialer": true
+    },
     "619213444": {
       "tagText": ", The Eminence In The Shadow",
       "tagColor": [
